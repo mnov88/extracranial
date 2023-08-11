@@ -3620,7 +3620,7 @@ export const backlinks = {
         "Mapping keys to set different input languages on macOS": "... set Mac's input method to [[한국어|Korean]].",
         "Project Heimdall": "... newsletter content. So in a [[한국어|Korean]] interface, you can go to ...",
         "Ridi": "> Ridi Corporation ([[한국어|Korean]]: 리디[[Stock|주식]]회사) is a content platform ...",
-        "Seaflooding": "[[한국어]]로는 '큰물' '물마' 등의 단어가 있다. ...",
+        "Seaflooding": "[[한국어]]로는 '큰물' '물마' 등의 [[Vocab|단어]]가 있다. ...",
         "Search AI와 인터넷의 한국어": "나는 [[한국어]] 자료가 인터넷에 부족한 탓이라고 생각하지 ...",
         "Setting different fonts by language in CSS": "`U+AC00-D7AF`is the Unicode range of [[한국어|Korean]] glyphs.",
         "Shortcuts": "... Lock key or 한/영 키 ([[한국어|Korean]]-English Key). That is, because, I ...",
@@ -4927,6 +4927,9 @@ export const backlinks = {
         "How to Build Software like an SRE": "... time to disable a problematic [[Feature Flag]]",
         "Inspiring Open Source Projects": "- Unleash/unleashh ([[Feature Flag]]) Unleash is the open source ..."
     },
+    "Penultimate": {
+        "2023-08-10": "- [[Penultimate]]"
+    },
     "JavaScript": {
         "2022-06-12": "... a technique in which client-side [[JavaScript]] converts a static [[HTML]] web ...",
         "2022-06-20": "... in an API environment where [[JavaScript]] can't be rendered or a ...",
@@ -5795,10 +5798,18 @@ export const backlinks = {
         "Cantankerous": "[[vocab]]",
         "Flamboyant": "- [[vocab]]. Flamboyant is an adjective to ...",
         "Frivolous": "[[vocab]]",
+        "In search of my domain": "- The [[vocab]] chosh was registered as a ...",
         "Mundivagant": "[[Vocab]]. Wandering around the world.",
         "Nigh": "... nigh! > nigh - Wiktionary [[Vocab]]",
+        "Penultimate": "Penultimate means second from last. [[Vocab]]",
         "Quarrelsome": "[[vocab]]. Quarrelsome is an adjective that ...",
         "Sapiophile": "[[Vocab]]. Those who love smart people.",
+        "Seaflooding": "한국어로는 '큰물' '물마' 등의 [[Vocab|단어]]가 있다. 하지만 개부심이라는 Vocab|단어가 가장 ...",
+        "Swift String 조작은 왜 그 모양인가": "... 서기소 묶음(Extended grapheme clusters)\"이 있는 [[Vocab|단어]]가 포함된다. Integer를 사용하면 각 문자열의 ...",
+        "強力反權": "... 기간 나의 지향 기조를 정의하는 [[Vocab|단어]]를 찾아왔다.",
+        "도메인 찾아 삼만리": "- chosh라는 [[Vocab|단어]]는 Urban Dictionary에 부정적인 의미로 등록되어 ...",
+        "배달의민족 FE 개발자가 일하는 법 발표": "... 10년간 버드 워드 (업계에서 회자되는 [[Vocab|단어들]])로 애자일, 워터폴 등을 들어보았을 것이다. ...",
+        "이무기 기업, 청룡 기업": "Unicorn|유니콘 기업이라는 [[Vocab|단어]]는 마치 성공이 정해진 양 너무 ...",
         "한자": "... Hanja can help master enough [[Vocab|vocabulary]] to become fluent in 한국어|Korean."
     },
     "Classic Blogs": {
@@ -9034,7 +9045,7 @@ export const backlinks = {
         "Imoogi and Dragon Company": "The word [[Unicorn]] Company gives the company too ...",
         "Ridi": "Ridi is a 대한민국|Korean [[Unicorn]] specializing in [[eBook]] [[distribution]], online ...",
         "Toss": "- Financial Technology|FinTech [[Unicorn]] of [[대한민국|Korea]].",
-        "이무기 기업, 청룡 기업": "[[Unicorn|유니콘]] 기업이라는 단어는 마치 성공이 정해진 ..."
+        "이무기 기업, 청룡 기업": "[[Unicorn|유니콘]] 기업이라는 [[Vocab|단어]]는 마치 성공이 정해진 ..."
     },
     "Reddit Place for Korea": {
         "2023-07-21": "- [[Reddit Place for Korea]]"
