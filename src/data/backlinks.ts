@@ -1123,6 +1123,9 @@ export const backlinks = {
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "또한 이 글에서 [[IP]] 주소와 디바이스 고유 주소 등은 ...",
         "새로운 부동산은 지적 재산이다": "지적 재산([[IP]])은 장기간에 걸쳐 [[Economy|경제]]적 이익을 창출할 ..."
     },
+    "Hinge Fund": {
+        "2023-08-11": "- [[Hinge Fund]]"
+    },
     "Metaphor": {
         "Meta": "- [[Metaphor]]",
         "Spirits do not Inherit": "... survival that without individuality, the [[metaphor]] of me is as good ...",
@@ -4624,6 +4627,7 @@ export const backlinks = {
     },
     "Put Option": {
         "Black-Scholes Model": "whereas for a European [[put option]] $P$, it is given as:",
+        "Call Option": "Opposite of [[Put Option]]",
         "Finance": "- [[Put Option]]"
     },
     "Plateau of Latent Potential": {
@@ -4826,7 +4830,7 @@ export const backlinks = {
         "Person A3BA1A": "Some customers require [[on-premise]] hardware, requiring us to adapt ..."
     },
     "Updating Listmonk": {
-        "2023-08-11": "[[Updating Listmonk]]"
+        "2023-08-11": "- [[Updating Listmonk]]"
     },
     "Partition Problem": {
         "2023-01-23": "- [[Partition Problem]]"
@@ -9287,7 +9291,9 @@ export const backlinks = {
     },
     "Call Option": {
         "Black-Scholes Model": "... Black-Scholes formula for a European [[call option]] $C$ (an option that can ...",
-        "Finance": "- [[Call Option]]"
+        "Finance": "- [[Call Option]]",
+        "Hinge Fund": "... resort membership and put a [[call option]] on the resort stock. He ...",
+        "Put Option": "Opposite of [[Call Option]]"
     },
     "AI Garbage Data Flooding": {
         "Generative Intelligence": "- [[AI Garbage Data Flooding]]"
