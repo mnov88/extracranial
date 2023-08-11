@@ -4825,6 +4825,9 @@ export const backlinks = {
         "OpenAI가 새로운 테크 리바이스로 등극하다": "- 값비싼 [[On-Premise|온프레미스]] 엔지니어 감소 — 서버를 구성하고 ...",
         "Person A3BA1A": "Some customers require [[on-premise]] hardware, requiring us to adapt ..."
     },
+    "Updating Listmonk": {
+        "2023-08-11": "[[Updating Listmonk]]"
+    },
     "Partition Problem": {
         "2023-01-23": "- [[Partition Problem]]"
     },
@@ -10927,6 +10930,9 @@ export const backlinks = {
     "13B6F7.png": {
         "Sudden Rise of Bondee": "![[13B6F7.png]]",
         "혜성처럼 나타난 본디": "![[13B6F7.png]]"
+    },
+    "A14F68.png": {
+        "Updating Listmonk": "![[A14F68.png]]"
     },
     "2A7F74.png": {
         "Nudge": "![[2A7F74.png]]"
