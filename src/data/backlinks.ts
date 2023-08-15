@@ -6271,7 +6271,7 @@ export const backlinks = {
         "Spellbound": "- [[AMP Email]]"
     },
     "Monte Carlo and Las Vegas Algorithm": {
-        "2023-08-14": "- [[Monte Carlo and Las Vegas Algorithm]]",
+        "2023-08-15": "- [[Monte Carlo and Las Vegas Algorithm]]",
         "Las Vegas Algorithm": "[[Monte Carlo and Las Vegas Algorithm]]",
         "Monte Carlo Algorithm": "- [[Monte Carlo and Las Vegas Algorithm]]"
     },
@@ -6597,7 +6597,7 @@ export const backlinks = {
         "WWDC23": "- [[Reduced Motion|Paused Animated Images]] → Stop motions in animated ..."
     },
     "Exquisite Geometric Nature of the Universe": {
-        "2023-08-14": "- [[Exquisite Geometric Nature of the Universe]]",
+        "2023-08-15": "- [[Exquisite Geometric Nature of the Universe]]",
         "A Massive Mystery": "... different ways due to some [[Exquisite Geometric Nature of the Universe|exquisite geometric property of the universe]].",
         "Monte Carlo and Las Vegas Algorithm": "... different ways due to some [[Exquisite Geometric Nature of the Universe]]. But this is yet to ...",
         "관성 질량과 중력 질량": "... 알고 봤더니 하나의 물리적 값이었고, [[Exquisite Geometric Nature of the Universe|우주의 정교한 기하학적 성질]] 때문에 두 개의 다른 물리량으로 ..."
