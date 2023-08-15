@@ -1440,6 +1440,7 @@ export const backlinks = {
         "Geometric Distribution": "[[Probability]]",
         "Geometric Series": "In [[Probability]],",
         "Independence": "In [[Probability]],",
+        "Las Vegas Algorithm": "... incorrect results with a certain [[probability]], a Las Vegas algorithm ensures ...",
         "Limit of a Sequence": "In [[Probability]],",
         "Markovity": "In [[Probability]],",
         "Maximum Likelihood Estimation": "1. consistent (convergent in [[probability]])",
@@ -1495,6 +1496,10 @@ export const backlinks = {
     "Blurry JPEG": {
         "2023-02-10": "- [[Blurry JPEG]]",
         "ChatGPT는 흐릿한 이미지이지만 필요합니다": "[[Blurry JPEG]]은 SF계의 거장 [[Ted Chiang|테드 창]]이 ..."
+    },
+    "Las Vegas Algorithm": {
+        "2023-08-14": "- [[Las Vegas Algorithm]]",
+        "Monte Carlo and Las Vegas Algorithm": "... algorithms, but few know about [[Las Vegas Algorithm|Las Vegas algorithms]]. As the name keenly suggests, ..."
     },
     "민사고와 쇼비니즘": {
         "2023-02-17": "- [[민사고와 쇼비니즘]]"
@@ -1917,6 +1922,7 @@ export const backlinks = {
         "2022-07-01": "- [[P vs NP]]",
         "2022-11-19": "  - [[P vs NP]]",
         "Matt Rickard": "- [[P vs NP]]",
+        "Monte Carlo and Las Vegas Algorithm": "... accurately is prohibited by the [[P vs NP|P-NP]] nature of the universe (at ...",
         "On National Crises and the Intellectuals — Focused on GB and KR": "## Conclusion — [[P vs NP|P vs. NP]] Problems",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "## 결론 — [[P vs NP|P 대 NP]] 문제"
     },
@@ -2234,7 +2240,8 @@ export const backlinks = {
     },
     "QuickSelect": {
         "0215 Kth Largest Element in an Array": "- Use [[QuickSelect]]",
-        "Coding Tests": "- [[QuickSelect]] [[TODO]]"
+        "Coding Tests": "- [[QuickSelect]] [[TODO]]",
+        "Las Vegas Algorithm": "An illustrative example is the [[Quickselect]] algorithm, a cousin of the ..."
     },
     "Goongoom": {
         "2022-10-27": "### [[Goongoom]] is officially dead"
@@ -2447,6 +2454,7 @@ export const backlinks = {
         "2023-07-25": "- [[Alternatives to Hacker News]]"
     },
     "불가사리 재단": {
+        "2023-08-13": "- [[불가사리 재단]]",
         "Person 960D1D": "- [[불가사리 재단]]?"
     },
     "Structs and Unions": {
@@ -5317,7 +5325,8 @@ export const backlinks = {
         "Digital Signature": "- [[Digital Signature for Videos]]"
     },
     "Funeral Playlist": {
-        "2023-07-03": "- [[Funeral Playlist]]"
+        "2023-07-03": "- [[Funeral Playlist]]",
+        "2023-08-12": "- [[Funeral Playlist]]"
     },
     "중국인": {
         "2023-08-04": "- [[중국인]]",
@@ -5656,6 +5665,7 @@ export const backlinks = {
     "Computer Science": {
         "Are Computers Psychotropic Substances": "... bombs. Similarly, engineers attracted to [[computer science]] must not blindly support the ...",
         "Building a Second Brain": "... similar to Data Structures in [[Computer Science]].",
+        "Computational Theory": "... to a branch of theoretical [[computer science]] that aims to understand, classify, ...",
         "Digital Addiction": "... new horizon of knowledge that [[Computer Science]] brings.",
         "Threads": "In [[computer science]], a thread is a minor ..."
     },
@@ -5907,6 +5917,7 @@ export const backlinks = {
         "Cauchy": "... various fields, such as physics, [[finance]], and [[statistics]], as it is ...",
         "Differential Privacy": "... It is essential in healthcare, [[finance]], and government, where the privacy ...",
         "Finally, Apple Pay in Korea": "... and fixed the inconvenience. 대한민국|Korean [[finance]] market also used ancient architectures, ...",
+        "Monte Carlo Algorithm": "... Used in varied fields like [[finance]], physics, game theory, and [[graphics]], ...",
         "Nuclear Fission": "... directed the Economy, Environment, and [[Finance]] Ministries to develop a legal ...",
         "Supergravity Product": "... 아이디어는 보통 <br/>- 작은 아이디어 ([[Finance|금융]]수퍼앱x 친구에게 송금쉬운 앱o)",
         "Tech Now Pay Later": "... we learn a thing in [[Finance]].",
@@ -6259,6 +6270,11 @@ export const backlinks = {
         "Reimagining Emails": "- Interactive Mail|Emails using [[AMP Email]]. Example: [[Spellbound]]",
         "Spellbound": "- [[AMP Email]]"
     },
+    "Monte Carlo and Las Vegas Algorithm": {
+        "2023-08-14": "- [[Monte Carlo and Las Vegas Algorithm]]",
+        "Las Vegas Algorithm": "[[Monte Carlo and Las Vegas Algorithm]]",
+        "Monte Carlo Algorithm": "- [[Monte Carlo and Las Vegas Algorithm]]"
+    },
     "Apple Silicon": {
         "Apple": "- Creator of Swift, SwiftUI, [[Apple Silicon]], [[Apple Vision Pro]], [[Apple Pay]]"
     },
@@ -6519,6 +6535,7 @@ export const backlinks = {
         "Graphic Renderer": "... a digital image or raster [[graphics]] image file. The term \"rendering\" ...",
         "Graphics Engine Process": "The general process of a [[graphics]] [[engine]] follows:",
         "Imagining WebNPU API": "... that provides access to modern [[graphics]] processing unit ([[GPU]]) capabilities, such ...",
+        "Monte Carlo Algorithm": "... finance, physics, game theory, and [[graphics]], Monte Carlo can tackle intricate ...",
         "Neural Engine": "... GPU, but instead of accelerating [[graphics]], an NPU accelerates neural network ...",
         "PDF": "... including the text, fonts, vector [[graphics]], raster images and other information ...",
         "PNG": "> Portable Network [[Graphics]] is a raster-[[graphics]] file format ...",
@@ -6578,6 +6595,12 @@ export const backlinks = {
     "Reduced Motion": {
         "Shopify Analyzes CSS Frameworks": "... component for hover, active easily, [[reduced motion]], color scheme, etc.   ...",
         "WWDC23": "- [[Reduced Motion|Paused Animated Images]] → Stop motions in animated ..."
+    },
+    "Exquisite Geometric Nature of the Universe": {
+        "2023-08-14": "- [[Exquisite Geometric Nature of the Universe]]",
+        "A Massive Mystery": "... different ways due to some [[Exquisite Geometric Nature of the Universe|exquisite geometric property of the universe]].",
+        "Monte Carlo and Las Vegas Algorithm": "... different ways due to some [[Exquisite Geometric Nature of the Universe]]. But this is yet to ...",
+        "관성 질량과 중력 질량": "... 알고 봤더니 하나의 물리적 값이었고, [[Exquisite Geometric Nature of the Universe|우주의 정교한 기하학적 성질]] 때문에 두 개의 다른 물리량으로 ..."
     },
     "Lesser Known Trick": {
         "2022-10-21": "- [[Lesser Known Trick]]",
@@ -6838,6 +6861,12 @@ export const backlinks = {
     },
     "Apple vs Spotify": {
         "2022-10-27": "### [[Apple vs Spotify]]"
+    },
+    "Computational Theory": {
+        "Las Vegas Algorithm": "... accurate results—another exciting property in [[Computational Theory]].",
+        "Monte Carlo Algorithm": "... of quick results—exciting property in [[Computational Theory]].",
+        "On National Crises and the Intellectuals — Focused on GB and KR": "... $P$ vs. $NP$ problem in [[computational theory]]. Currently, the best-known algorithms for ...",
+        "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 세계의 복잡한 문제를 고민하다 보니 [[Computational Theory|계산 이론]]의 $P$ 대 $NP$ 난제가 자연스럽게 ..."
     },
     "Tools for Thought": {
         "2022-07-18": "... Using an iPad as a [[Tools for Thought]] feels good. Especially writing with ...",
@@ -7950,6 +7979,7 @@ export const backlinks = {
     },
     "Simulations": {
         "Math-based Coding": "... - conducting a bare metal [[Simulations]] takes too long",
+        "Monte Carlo Algorithm": "... the technique performs numerous random [[simulations]] to estimate the desired outcome. ...",
         "Optimized Simulations": "- Optimized [[Simulations]] programming problem is when you ...",
         "Person 5DBDAE": "I create functional [[Simulations]] models for semiconductors. For fabless ...",
         "Real Exams": "- 1 [[Simulations]]"
@@ -8251,6 +8281,11 @@ export const backlinks = {
         "Newtonian Correspondence": "A spiritual successor to [[30-Day Tweet Test (Harry Stebbings)]]! Subscribe at https://newsletters.cho.sh 😉",
         "On National Crises and the Intellectuals — Focused on GB and KR": "... marks the thirtieth day of [[30-Day Tweet Test (Harry Stebbings)|my challenge to post meaningful content on the web]], and as I sit down ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "오늘은 [[30-Day Tweet Test (Harry Stebbings)|웹에 유의미한 콘텐츠를 올리기 위해 도전한지 30일째]] 되는 날입니다."
+    },
+    "Monte Carlo Algorithm": {
+        "2023-08-14": "- [[Monte Carlo Algorithm]]",
+        "Las Vegas Algorithm": "... get a result. Unlike the [[Monte Carlo Algorithm|Monte Carlo algorithms]], which may produce incorrect results ...",
+        "Monte Carlo and Las Vegas Algorithm": "Many people know [[Monte Carlo Algorithm|Monte Carlo algorithms]], but few know about [[Las ..."
     },
     "Sungari": {
         "2023-05-31": "- [[Sungari]]",
