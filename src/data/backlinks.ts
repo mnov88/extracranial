@@ -1329,7 +1329,7 @@ export const backlinks = {
         "On-Premise": "... rented colocation data center in [[Singapore]] with a relatively homogenous infrastructure",
         "Sudden Rise of Bondee": "... going crazy in 대한민국|Korea, 일본|Japan, [[Singapore]], [[대만|Taiwan]], etc., ranking #1 in ...",
         "본디는 사실 혜성이 아니다": "Metadream|메타드림은 [[Singapore|싱가포르]] 기반의 회사다 보니 싱가포르 금융당국의 ...",
-        "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, 일본, [[Singapore|싱가포르]], [[대만|타이완]] 등에서 앱스토어 1위를 하며 ..."
+        "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, 일본, [[Singapore|싱가포르]], [[대만|타이완]] 등에서 [[App Store|앱스토어]] 1위를 ..."
     },
     "Magician": {
         "2022-11-21": "- [[Magician]]: I thought they would generate ...",
@@ -2238,6 +2238,21 @@ export const backlinks = {
     "Finding the size of the directory in Python": {
         "2022-11-19": "  - [[Finding the size of the directory in Python]]"
     },
+    "Map": {
+        "2023-03-12": "... new diagram is \"a reference [[map]]\" that could help researchers better ...",
+        "2023-08-15": "- [[Map]]",
+        "AT protocol": "... identified by domain names, which [[map]] to cryptographic URLs. This ensures ...",
+        "Cartography": "1. [[Map]] projections: Cartographers must choose a ...",
+        "Hash Map": "... uses a hash function to [[map]] identifying values, known as keys, ...",
+        "Mathematics under The Library of Babel": "- Keep a [[map]] from the beginning; remove the ...",
+        "Pieter Levels": "... jobs, and Hoodmaps, a crowdsourced [[map]] to navigate cities based on ...",
+        "Tailwind": "... through the component tree and [[map]] with the reality",
+        "Zenly": "... of their friends on a [[map]]. It was later acquired by ...",
+        "사회과부도": "... 마음대로 변형을 가할 수 있는 [[Map|지도]].",
+        "서비스 시밍": "... 못해 전화용 아이폰, 음악용 아이폰, [[Map|지도]]용 아이폰이 따로 있었다. 그리고 설계된 ...",
+        "젠리의 성공 공식": "... 집콕 챌린지부터 2022년 대규모 3D [[Map|지도]] 업데이트까지 미래를 준비했지만 최근 Snap의 ...",
+        "프로젝트 어덕행덕": "- 팬덤 [[Map|지도]]: 팬덤 간의 지도를 구축한다. 예를 ..."
+    },
     "QuickSelect": {
         "0215 Kth Largest Element in an Array": "- Use [[QuickSelect]]",
         "Coding Tests": "- [[QuickSelect]] [[TODO]]",
@@ -2362,6 +2377,24 @@ export const backlinks = {
     },
     "Cantankerous": {
         "2022-10-17": "- [[Cantankerous]]"
+    },
+    "Animation": {
+        "2022-07-11": "[[Animation]] in [[JavaScript]] requires synchronous layout ...",
+        "2022-07-12": "1. Demo JavaScript [[animation]] works as expected.",
+        "2022-11-21": "- [[Animation]]",
+        "2022-11-23": "- Rive Use Cases: [[Animation]]",
+        "2022-12-24": "- Add easing to your [[Animation]] to help add a responsive ...",
+        "Adobe After Effects": "... for keying, tracking, compositing, and [[animation]]. After Effects is available on ...",
+        "Are Computers Psychotropic Substances": "Vibrant colors, popping vibrations, smooth [[Animation]], and constant notifications relentlessly demand ...",
+        "Dynamic Island on the Web": "- Optimize [[Animation|Animations]] (css `will-change`)",
+        "Letter to Mr. Gustav Ekerot on 2023-02-24": "- [[Animation]] are way more fluid and ...",
+        "Lottie": "... format for Vector Graphic|vector graphics [[animation]]. It is named after Charlotte ...",
+        "Multiplayer": "- Use spring [[Animation]] for smooth cursors with a ...",
+        "Replicating Balenciaga Harry Potter Advertisement": "... character design, voice generation, and [[animation]].",
+        "Ridi": "... service into webcomic, web novel, [[animation]], etc.",
+        "SVG": "... two-dimensional graphics, supporting interactivity, and [[animation]]. The SVG specification is an ...",
+        "glTF": "... appearance, scene graph hierarchy, and [[animation]]. It is intended to be ...",
+        "jQuery": "... and manipulation, event handling, and [[animation]] much simpler with an easy-to-use ..."
     },
     "Is DevOps Overrated": {
         "2022-10-20": "- [[Is DevOps Overrated]]"
@@ -3020,6 +3053,10 @@ export const backlinks = {
         "Virtual Address Space and Physical Address Space": "... spaces are shared by all [[threads]] in the process, but protected ...",
         "WorkerDOM": "... DOM access to Web Worker [[Threads]]."
     },
+    "Vector Graphic": {
+        "2023-08-15": "- [[Vector Graphic]]",
+        "Lottie": "... an open-source file format for [[Vector Graphic|vector graphics]] [[animation]]. It is named after ..."
+    },
     "Go To Market": {
         "10x Technopreneurs": "... and have the knowledge for [[Go To Market|Go-To-Market]] [[Strategy|strategies]] and monetization. They can ...",
         "2023-06-26": "- [[Go To Market]]",
@@ -3486,6 +3523,7 @@ export const backlinks = {
         "Datalake": "... semi-structured data (CSV, logs, XML, [[JSON]]), unstructured data ([[Mail|emails]], documents, PDFs), ...",
         "Dynamic Island on the Web": "... pack them with an API-style [[JSON]] payload.",
         "JSON-LD": "... of encoding linked data using [[JSON]]. One goal for JSON-LD was ...",
+        "Lottie": "... silhouette animation. Lottie uses a [[JSON]]-based format with short, unreadable keys. ...",
         "Mapping keys to set different input languages on macOS": "- Create a [[JSON]] file like the following here ...",
         "MessagePack": "... data among multiple languages like [[JSON]]. But it's faster and smaller. ...",
         "Migrating Node.js apps from AWS EB to Heroku": "... minimal changes to app.js and package.[[json]].",
@@ -3754,6 +3792,10 @@ export const backlinks = {
         "2022-10-10": "... open-source tools. This looks terrifying. [[Screenshot as an API]] all the way!",
         "Matt Rickard": "- [[Screenshot as an API]]",
         "Unsemantic": "Potential link to [[Screenshot as an API]]"
+    },
+    "Bitmap Graphic": {
+        "2023-08-15": "- [[Bitmap Graphic]]",
+        "Canvas (HTML5)": "... rendering of 2D shapes and [[Bitmap Graphic|bitmap images]]. It is a low level, ..."
     },
     "Watch is the Greatest Dumb Phone": {
         "2023-07-25": "- [[Watch is the Greatest Dumb Phone]]"
@@ -4812,7 +4854,7 @@ export const backlinks = {
         "2022-11-19": "  - [[Apple Newsroom 서체 따라하기]]"
     },
     "D-ID": {
-        "Replicating Balenciaga Harry Potter Advertisement": "4. [[D-ID]] was used for animation, with ..."
+        "Replicating Balenciaga Harry Potter Advertisement": "4. [[D-ID]] was used for [[animation]], with ..."
     },
     "Fixing the Document Hell": {
         "2022-12-28": "- [[Fixing the Document Hell]]"
@@ -4934,7 +4976,7 @@ export const backlinks = {
         "USDZ vs glTF": "USDZ and glTF are two [[3D]] file formats used for different ...",
         "Zenly Playbook": "... in 2020 to a mass-scale [[3D]] [[Cartography|map]] update in 2022, [[Zenly]] ...",
         "glTF": "... the Khronos Group; it supports [[3D]] model geometry, appearance, scene graph ...",
-        "젠리의 성공 공식": "... 코로나 집콕 챌린지부터 2022년 대규모 [[3D]] 지도 업데이트까지 미래를 준비했지만 최근 ...",
+        "젠리의 성공 공식": "... 코로나 집콕 챌린지부터 2022년 대규모 [[3D]] [[Map|지도]] 업데이트까지 미래를 준비했지만 최근 ...",
         "혜성처럼 나타난 본디": "[[3D]] 캐릭터를 만들 수 있고 자신의 ..."
     },
     "Feature Flag": {
@@ -4952,7 +4994,7 @@ export const backlinks = {
         "2022-07-01": "... This will reduce 10kb in [[JavaScript]].",
         "2022-07-06": "... Bun is a fast all-in-one [[JavaScript]] runtime",
         "2022-07-11": "First, make a giant [[JavaScript]] object.",
-        "2022-07-12": "1. Demo [[JavaScript]] animation works as expected.",
+        "2022-07-12": "1. Demo [[JavaScript]] [[animation]] works as expected.",
         "2022-07-18": "- No trackers, no [[JavaScript]], no stylesheets. Just your words",
         "2022-07-20": "- [[JavaScript]] → [[TypeScript]]",
         "2022-11-30": "... thing is that the current [[JavaScript]] tools could be faster than ...",
@@ -5289,6 +5331,12 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "... 회사, 자율주행 회사, 블록체인 회사, [[Venture Capital|VC]], 웹툰 회사, 고전적 자산운용사, 그 ...",
         "강기업": "... because the odds of a [[venture capital]] ([[Venture Capital|VC]]) funded startup are ..."
     },
+    "Hash Map": {
+        "Map": "- [[Hash Map]]",
+        "Page Size and Address Translations": "... `555-123-4567` to three levels of [[hash map]] `[555] → [123] → [4567]`",
+        "Python": "- Python Dictionary is a [[hash map]].",
+        "개성은 쟁취하는 것": "... 답이 나올 수 있도록 암기하는 [[Hash Map|해시맵]] 형태였습니다."
+    },
     "HTMX": {
         "2022-10-18": "- [[HTMX]]",
         "Front-end": "- [[HTMX]]"
@@ -5389,7 +5437,8 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "- [[supastarter]] - The SaaS starter template ..."
     },
     "Maximum A Posteriori": {
-        "2023-03-27": "[[Maximum A Posteriori]]"
+        "2023-03-27": "[[Maximum A Posteriori]]",
+        "Map": "- [[Maximum A Posteriori]]"
     },
     "File Descriptor": {
         "Handling files in Unix": "- `open()` returns a [[file descriptor]]",
@@ -5475,7 +5524,7 @@ export const backlinks = {
         "한민족": "한민족은 [[대한민국]]과 [[북한]]의 주류가 되는 민족으로,",
         "한민족의 동족상잔": "... 이영훈 전 서울대 교수를 비롯한 [[대한민국|한국]] 학자들은 노비가 양인과 결혼을 할 ...",
         "헤이그 특사": "... 가지의 전쟁목적이 있다고 공언하였다. 첫째는 [[대한민국|한국]]의 독립유지와 영토보전이요, 둘째는 극동의 교역을 ...",
-        "혜성처럼 나타난 본디": "Bondee|본디는 [[대한민국|한국]], [[일본]], [[Singapore|싱가포르]], [[대만|타이완]] 등에서 앱스토어 ..."
+        "혜성처럼 나타난 본디": "Bondee|본디는 [[대한민국|한국]], [[일본]], [[Singapore|싱가포르]], [[대만|타이완]] 등에서 [[App ..."
     },
     "Artifact": {
         "Algorithmic Recommendation Engine for Texts": "- [[Artifact]] can feel like a throwback. ...",
@@ -5525,7 +5574,7 @@ export const backlinks = {
         "Sudden Rise of Bondee": "... crazy in 대한민국|Korea, 일본|Japan, Singapore, [[대만|Taiwan]], etc., ranking #1 in the ...",
         "Universal Chat App": "... is widely used in 일본|Japan, [[대만|Taiwan]], and Thailand. In addition to ...",
         "젠리의 성공 공식": "... 안에 전교생이 사용한다는 것을 관찰했다. [[대만]] 대학에 유학 간 [[일본]] 학생들로부터 ...",
-        "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, 일본, Singapore|싱가포르, [[대만|타이완]] 등에서 앱스토어 1위를 하며 인기를 ..."
+        "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, 일본, Singapore|싱가포르, [[대만|타이완]] 등에서 [[App Store|앱스토어]] 1위를 하며 ..."
     },
     "Person CC8297": {
         "2022-09-13": "- [[Person CC8297]]",
@@ -6541,9 +6590,10 @@ export const backlinks = {
         "PNG": "> Portable Network [[Graphics]] is a raster-[[graphics]] file format ...",
         "Preprocessor": "In [[Graphics]], preprocessors are the directives to ...",
         "Profiling": "In [[Graphics]], profiling is needed when trying ...",
-        "SVG": "> Scalable Vector [[Graphics]] (SVG) is an XML-based vector ...",
+        "SVG": "... image format for defining two-dimensional [[graphics]], supporting interactivity, and [[animation]]. The ...",
         "Shader": "- In [[Graphics]], a shader is a small ...",
         "USDZ": "... framework for interchange 3D computer [[graphics]] data interchange. The framework focuses ...",
+        "Vector Graphic": "... curves, and geometric shapes. Vector [[graphics]] are created using commands or ...",
         "Vertex Buffer": "- [[Graphics]]: How to pass instructions from ...",
         "Web Graphics": "- [[Graphics]] on Web",
         "glTF": "... glTF (derivative short form of [[Graphics]] Language Transmission Format or GL ..."
@@ -6636,14 +6686,6 @@ export const backlinks = {
     "한자 타자기": {
         "2022-09-29": "- [[한자 타자기]]",
         "Readings": "- [x] [[한자 타자기]]"
-    },
-    "Animations": {
-        "2022-11-21": "- [[Animations]]",
-        "2022-11-23": "- Rive Use Cases: [[Animations]]",
-        "2022-12-24": "- Add easing to your [[animations]] to help add a responsive ...",
-        "Are Computers Psychotropic Substances": "Vibrant colors, popping vibrations, smooth [[animations]], and constant notifications relentlessly demand ...",
-        "Letter to Mr. Gustav Ekerot on 2023-02-24": "- [[Animations]] are way more fluid and ...",
-        "Multiplayer": "- Use spring [[animations]] for smooth cursors with a ..."
     },
     "Dogfooding": {
         "Stories Behind Satori": "The Vercel team [[Dogfooding|dogfooded]] this for a while."
@@ -7011,6 +7053,7 @@ export const backlinks = {
         "Apple Earth": "... app but with Smoo-ooth Apple [[Cartography|Maps]] and [[iOS]] Widget Supports.",
         "Dynamic Island": "... for example, ongoing activities like [[Cartography|Maps]] directions or sports scores can ...",
         "GeoCheatCode": "... typed things into the Google [[Cartography|Maps]] search bar, it forgave a ...",
+        "Map": "- [[Cartography]]",
         "Person ECC2CB": "Their [[Cartography|maps]] could be better organized, making ...",
         "Proposal of Research 2023-01-10": "... video from YouTube or a [[Cartography|map]] from [[Google]] [[Cartography|Maps]]. However, iframes ...",
         "Proposal of Research 2023-03-28": "... concept of an \"efficiently finite\" [[Cartography|map]] containing all possible pixel combinations ...",
@@ -8169,12 +8212,16 @@ export const backlinks = {
     },
     "App Store": {
         "Bondee": "... 2023, and has topped multiple [[app store]] charts across Asia.",
+        "CalliFontia": "... 수 있는 마스터파일 $299.99 (or [[App Store|앱스토어]] 상한선 있는가?)",
         "Did Bondee Really Suddenly Rise": "... quality. Bondee also topped multiple [[app store]] charts across Asia within a ...",
         "Grammarly Work Note 2023-05-31": "... user base, often through an [[app store]] release. This approach typically takes ...",
+        "Lottie": "... top 500 apps on the [[App Store]] now use Lottie to engage ...",
         "Reimagining Emails": "... paid app in the Mac [[App Store]] at launch. It is available ...",
         "Sudden Rise of Bondee": "... etc., ranking #1 in the [[App Store]]. Users can create a [[3d]] ...",
         "WWDC23": "## [[App Store]]",
-        "Workbench": "4. [[App Store]] Install"
+        "Workbench": "4. [[App Store]] Install",
+        "본디는 사실 혜성이 아니다": "... 위해 대규모 시스템 업그레이드를 위해 [[App Store|앱스토어]]에서 앱을 제거하고 기존 문제를 해결하는 ...",
+        "혜성처럼 나타난 본디": "... 대한민국|한국, 일본, Singapore|싱가포르, 대만|타이완 등에서 [[App Store|앱스토어]] 1위를 하며 인기를 얻고 있는 ..."
     },
     "Newtonian Correspondence": {
         "2023-03-16": "- [[Newtonian Correspondence]]",
@@ -8191,6 +8238,7 @@ export const backlinks = {
         "AT protocol": "... like Lexicon and XRPC over [[Alternative|alternatives]] like [[Resource Description Framework]] and ...",
         "Alternatives to After Effects": "What is the [[alternative]] to [[Adobe After Effects|After Effects]]?",
         "Alternatives to Hacker News": "- [[Alternative]] to [[Hacker News]]",
+        "Apple Newsroom 서체 따라하기": "... 웹 폰트를 사용하고 있다.) 그럼 [[Alternative|대안]]을 찾아보자.",
         "Beeper": "An [[alternative]] to [[Texts (Service)]]. A better ...",
         "ChatGPT": "... a model-written message, sampled several [[alternative]] completions, and had [[AI]] trainers ...",
         "ChatGPT is a Blurry JPEG and We Need That": "... to process. However, consider an [[alternative]] – a compressed version of ...",
@@ -8200,6 +8248,7 @@ export const backlinks = {
         "Inspiring Open Source Projects": "... KB) and privacy-friendly web analytics [[alternative]] to [[Google Analytics]].",
         "Jetbrains Fleet": "- a potential [[alternative]] to [[Visual Studio Code]]",
         "Locking your Mac with Command+L": "... with ⊞Win+L. Mac offered an [[alternative]] called the Hot Corner. But ...",
+        "Lottie": "... was developed as a lighter [[alternative]] to animated GIFs and APNG ...",
         "Nota": "Awesome [[alternative]] to [[Obsidian]].",
         "Packet Switching vs Circuit Switching": "- [[Alternative]]: Circuit Switching → Reservation-only Restaurant",
         "Point-E": "... this paper, we explore an [[alternative]] method for 3D object generation ...",
@@ -8643,6 +8692,9 @@ export const backlinks = {
     "Person ED7526": {
         "Grammarly Work Note 2023-06-23": "- [[Person ED7526]]"
     },
+    "Lottie": {
+        "2023-08-15": "- [[Lottie]]"
+    },
     "아웃 오브 사이트가 항상 사람을 멀게 하는 것은 아닙니다": {
         "2016-11-28": "- [[아웃 오브 사이트가 항상 사람을 멀게 하는 것은 아닙니다]]"
     },
@@ -8901,7 +8953,7 @@ export const backlinks = {
         "한민족": "중국, United States of America|미국, [[일본]] 등에 많이 살고 있다.",
         "한민족의 동족상잔": "... of America|미국 흑인노예나 혹은 중국과 [[일본]]에 있었던 노예보다는 자유로운 존재였다는 점을 ...",
         "헤이그 특사": "> 러일전쟁 당시 [[일본]]은 두 가지의 전쟁목적이 있다고 공언하였다. ...",
-        "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, [[일본]], [[Singapore|싱가포르]], [[대만|타이완]] 등에서 앱스토어 1위를 ..."
+        "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, [[일본]], [[Singapore|싱가포르]], [[대만|타이완]] 등에서 [[App Store|앱스토어]] ..."
     },
     "Treehouse": {
         "Conversational AI Tools for Thought": "- [[Treehouse]]"
@@ -9490,7 +9542,7 @@ export const backlinks = {
     "Framer Motion": {
         "2022-06-26": "... implementing synchronous Layout properties—for example, [[Framer Motion]].",
         "2022-12-07": "- [[Framer Motion]], [[Interactive Articles]]: Inside Framer's Magic ...",
-        "Animations": "### [[Framer Motion]]",
+        "Animation": "### [[Framer Motion]]",
         "Dynamic Island on the Web": "- Applied Quick Clipping with [[Framer Motion]] for performance",
         "Framer": "- Creator of [[Framer Motion]]",
         "dub.sh": "  - [[Framer Motion|Framer Animation]]"
@@ -10578,6 +10630,18 @@ export const backlinks = {
     "2576C7.png": {
         "Spellbound": "![[2576C7.png]]"
     },
+    "CBB31A.png": {
+        "Animation": "![[CBB31A.png]]"
+    },
+    "BE3713.png": {
+        "Animation": "![[BE3713.png]]"
+    },
+    "E14115.png": {
+        "Animation": "![[E14115.png]]"
+    },
+    "C353BE.png": {
+        "Animation": "![[C353BE.png]]"
+    },
     "144EF0.png": {
         "Tana": "![[144EF0.png]]",
         "Text-based Tools for Thought": "![[144EF0.png]]"
@@ -10587,6 +10651,9 @@ export const backlinks = {
     },
     "BA8C9D.png": {
         "벌금과 물가": "- ![[BA8C9D.png]]"
+    },
+    "Vector Graphics": {
+        "SVG": "> Scalable [[Vector Graphics]] (SVG) is an XML-based vector ..."
     },
     "C42C4E.png": {
         "Pretendard": "![[C42C4E.png]]",
@@ -11240,18 +11307,6 @@ export const backlinks = {
     },
     "E0C486.png": {
         "Polar.sh": "![[E0C486.png]]"
-    },
-    "CBB31A.png": {
-        "Animations": "![[CBB31A.png]]"
-    },
-    "BE3713.png": {
-        "Animations": "![[BE3713.png]]"
-    },
-    "E14115.png": {
-        "Animations": "![[E14115.png]]"
-    },
-    "C353BE.png": {
-        "Animations": "![[C353BE.png]]"
     },
     "D11FF4.png": {
         "SHAP": "![[D11FF4.png]]"
