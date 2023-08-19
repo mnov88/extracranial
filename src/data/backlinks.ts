@@ -6110,7 +6110,7 @@ export const backlinks = {
         "Brunch violates SF terms of use": "... Terms of Use by using [[San Francisco|SF Pro]] as a [[Web Typography|Webfont]].",
         "Font Features": "- [[San Francisco]], [[Inter]], and [[Pretendard]] has awesome ...",
         "Inter": "- bizarrely similar to [[San Francisco]], but it now has its ...",
-        "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "> U wanna fix [[San Francisco|SF]]? Listen up, nerds.  ",
+        "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "> U wanna fix [[San Francisco|SF]]? Listen up, nerds.",
         "Pretendard": "... should've put it as Cross-platform [[San Francisco]] [[alternative]]",
         "Satoshi": "- Font similar to [[San Francisco|SF Pro]]",
         "Toss Product Sans": "- [[San Francisco]]와 유사",
