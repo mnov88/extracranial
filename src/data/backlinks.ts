@@ -910,6 +910,9 @@ export const backlinks = {
     "Aldehyde SaaS": {
         "2023-05-30": "- [[Aldehyde SaaS]]"
     },
+    "Perverse Incentive": {
+        "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "... 걸맞다. 과연 이대로 작동할까? 완벽하게 [[Perverse Incentive|코브라 효과]]에 들어맞는다."
+    },
     "Person A480C6": {
         "Apple Silicon": "- [[Person A480C6]]",
         "Project PEOPLE": "- [[Person A480C6]]"
@@ -1074,7 +1077,7 @@ export const backlinks = {
     },
     "Hacker": {
         "2023-03-06": "- [[Hacker]]",
-        "Geohot-Twitter Mayhem": "... as Geohot, is a famous [[hacker]] and founder of Comma.[[ai]]. Elon ..."
+        "Geohot-Twitter Mayhem": "... as Geohot, is a famous [[hacker]] and founder of Comma.[[ai]]. [[Elon ..."
     },
     "Krafton Way": {
         "2022-11-23": "- Finished reading [[Krafton Way]]",
@@ -1630,6 +1633,7 @@ export const backlinks = {
     },
     "Neo": {
         "Grotesque": "## [[Neo]]-grotesque",
+        "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "> Me & my [[neo]]-Thielian squad are posted up on ...",
         "Neo Apps": "... of macOS Applications is changing. [[Neo]] Apps.",
         "Neo Block Economy": "[[Neo]] Block [[Economy]]",
         "Neo Email": "- [[Neo]] [[Mail|Email]]",
@@ -1666,6 +1670,9 @@ export const backlinks = {
     },
     "Proposal of Research 2023-03-28": {
         "2023-03-28": "- [[Proposal of Research 2023-03-28]]"
+    },
+    "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": {
+        "2023-08-18": "- [[Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설]]"
     },
     "Forward Declaration": {
         "2023-01-25": "- [[Forward Declaration]]",
@@ -1743,17 +1750,14 @@ export const backlinks = {
         "배달의민족 FE 개발자가 일하는 법 Q&A": "... 사이드 렌더링이었다. 그때는 이것이 당연했다. [[Back-end|백엔드]]는 자바를 사용했다. 이후 마이크로 서비스 ..."
     },
     "Project Florence": {
-        "2023-06-02": "- [[Project Florence]]"
+        "2023-06-02": "- [[Project Florence]]",
+        "2023-08-18": "- [[Project Florence]]"
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
     },
     "Bloomberg Terminal": {
         "2023-03-06": "- [[Bloomberg Terminal]]"
-    },
-    "The Browser Company": {
-        "Arc Browser": "[[The Browser Company]]",
-        "Browser Company Hackathon": "- [[The Browser Company]]"
     },
     "HQ Proximity": {
         "2023-01-13": "- [[HQ Proximity]]"
@@ -1872,10 +1876,14 @@ export const backlinks = {
     "Stephan Ango": {
         "2022-10-19": "- [[Stephan Ango]]",
         "2022-10-21": "- [[Stephan Ango]]: also created [[Obsidian]] Minimal Settings.",
+        "Commonplace Book": "> — [[Stephan Ango|kepano]] (@Stephan Ango|kepano) August 17, 2023",
+        "Evergreen notes": "... that you can manipulate — [[Stephan Ango]]",
         "Generative Intelligence": "- Coined by [[Stephan Ango]]",
         "Letter to Mr. Stephan Ango on 2022-10-19": "- [[Stephan Ango]]",
         "Newsletter": "- [[Stephan Ango]] uses [[Buttondown]]",
-        "Now Page": "### [[Stephan Ango]]"
+        "Now Page": "### [[Stephan Ango]]",
+        "Photoshop for Text": "### Photoshop for text — [[Stephan Ango]]",
+        "Second Brain": "### [[Stephan Ango]] Link"
     },
     "Xcode Cloud": {
         "WWDC23": "- [[Xcode Cloud]]: 2x faster workflows. Share Tester ..."
@@ -2935,7 +2943,7 @@ export const backlinks = {
         "ChatGPT": "... Large Language Models powered by [[OpenAI]]'s GPT-3.5, to make meetings more ...",
         "Dear AIs, I have a question.": "## [[openai]]:gpt-3.5-turbo",
         "EU and AI": "... regulate general-purpose AI, such as [[OpenAI]]'s [[ChatGPT]], which can generate human-like ...",
-        "Musk": "... and co-founder of Neuralink and [[OpenAI]]. With an estimated net worth ...",
+        "Elon Musk": "... and co-founder of Neuralink and [[OpenAI]]. With an estimated net worth ...",
         "Nuclear Fission": "... The SPAC was co-founded by [[OpenAI]] CEO Sam Altman, who also ...",
         "OpenAI enthroned as the Levis of Tech": "[[OpenAI]] has launched its [[ChatGPT]] API ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "[[OpenAI]]가 방금 GPT-3.5-터보 모델을 기반으로 한 ...",
@@ -3461,7 +3469,7 @@ export const backlinks = {
     "Internet Computer": {
         "2023-03-06": "- [[Internet Computer]]",
         "2023-03-19": "- [[Internet Computer]]",
-        "The Browser Company": "... NY, tries to make the [[Internet Computer]]"
+        "Browser Company": "... NY, tries to make the [[Internet Computer]]"
     },
     "Adobe After Effects": {
         "Alternatives to After Effects": "What is the alternative to [[Adobe After Effects|After Effects]]?",
@@ -4175,6 +4183,7 @@ export const backlinks = {
         "Kubernetes": "... Computing Foundation now maintains the [[project]].",
         "Linux": "... are provided by the GNU [[Project]]. Many Linux distributions use the ...",
         "Markdown Email Client": "Someday [[Project]]. You write an [[Mail|email]] in ...",
+        "Neo ArXiv": "Someday [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "Someday [[Project]]. `img loading=lazy`, but if the ...",
         "Notion": "> Notion is a [[project]] management and note-taking software platform ...",
         "Off The Record": "Someday [[Project]]. Disappearing message for [[iMessage]].",
@@ -4374,6 +4383,7 @@ export const backlinks = {
         "Ghost 테마를 자동 배포하는 방법": "6. 완성된 테마 파일을 [[GitHub]] Repository에 Push한다.",
         "IDOL Stack": "... Inlang + Across the Sprachraums, [[GitHub]] CI/CD",
         "Letter to Mr. Matt Rickard on 2022-10-03": "I'm at @anaclumos on [[GitHub]], [[Twitter]], and any other platform.",
+        "Neo ArXiv": "- SourceForge, not [[GitHub]]",
         "Setting different images for Light & Dark mode": "- Using `#gh-dark-mode-only` for [[GitHub]]",
         "Snowpack으로 WASM 시작하기": "## [[GitHub]] Pages에 Snowpack App 호스팅 및 ...",
         "Social Coding": "- [[GitHub]] is removing the trending tab ...",
@@ -4742,6 +4752,9 @@ export const backlinks = {
         "Scala": "... bytecode and executed by the [[JVM|Java virtual machine]] ([[JVM]]).",
         "Write Once Run Everywhere": "... with a Java virtual machines ([[JVM]]). Installing a JVM or Java ..."
     },
+    "Nicola Rieke et al. The future of digital health with federated learning": {
+        "Project Florence": "- [ ] [[Nicola Rieke et al. The future of digital health with federated learning]]"
+    },
     "Catherine the Great": {
         "2023-02-21": "- [[Catherine the Great]]"
     },
@@ -4868,6 +4881,7 @@ export const backlinks = {
         "AT protocol": "... known as Lexicon to enable [[interoperability]] across servers, allowing software from ...",
         "Government Services should have full API support": "... need a Universal Identity and [[Interoperability]] to prevent any lock-ins.",
         "MLS": "... The latest specification allows for [[interoperability]] across messaging services, including WhatsApp, ...",
+        "Neo ArXiv": "... at least we need better [[interoperability]] with HyperText Media), and [[PDF]] ...",
         "QA.json": "## Backwards Compatibility and [[Interoperability]]",
         "Super App and Democracy": "... open public digital infrastructure with [[interoperability]].",
         "USDZ vs glTF": "... some advantages in terms of [[interoperability]] and scalability with other USD ..."
@@ -4968,6 +4982,7 @@ export const backlinks = {
         "Canvas (HTML5)": "... the WebGL API to allow [[3D]] rendering with OpenGL ES.",
         "Graphic Renderer": "... image from a 2D or [[3D]] model by means of a ...",
         "Metaverse": "... metaverse is a network of [[3D]] virtual worlds focused on social ...",
+        "Neo ArXiv": "- What if we add [[3D]] models right in the papers?",
         "Point-E": "... While recent work on text-conditional [[3D]] object generation has shown promising ...",
         "Ray.st": "A Collection of 26 Beautiful [[3D]] [[Emoji]] Generated by [[Generative AI]].",
         "Repeated Designs": "... hero needs to be a [[3D]] model of the logo rendered ...",
@@ -5026,6 +5041,10 @@ export const backlinks = {
         "2023-02-17": "- [[기술 할부 결제]]",
         "30-Day Tweet Test (Harry Stebbings)": "... Now Pay Later <br/> 🇰🇷 [[기술 할부 결제]]      ...",
         "Avoid Premature Optimizations": "- Tech Now Pay Later [[기술 할부 결제]]"
+    },
+    "Law of Campbell": {
+        "Law of Goodhart": "[[Law of Campbell]]",
+        "Perverse Incentive": "... illustrate Law of Goodhart or [[Law of Campbell]]."
     },
     "Keystone.js": {
         "Meta Meta Framework": "- Meta Meta Framework: Redwood.js, [[Keystone.js]], [[Refine (Framework)]]"
@@ -5541,6 +5560,7 @@ export const backlinks = {
     "Effective Accelerationism": {
         "2022-11-28": "- [[Effective Accelerationism]]: [[Effective Accelerationism|효율적 가속주의]]",
         "Can we ever build TikTok for Text": "... preserve intelligence, as seen in [[Effective Accelerationism]].",
+        "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "... 백만장자 Martin Shkreli가 마약 문제를 [[Effective Accelerationism|E-ACC]]로 해결하는 가설",
         "Psychohistory": "... era to build our foundation? [[Effective Accelerationism|How would we preserve the light of sentience in this galaxy]]?",
         "심리역사학": "... 위해 무엇을 할 수 있을까? [[Effective Accelerationism|우리는 이 은하에서 지성의 빛을 어떻게 보전할 수 있을까]]?",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... 없는 역사의 흐름이라 생각한다. 대신 [[Effective Accelerationism|효과적 가속주의]]에서 보듯 이런 어쩔 수 없는 ...",
@@ -5645,7 +5665,7 @@ export const backlinks = {
     "Bloomberg": {
         "2023-03-06": "- [[Bloomberg]]",
         "Bloomberg Terminal": "The [[Bloomberg]] Terminal, or Bloomberg Professional, is ...",
-        "Musk": "... the world according to the [[Bloomberg]] Billionaires Index and Forbes' real-time ...",
+        "Elon Musk": "... the world according to the [[Bloomberg]] Billionaires Index and Forbes' real-time ...",
         "Person 1E6ABA": "1E6ABA's team's financial expert used [[Bloomberg]] as their primary source while ...",
         "Real Exams": "### [[Bloomberg]]",
         "Web3": "... a single day, in what [[Bloomberg]] has called \"one of history's ..."
@@ -5958,6 +5978,23 @@ export const backlinks = {
     "DeepL vs Google Translate vs Bing Translate Offering Comparison": {
         "Project Linguine": "[[DeepL vs Google Translate vs Bing Translate Offering Comparison]]"
     },
+    "Elon Musk": {
+        "2023-08-18": "꿈에서 [[Elon Musk|일론 머스크]]를 만났다. 질문을 할 시간이 매우 ...",
+        "Bluesky": "... this decentralized standard, but since [[Elon Musk]] acquired the platform, Bluesky has ...",
+        "Canary Trap": "### [[Elon Musk]]",
+        "Effective Accelerationism": "> — [[Elon Musk]] (@elonmusk) June 25, 2018",
+        "Geohot-Twitter Mayhem": "... hacker and founder of Comma.ai. [[Elon Musk]] hired him to work on ...",
+        "Letter to Mr. Matt Rickard on 2022-12-24": "... is the most prominent one. [[Elon Musk|Musk]] does seem to desire \"free ...",
+        "Musk-Twitter Incident": "> — [[Elon Musk]] (@elonmusk) October 27, 2022",
+        "Polymath": "... some examples of polymaths include [[Elon Musk]], Neil deGrasse Tyson, and Stephen ...",
+        "Super App and Democracy": "- Elon [[Elon Musk]] has become the latest investor ...",
+        "서비스 시밍": "- 테슬라도 비슷하다. [[Elon Musk|일론]]은 항상 과감한 데드라인을 정해놓지만 그 ...",
+        "잡스와 생존 편향": "최소한 [[Elon Musk|머스크]], 게이츠, 저커버그는 대학 수업이 무의미하다고 ..."
+    },
+    "Browser Company": {
+        "Arc Browser": "[[Browser Company]]",
+        "Browser Company Hackathon": "- [[Browser Company]]"
+    },
     "Book Scanning": {
         "Using an iPad as my Ebook": "... I fell in love with [[Book Scanning]] as a [[PDF]] with [[OCR]], ..."
     },
@@ -6073,6 +6110,7 @@ export const backlinks = {
         "Brunch violates SF terms of use": "... Terms of Use by using [[San Francisco|SF Pro]] as a [[Web Typography|Webfont]].",
         "Font Features": "- [[San Francisco]], [[Inter]], and [[Pretendard]] has awesome ...",
         "Inter": "- bizarrely similar to [[San Francisco]], but it now has its ...",
+        "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "> U wanna fix [[San Francisco|SF]]? Listen up, nerds.  ",
         "Pretendard": "... should've put it as Cross-platform [[San Francisco]] [[alternative]]",
         "Satoshi": "- Font similar to [[San Francisco|SF Pro]]",
         "Toss Product Sans": "- [[San Francisco]]와 유사",
@@ -6185,11 +6223,6 @@ export const backlinks = {
     "Shortcuts and Breakthrough": {
         "2023-07-25": "- [[Shortcuts and Breakthrough]]"
     },
-    "Musk": {
-        "Canary Trap": "### [[Musk]]",
-        "Musk-Twitter Incident": "## [[Musk]]",
-        "Super App and Democracy": "- Elon [[Musk]] has become the latest investor ..."
-    },
     "Apple Earth": {
         "2022-08-23": "- [[Apple Earth]]"
     },
@@ -6213,6 +6246,7 @@ export const backlinks = {
         "Edge": "- [[Edge Network]]"
     },
     "Arc Browser": {
+        "Browser Company": "[[Arc Browser]]",
         "Browser Company Hackathon": "- [[Arc Browser]]",
         "lovearc.net": "2. get some [[Arc Browser]] stickers"
     },
@@ -6379,6 +6413,9 @@ export const backlinks = {
     "Send Separately": {
         "2023-08-09": "- [[Send Separately]]"
     },
+    "Neo ArXiv": {
+        "2023-08-18": "- [[Neo ArXiv]]"
+    },
     "Cosmic noises of life": {
         "2022-10-12": "- [[Cosmic noises of life]]"
     },
@@ -6414,6 +6451,7 @@ export const backlinks = {
         "Born of this Land - The Founding Story of Hyundai": "... can compete in the global [[economy]].",
         "Companies are Economic Organisms": "... I wrote that companies are [[Economy|economic]] [[engine]] of some sort. Engines, ...",
         "Effective Accelerationism": "... 있어요. 당신은 이것을 피하기 위해 [[Economy|경제]]를 재설계할 수 없습니다. [[GPU]]를 없앨 ...",
+        "Law of Goodhart": "... objective or target of an [[Economy|economic]] or social policy, individuals or ...",
         "MetroPunk": "... 도시의 연금과 은퇴 기금 고갈, [[Economy|경제]] 붕괴, 새로운 시대의 [[Neo Block ...",
         "Neo Block Economy": "Neo Block [[Economy]]",
         "Nuclear Fission": "... power plants, Vice Chancellor and [[Economy]] Minister Robert Habeck of the ...",
@@ -6445,6 +6483,9 @@ export const backlinks = {
     "Neo Apps": {
         "2022-09-29": "- [[Neo Apps]]",
         "Alternatives to After Effects": "[[Neo Apps]]?"
+    },
+    "ArXiv": {
+        "Neo ArXiv": "The new [[ArXiv]]."
     },
     "Space in LaTeX": {
         "2022-10-18": "- [[Space in LaTeX]]"
@@ -6495,6 +6536,7 @@ export const backlinks = {
     "르네상스": {
         "2023-02-24": "- [[르네상스]]",
         "30-Day Tweet Test (Harry Stebbings)": "... | 🇬🇧 Renaissance <br/> 🇰🇷 [[르네상스]]      ...",
+        "Commonplace Book": "... 일종의 개인 일기장이다. 이 관행은 [[르네상스]] 시대부터 사용되어 왔으며, 개인이 시간이 ...",
         "Renaissance": "[[르네상스]]",
         "역사의 종말 오류": "... 주제 중 하나이다. 중세를 바라보는 [[르네상스]]적 관점과 르네상스를 바라보는 현대적 관점 ..."
     },
@@ -6634,6 +6676,9 @@ export const backlinks = {
     "Multiplayer": {
         "2022-07-05": "- [[Multiplayer]]",
         "Elo Rating": "- Matching players in online [[multiplayer]] games"
+    },
+    "Qinbin Li et al. Federated Learning Systems. Vision, Hype, and Reality for Data Privacy and Protection": {
+        "Project Florence": "- [ ] [[Qinbin Li et al. Federated Learning Systems. Vision, Hype, and Reality for Data Privacy and Protection]]"
     },
     "You can do everything on computers but you really should not": {
         "2023-03-28": "- [[You can do everything on computers but you really should not]]",
@@ -6838,13 +6883,14 @@ export const backlinks = {
         "Letter to Mr. Matt Rickard on 2022-11-28": "- [[Mail|Letter]] to Mr. Matt Rickard on ...",
         "Letter to Mr. Matt Rickard on 2022-12-21": "[[Mail|Letter]] to Mr. Matt Rickard on ...",
         "Letter to Mr. Matt Rickard on 2022-12-24": "- [[Mail|Letter]] to Mr. Matt Rickard on ...",
-        "Letter to Mr. Stephan Ango on 2022-10-19": "- [[Mail|Letter]] to Mr. Stephan Ango on ...",
+        "Letter to Mr. Stephan Ango on 2022-10-19": "- [[Mail|Letter]] to Mr. [[Stephan Ango]] on ...",
         "Letter to the Heptabase Team on 2022-10-11": "- [[Mail|Letter]] to the [[Heptabase]] Team on ...",
         "Listmonk": "... is a free and open-source [[Mail|email]] marketing tool that allows you ...",
         "MAGI": "- LLaMA: [[Mail|이메일]] 전송 요청",
         "Markdown Email Client": "Someday Project. You write an [[Mail|email]] in [[Markdown]]. Before sending, select ...",
         "Matrix Network": "... as Slack, IRC, or even [[Mail|email]], through bridges. This means users ...",
         "Naver": "... from basic features such as [[Mail|e-mail]] and news to the world's ...",
+        "Neo ArXiv": "... It's like managing PRs by [[Mail|email]]. Remember Linus used to do ...",
         "Neo Email": "- Neo [[Mail|Email]]",
         "Newsletter": "- [[Mail]]",
         "Newtonian Mail": "... with his peers through the [[mail]]. He was a prolific [[Mail|letter]] ...",
@@ -7038,6 +7084,11 @@ export const backlinks = {
         "Impact over Performance": "- [[Bootstrap]]",
         "MAKE (Book)": "This is called [[Bootstrap|bootstrapping]]. The good part is that ..."
     },
+    "Commonplace Book": {
+        "2023-08-18": "- [[Commonplace Book]]",
+        "Building a Second Brain": "... origin goes back to the [[commonplace book]] used by ancient scholars.",
+        "두 번째 뇌": "... 기원은 과거 수많은 학자들이 사용한 [[Commonplace Book]]로 거슬러 올라간다."
+    },
     "인하우스와 자유경쟁": {
         "2023-02-22": "- [[인하우스와 자유경쟁]]",
         "30-Day Tweet Test (Harry Stebbings)": "... and Free Market <br/> 🇰🇷 [[인하우스와 자유경쟁]]      ..."
@@ -7163,6 +7214,7 @@ export const backlinks = {
     "Renaissance": {
         "2023-02-24": "- [[Renaissance]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-24 | 🇬🇧 [[Renaissance]] <br/> 🇰🇷 [[르네상스]]   ...",
+        "Commonplace Book": "... has been around since the [[Renaissance]] and helps individuals collect and ...",
         "End of History Fallacy": "... at the similarities between the [[Renaissance]] view of the Middle Ages ...",
         "Polymath": "... often referred to as a \"[[Renaissance]] person\" because they possess diverse ..."
     },
@@ -7509,6 +7561,9 @@ export const backlinks = {
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "AirPlay를 지원하는 [[iOS]] / [[iOS|iPadOS]] 기기를 사용하는 경우 ...",
         "하늘땅사람 업데이트 기록": "- [[iOS]] 15에서도 하늘땅사람 키보드를 사용할 수 ..."
     },
+    "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": {
+        "Project Florence": "- [ ] [[Tian Li et al. Federated Learning Challenges, Methods, and Future Directions]]"
+    },
     "Ghost 테마를 자동 배포하는 방법": {
         "2022-11-19": "  - [[Ghost 테마를 자동 배포하는 방법]]"
     },
@@ -7752,6 +7807,7 @@ export const backlinks = {
     "PDF": {
         "2022-06-05": "- Convert ACSM files to [[PDF]]/EPUBs with one command on [[Linux]] ...",
         "Cauchy": "The Cauchy distribution has a [[PDF]] ([[probability]] density function) given by:",
+        "Neo ArXiv": "... interoperability with HyperText Media), and [[PDF]] sucks. Citing by their name ...",
         "Screenshot as an API": "... - No need to understand [[PDF]] data format",
         "Synonym-based Fuzzy Search": "... Search + Synonym Search in [[PDF]]/Databases. Just like [[Google]]",
         "Using an iPad as my Ebook": "... with Book Scanning as a [[PDF]] with [[OCR]], and I figured ...",
@@ -8529,6 +8585,9 @@ export const backlinks = {
         "ULLO": "- [[Proof of Concept|PoC]] of [[SwiftUI]] Photo Widget App",
         "하늘땅사람 개발 기록": "다음과 같이 기술 [[Proof of Concept|개념 증명]] 완료."
     },
+    "Peter Kairouz et al. Advances and Open Problems in Federated Learning": {
+        "Project Florence": "- [ ] [[Peter Kairouz et al. Advances and Open Problems in Federated Learning]]"
+    },
     "0542 01 Matrix": {
         "Coding Tests": "- [x] [[0542 01 Matrix]]"
     },
@@ -8633,6 +8692,7 @@ export const backlinks = {
         "Guestbook": "- [[Someday]] [[Project]]",
         "Intracranial": "[[Someday]] [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
         "Markdown Email Client": "[[Someday]] [[Project]]. You write an [[Mail|email]] ...",
+        "Neo ArXiv": "[[Someday]] [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "[[Someday]] [[Project]]. `img loading=lazy`, but if ...",
         "Off The Record": "[[Someday]] [[Project]]. Disappearing message for [[iMessage]].",
         "Old Fashioned Camera": "[[Someday]] [[Project]]. iPhone 4 시절 그 ...",
@@ -9278,6 +9338,9 @@ export const backlinks = {
     "Interactive ML Models": {
         "2022-12-18": "- [[Interactive ML Models]]"
     },
+    "Qiang Yang et al. Federated Machine Learning Concept and Applications": {
+        "Project Florence": "- [ ] [[Qiang Yang et al. Federated Machine Learning Concept and Applications]]"
+    },
     "Proebsting": {
         "2022-12-28": "- [[Proebsting]]"
     },
@@ -9420,6 +9483,10 @@ export const backlinks = {
         "DEV.to": "[[Medium]] for Devs.",
         "Hashnode": "[[Medium]] but for even more Devs.",
         "Substack is the new Medium": "- Substack is the new [[Medium]]"
+    },
+    "Law of Goodhart": {
+        "Law of Campbell": "[[Law of Goodhart]]",
+        "Perverse Incentive": "... is often used to illustrate [[Law of Goodhart]] or [[Law of Campbell]]."
     },
     "Monolith": {
         "2023-05-04": "- [[Monolith]]",
@@ -9628,6 +9695,7 @@ export const backlinks = {
         "Internet Computer": "- Strong ties to [[Super App]] [[Mini App]]",
         "Letter to Mr. Matt Rickard on 2022-12-24": "... at his desire for a [[Super App]]. What concerns me more is ...",
         "Mini App": "... within a more extensive, comprehensive [[Super App]]. Mini Apps are designed to ...",
+        "Neo ArXiv": "... a more streamlined, so-called ResearchOps—a [[Super App]] platform for all research.",
         "One and Only (Social App)": "... the world by creating a [[Super App]] in the US. China has ...",
         "One and only": "... all data into one place—the [[Super App]] approach.",
         "Super App and Democracy": "... technology entrepreneurs dream of an \"[[Super App|Everything App]]\", a smartphone application that will ...",
@@ -9674,7 +9742,7 @@ export const backlinks = {
         "Financial Technology": "... methods in delivering financial services. [[AI|Artificial intelligence]], [[Blockchain]], [[Cloud computing]], and big ...",
         "Generative AI": "... of guessing the correct answer, [[AI]] creates something from [[Prompt Engineering]].",
         "Generative Databases": "... we think Database as Gen [[AI]] models instead of key-value storages?",
-        "Geohot-Twitter Mayhem": "... famous hacker and founder of Comma.[[ai]]. Elon Musk hired him to ...",
+        "Geohot-Twitter Mayhem": "... famous hacker and founder of Comma.[[ai]]. [[Elon Musk]] hired him to ...",
         "Google": "... computer software, quantum computing, ecommerce|e-commerce, [[AI|artificial intelligence]], and consumer electronics. It has ...",
         "Grammarly AI-NLP Club": "[[AI]] [[Natural Language Processing|NLP]] Club at ...",
         "Imagining WebNPU API": "... install an app for an [[AI]] to be tailored to their ...",
