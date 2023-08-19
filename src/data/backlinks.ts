@@ -2651,6 +2651,10 @@ export const backlinks = {
         "2022-11-30": "- [[Centering]]",
         "Android": "- [[Centering]]"
     },
+    "Agricultural Technology": {
+        "2023-08-19": "- [[Agricultural Technology]]",
+        "Malthusian Trap": "... but others remain hopeful that [[Agricultural Technology]] will prevent such a scenario."
+    },
     "Privacy Supply Chains": {
         "WWDC23": "- [[Privacy Supply Chains]]: Signature for third-party SDKs."
     },
@@ -4424,6 +4428,9 @@ export const backlinks = {
         "2022-12-08": "- [[Propagation Delay]]",
         "Computer Systems": "- [[Propagation Delay]]",
         "Sources of Packet Delay": "- [[Propagation Delay]]"
+    },
+    "Next Big Thing": {
+        "Agricultural Technology": "... are expected to be the [[Next Big Thing]]. In \"Blade Runner 2049\", the ..."
     },
     "0704 Binary Search": {
         "2022-09-05": "- [[0704 Binary Search]]",
@@ -8527,6 +8534,9 @@ export const backlinks = {
         "PNPM": "... aims to improve aspects of [[npm]] and [[Yarn]]. It was designed ...",
         "Research Paper NPM System": "Someday Project. It's an [[npm]] system for [[Researcher|Researchers]]. Citations are ...",
         "Yarn": "... efficient and reliable alternative to [[npm]]. It was released in 2016, ..."
+    },
+    "Malthusian Trap": {
+        "2023-08-19": "- [[Malthusian Trap]]"
     },
     "Docker": {
         "2022-06-15": "... as code like Terraform or [[Docker]] images for science labs.",
