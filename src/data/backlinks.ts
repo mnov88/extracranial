@@ -2309,6 +2309,7 @@ export const backlinks = {
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... Artifact|아티팩트라는 새로운 앱을 출시했다. Artifact|아티팩트는 [[ML|머신 러닝]]으로 관심사 기반 뉴스를 추천해주는 앱이다. ..."
     },
     "ACL 60-60": {
+        "Neo ArXiv": "... can auto-translate to all locales? [[ACL 60-60]]",
         "Person ED7526": "... of computational linguistics, launched an [[ACL 60-60]] initiative. The initiative aims to ...",
         "무제한번역": "- [[ACL 60-60]]"
     },
@@ -6421,7 +6422,9 @@ export const backlinks = {
         "2023-08-09": "- [[Send Separately]]"
     },
     "Neo ArXiv": {
-        "2023-08-18": "- [[Neo ArXiv]]"
+        "2023-08-18": "- [[Neo ArXiv]]",
+        "2023-08-22": "- [[Neo ArXiv]]",
+        "Research Paper Hub": "[[Neo ArXiv]]"
     },
     "Cosmic noises of life": {
         "2022-10-12": "- [[Cosmic noises of life]]"
@@ -11355,6 +11358,18 @@ export const backlinks = {
     },
     "277486.mp4": {
         "Link Preview for Arc": "![[277486.mp4]]"
+    },
+    "F21F1E.png": {
+        "Neo ArXiv": "![[F21F1E.png]]"
+    },
+    "E0E3AD.png": {
+        "Neo ArXiv": "![[E0E3AD.png]]"
+    },
+    "CCDCB9.png": {
+        "Neo ArXiv": "![[CCDCB9.png]]"
+    },
+    "2FF4EA.png": {
+        "Neo ArXiv": "![[2FF4EA.png]]"
     },
     "48C71E.png": {
         "Diagram (Company)": "![[48C71E.png]]"
