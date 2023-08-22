@@ -1278,7 +1278,7 @@ export const backlinks = {
     "The Empires of the Future are the Empires of the Mind": {
         "2023-08-22": "- [[The Empires of the Future are the Empires of the Mind]]",
         "Soft Power": "- [[The Empires of the Future are the Empires of the Mind]]",
-        "애국심은 국가 단위의 스톡홀름 신드롬인가?": "[[The Empires of the Future are the Empires of the Mind]]",
+        "애국심은 국가 단위의 스톡홀름 신드롬인가": "[[The Empires of the Future are the Empires of the Mind]]",
         "오직 가지고 싶은 것은 드높은 문화의 힘이다": "[[The Empires of the Future are the Empires of the Mind]]"
     },
     "Computer Systems": {
@@ -3941,9 +3941,6 @@ export const backlinks = {
         "르네상스": "[[Spiritual Development|영적 성장]]은 도전과 역경에 직면할 때만 이루어진다는 ...",
         "민사고": "... 그들이 그토록 추구했던 것은 사실 [[Spiritual Development|영적 성장]] ([[Spiritual Development]]) 이었을 것."
     },
-    "애국심은 국가 단위의 스톡홀름 신드롬인가?": {
-        "2023-08-22": "- [[애국심은 국가 단위의 스톡홀름 신드롬인가?]]"
-    },
     "Palantir Apollo": {
         "Palantir": "- [[Palantir Apollo]]"
     },
@@ -4103,6 +4100,9 @@ export const backlinks = {
     "10x Technologist": {
         "10x Technopreneurs": "... people those who qualify as [[10x Technologist|10x Tecnhologists]], and have the knowledge for ...",
         "2022-12-09": "- [[10x Technologist]]"
+    },
+    "애국심은 국가 단위의 스톡홀름 신드롬인가": {
+        "2023-08-22": "- [[애국심은 국가 단위의 스톡홀름 신드롬인가]]"
     },
     "Ray.st": {
         "2022-12-28": "- [[Ray.st]]"
