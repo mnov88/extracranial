@@ -1275,6 +1275,12 @@ export const backlinks = {
         "Adobe After Effects": "[[Alternatives to After Effects]]",
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "### [[Alternatives to After Effects]]"
     },
+    "The Empires of the Future are the Empires of the Mind": {
+        "2023-08-22": "- [[The Empires of the Future are the Empires of the Mind]]",
+        "Soft Power": "- [[The Empires of the Future are the Empires of the Mind]]",
+        "애국심은 국가 단위의 스톡홀름 신드롬인가?": "[[The Empires of the Future are the Empires of the Mind]]",
+        "오직 가지고 싶은 것은 드높은 문화의 힘이다": "[[The Empires of the Future are the Empires of the Mind]]"
+    },
     "Computer Systems": {
         "2022-11-03": "- [[Computer Systems]]",
         "2022-11-04": "- [[Computer Systems]]",
@@ -1320,6 +1326,9 @@ export const backlinks = {
     },
     "AI and Ecommerce": {
         "2023-05-03": "- [[AI and Ecommerce]]"
+    },
+    "Soft Power": {
+        "The Empires of the Future are the Empires of the Mind": "[[Soft Power]]"
     },
     "GDB": {
         "Inspecting Assembly": "| [[gdb]] `executable`   | starts ...",
@@ -1620,6 +1629,9 @@ export const backlinks = {
         "벌금과 물가": "- 물가와 [[Economic Development|경제 성장]]이 일어남에 따라 Penalty (벌금, 과태료, ...",
         "이 땅에 태어나서": "정주영은 대한민국의 [[economic development|경제 발전]]과 [[한민족|민족]] 애국심에 대해 대한민국 근로자들이 ...",
         "일본 과학기술 총력전": "... 학문, 언론의 뿌리 깊은 유착으로 [[Economic Development|경제 성장]], 국력 증진을 우선시하는 대국주의, 열강주의 ..."
+    },
+    "Nepotism": {
+        "2023-08-22": "- [[Nepotism]]"
     },
     "Developing Review Notes for Obsidian": {
         "2022-07-19": "- [[Developing Review Notes for Obsidian]]",
@@ -2871,6 +2883,9 @@ export const backlinks = {
     "Collecting Data": {
         "2022-11-07": "- [[Collecting Data]]"
     },
+    "네오상평통보": {
+        "2023-08-22": "- [[네오상평통보]]"
+    },
     "UIUX": {
         "2022-11-30": "... at some build tools, but [[UIUX|UI]] components or other libraries usually ...",
         "2022-12-24": "### [[UIUX|UI]] Design Example By sulley (@svlleyy)",
@@ -3926,6 +3941,9 @@ export const backlinks = {
         "르네상스": "[[Spiritual Development|영적 성장]]은 도전과 역경에 직면할 때만 이루어진다는 ...",
         "민사고": "... 그들이 그토록 추구했던 것은 사실 [[Spiritual Development|영적 성장]] ([[Spiritual Development]]) 이었을 것."
     },
+    "애국심은 국가 단위의 스톡홀름 신드롬인가?": {
+        "2023-08-22": "- [[애국심은 국가 단위의 스톡홀름 신드롬인가?]]"
+    },
     "Palantir Apollo": {
         "Palantir": "- [[Palantir Apollo]]"
     },
@@ -4011,6 +4029,9 @@ export const backlinks = {
     },
     "henrymakesapps": {
         "2023-05-11": "- [[henrymakesapps]]"
+    },
+    "오직 가지고 싶은 것은 드높은 문화의 힘이다": {
+        "Soft Power": "- [[오직 가지고 싶은 것은 드높은 문화의 힘이다]]"
     },
     "Heimdall Bogus Subscribers Attack Incident": {
         "2023-08-03": "- [[Heimdall Bogus Subscribers Attack Incident]]",
@@ -4180,6 +4201,7 @@ export const backlinks = {
         "GitHub": "... integration, and wikis for every [[project]]. Headquartered in California, it has ...",
         "Goongoom": "- Side startup [[project]] that never made it to ...",
         "Guestbook": "- Someday [[Project]]",
+        "Habit Together": "Someday [[Project]]. An habit making app but ...",
         "Intracranial": "Someday [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
         "Jira": "... allows bug tracking and agile [[project]] management. Jira (software)>)",
         "Jog 25 minutes (Jan-Feb 2023)": "水適穿石|물방울로 바위 뚫는 [[Project|프로젝트]]",
@@ -4238,6 +4260,7 @@ export const backlinks = {
         "linkflags.crx": "... Linkflags as Chrome Extensions Someday [[Project]]",
         "postcredit.info": "Someday [[Project]]. 영화 쿠키 있나요?",
         "sem.sh": "Someday [[Project]]. Open-sourced Code Time or WakaTime. ...",
+        "네오상평통보": "... 현대적 상품권 혹은 기념주화로 재발행하는 [[Project|프로젝트]]를 [[Someday|언젠가]]하면 좋겠다고 생각했다.",
         "누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다": "... 온갖 어려움을 무릅쓰고 반드시 성취해야하는 [[Project|프로젝트]]이다.",
         "두 번째 뇌": "나는 더 간단하게 [[Project|프로젝트]], 연구, 그리고 독서록으로 분리했다.",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "... 수는 없다. 최근 알게 된 [[Project|프로젝트]] 중 라즈베리 파이로 스마트 오디오 ...",
@@ -4591,6 +4614,9 @@ export const backlinks = {
     },
     "Apple Easter Egg": {
         "2022-11-19": "  - [[Apple Easter Egg]]"
+    },
+    "Is Starbucks the Biggest Drug Dealer": {
+        "2023-08-22": "- [[Is Starbucks the Biggest Drug Dealer]]"
     },
     "DeepL vs. GPT 3.5 vs. GPT 4 벤치마크": {
         "2023-04-11": "- [[DeepL vs. GPT 3.5 vs. GPT 4 벤치마크]]",
@@ -5570,6 +5596,7 @@ export const backlinks = {
         "Can we ever build TikTok for Text": "... preserve intelligence, as seen in [[Effective Accelerationism]].",
         "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "... 백만장자 Martin Shkreli가 마약 문제를 [[Effective Accelerationism|E-ACC]]로 해결하는 가설",
         "Psychohistory": "... era to build our foundation? [[Effective Accelerationism|How would we preserve the light of sentience in this galaxy]]?",
+        "Soft Power": "- [[Effective Accelerationism]]",
         "심리역사학": "... 위해 무엇을 할 수 있을까? [[Effective Accelerationism|우리는 이 은하에서 지성의 빛을 어떻게 보전할 수 있을까]]?",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... 없는 역사의 흐름이라 생각한다. 대신 [[Effective Accelerationism|효과적 가속주의]]에서 보듯 이런 어쩔 수 없는 ...",
         "태백산맥 계획": "[[Effective Accelerationism|효과적 가속주의]]에 기반한다."
@@ -5854,6 +5881,9 @@ export const backlinks = {
         "Palantir": "- [[Palantir Gotham]]",
         "Palantir Apollo": "... system that manages and deploys [[Palantir Gotham]] and Foundry. Apollo was built ..."
     },
+    "Senior Levels are not Translatable": {
+        "2023-08-22": "- [[Senior Levels are not Translatable]]"
+    },
     "Ph.D.": {
         "2022-06-10": "... enabled, says Joseph Ravichandran, a [[Ph.D.|PhD]] student at MIT CSAIL and ...",
         "2022-07-05": "- 허 교수는 [[Ph.D.|박사]] 과정을 위해 [[United States of ...",
@@ -5894,6 +5924,7 @@ export const backlinks = {
         "Frivolous": "[[vocab]]",
         "In search of my domain": "- The [[vocab]] chosh was registered as a ...",
         "Mundivagant": "[[Vocab]]. Wandering around the world.",
+        "Nepotism": "[[vocab]]",
         "Nigh": "... nigh! > nigh - Wiktionary [[Vocab]]",
         "Penultimate": "Penultimate means second from last. [[Vocab]]",
         "Quarrelsome": "[[vocab]]. Quarrelsome is an adjective that ...",
@@ -6438,6 +6469,9 @@ export const backlinks = {
     "Disable All Animations": {
         "2023-08-09": "- [[Disable All Animations]]"
     },
+    "Cookie Licking": {
+        "2023-08-22": "- [[Cookie Licking]]"
+    },
     "Diagram (Company)": {
         "2022-12-16": "- [[Diagram (Company)]]",
         "Diagram Labs": "- [[Diagram (Company)]]",
@@ -6496,6 +6530,9 @@ export const backlinks = {
     },
     "ArXiv": {
         "Neo ArXiv": "The new [[ArXiv]]."
+    },
+    "Habit Together": {
+        "2023-08-22": "- [[Habit Together]]"
     },
     "Space in LaTeX": {
         "2022-10-18": "- [[Space in LaTeX]]"
@@ -8703,6 +8740,7 @@ export const backlinks = {
         "Fix Your Posture": "[[Someday]] [[Project]]. Small [[macOS]] application that ...",
         "Generative Open Graph": "[[Someday]] [[Project]]. [[Open Graph Image as ...",
         "Guestbook": "- [[Someday]] [[Project]]",
+        "Habit Together": "[[Someday]] [[Project]]. An habit making app ...",
         "Intracranial": "[[Someday]] [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
         "Markdown Email Client": "[[Someday]] [[Project]]. You write an [[Mail|email]] ...",
         "Neo ArXiv": "[[Someday]] [[Project]].",
@@ -8734,6 +8772,7 @@ export const backlinks = {
         "postcredit.info": "[[Someday]] [[Project]]. 영화 쿠키 있나요?",
         "sem.sh": "[[Someday]] [[Project]]. Open-sourced Code Time or ...",
         "기술 발전의 속도": "... 나는 Photoshop for Text를 상상하며 [[Someday|언젠가]] 미래에 도래할 텍스트 [[AI|인공지능]]의 미래를 ...",
+        "네오상평통보": "... 상품권 혹은 기념주화로 재발행하는 Project|프로젝트를 [[Someday|언젠가]]하면 좋겠다고 생각했다.",
         "도메인 찾아 삼만리": "... 길지만 더 전통적이고 무난했다. 또한 [[Someday|언젠가]] 'cho.sh'으로 웹사이트를 개설하기를 희망하면서 웹 ...",
         "불가사리": "Tossface|토스페이스 같은 곳에 [[Someday|언젠가]] 들어갔으면",
         "사발통문": "[[Someday]] [[Project]]",
