@@ -3926,6 +3926,9 @@ export const backlinks = {
     "식영부원의 관점에서 바라본 치킨데이": {
         "2016-07-01": "- [[식영부원의 관점에서 바라본 치킨데이]]"
     },
+    "Products Evolves Barely Enough to Solve Inconveniences": {
+        "2023-08-23": "- [[Products Evolves Barely Enough to Solve Inconveniences]]"
+    },
     "라즈베리 파이로 스마트 오디오 시스템 만들기": {
         "2022-11-19": "  - [[라즈베리 파이로 스마트 오디오 시스템 만들기]]"
     },
