@@ -2926,6 +2926,10 @@ export const backlinks = {
         "2022-09-25": "- [[0235 LCA of a Binary Search Tree]]",
         "Coding Tests": "- [x] [[0235 LCA of a Binary Search Tree]]"
     },
+    "sssss": {
+        "2023-08-23": "- [[sssss]]",
+        "Shortcuts": "Superseded by [[sssss]]"
+    },
     "1046 Last Stone Weight": {
         "2022-08-30": "- [[1046 Last Stone Weight]]",
         "Coding Tests": "- [[1046 Last Stone Weight]]"
@@ -6128,7 +6132,8 @@ export const backlinks = {
         "Autosave Everything": "... autosave intervals or setting different [[shortcuts]] for each app.",
         "ChatGPT": "... voice assistant built entirely with [[Shortcuts]]",
         "Locking your Mac with Command+L": "2. Go to Keyboard → [[Shortcuts]] → App Shortcuts and press ...",
-        "Visual Studio Code": "... can change the theme, keyboard [[shortcuts]], preferences, and install extensions that ..."
+        "Visual Studio Code": "... can change the theme, keyboard [[shortcuts]], preferences, and install extensions that ...",
+        "sssss": "Supersedes [[Shortcuts]]"
     },
     "알람 시계의 9분 스누즈": {
         "2023-03-19": "- [[알람 시계의 9분 스누즈]]",
@@ -10847,6 +10852,21 @@ export const backlinks = {
     },
     "F59F47.png": {
         "Midjourney": "![[F59F47.png]]"
+    },
+    "7997BF.png": {
+        "sssss": "![[7997BF.png]]"
+    },
+    "4F573F.png": {
+        "sssss": "![[4F573F.png]]"
+    },
+    "99211B.png": {
+        "sssss": "![[99211B.png]]"
+    },
+    "6A7DF0.png": {
+        "sssss": "![[6A7DF0.png]]"
+    },
+    "5FDEF2.png": {
+        "sssss": "![[5FDEF2.png]]"
     },
     "8B08CD.png": {
         "Retroactive (Software)": "![[8B08CD.png]]"
