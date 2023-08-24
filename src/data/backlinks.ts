@@ -721,6 +721,7 @@ export const backlinks = {
         "Canary Trap": "... the prose of the unique [[language]] in the hopes that the ...",
         "Native Language": "Native [[Language]]",
         "QA.json": "... metadata (like date added, source, [[language]]), augmented data, and data balance.",
+        "Yemaek": "The Yemaek [[language]], also known as Ye-Maek, was ...",
         "hreflang": "... RFC 8288. Hreflang specifies the [[language]] and optional geographic restrictions for ..."
     },
     "Site On Which the Sun Never Sets": {
@@ -1880,6 +1881,7 @@ export const backlinks = {
     },
     "북한": {
         "2023-02-23": "- [[북한]]",
+        "Korean Peninsula": "... in East Asia shared by [[북한|North]] and [[대한민국|South Korea]]. The peninsula ...",
         "On National Crises and the Intellectuals — Focused on GB and KR": "... of power in the region. [[북한|North Korea]]'s missile and nuclear weapons tests ...",
         "경제 개발의 길목에서": "... 도무지 알 수가 없다. 대한민국|한국은 [[북한]]의 핵화를 반대하는 동시에 북한의 핵화를 ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 있는 것입니다. 날이 갈수록 커져가는 [[북한]]의 미사일과 핵무기 실험은 북핵 위기를 ...",
@@ -2006,6 +2008,10 @@ export const backlinks = {
         "2022-09-03": "- [[Monolithic Model]]",
         "Game Programming": "- [[Monolithic Model]]",
         "Pure Component Model": "- Alternative approach to [[Monolithic Model]]"
+    },
+    "Korean Peninsula": {
+        "2023-08-24": "- [[Korean Peninsula]]",
+        "Yemaek": "... that lived in the northern [[Korean Peninsula]] and Manchuria."
     },
     "Tailwind": {
         "2022-11-29": "- [[Tailwind]]",
@@ -2767,6 +2773,9 @@ export const backlinks = {
         "2023-01-09": "- [[2022년 11월 한 달간 일기 쓰기]]",
         "Building Habit": "- [[2022년 11월 한 달간 일기 쓰기]]"
     },
+    "Yemaek": {
+        "2023-08-24": "- [[Yemaek]]"
+    },
     "0383 Ransom Note": {
         "Coding Tests": "- [x] [[0383 Ransom Note]]"
     },
@@ -3222,6 +3231,7 @@ export const backlinks = {
         "2023-03-16": "- [[University of Southern California]]",
         "CS Colloquium": "CS Colloquium at [[University of Southern California|USC]]",
         "DNS": "- [[University of Southern California|USC]] [[CS Colloquium]]",
+        "Doheny East Asian Book Stacks": "This is one of [[University of Southern California|USC]]'s greatest treasures.",
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... current CS university student at [[University of Southern California|USC]].",
         "Wael AbdAlmageed": "- Researcher at [[University of Southern California]]",
         "이완용": "... 던지지 않는다. 그러다 얼마 전 [[University of Southern California|학교]] 도서관 동아시아관을 거닐던 중 우연히 ..."
@@ -4385,6 +4395,7 @@ export const backlinks = {
         "2023-06-23": "- [[한민족]]이라는 관념을 사랑했던 것일까.",
         "Born of this Land - The Founding Story of Hyundai": "... project would have prevented other [[한민족|Korean]] construction companies from entering overseas ...",
         "Brunch violates SF terms of use": "- [[한민족|Korean]] writing service [[Brunch]] violates [[Apple]]'s ...",
+        "Doheny East Asian Book Stacks": "... have a huge collection of [[한민족|Korean]] texts, especially from the 20th ...",
         "Imoogi and Dragon Company": "... Dragon 🐉 company, as in [[한민족|Korean]] folklore.",
         "J. Robert Oppenheimer": "... have mixed feelings about my [[한민족|Korean]] background. Much like how Oppenheimer ...",
         "Korean Discount": "... to the lower valuation of [[한민족|Korean]] stocks compared to their global ...",
@@ -5144,6 +5155,8 @@ export const backlinks = {
         "2023-02-15": "- [[한국인]]",
         "2023-06-23": "- 나는 [[한국인]]들을 사랑했던 것일까.",
         "Bootstrap": "... the dot-com bubble in 2000, [[한국인|Korean]] founders had to rely on ...",
+        "Doheny East Asian Book Stacks": "However, many [[한국인|Koreans]] don't know or care about ...",
+        "Yemaek": "[[한국인|Modern Koreans]] are believed to be descended ...",
         "국가와 민족": "- 한민족|한국계와 [[한국인]]이 다르다. 한민족|한국계는 [한민족]을 뜻하며, 한국인은 ...",
         "도로명주소": "[[한국인]]에게 무슨 일이 일어나거나 생활하는 단위는 ...",
         "민사고": "... 높으신 분들은 자기가 친한 '본토 [[한국인]]'들만 요직에 앉혔다고. 그로 인해 학교에 ...",
@@ -5514,6 +5527,7 @@ export const backlinks = {
         "AT&T Roaming Incident Report (December 2022)": "... December 15th, I landed in [[대한민국|Korea]] and did not have my ...",
         "Bootstrap": "... was historically less popular in [[대한민국|Korea]], where startups typically relied on ...",
         "Born of this Land - The Founding Story of Hyundai": "... States of America|US Army in [[대한민국|Korea]] was Hyundai's.",
+        "Doheny East Asian Book Stacks": "... a lot of contact with [[대한민국|Korea]] and has lived and breathed ...",
         "Downloading Any Recordings from Zoom": "... States and the Republic of [[대한민국|Korea]] allow limited usage of copyrighted ...",
         "Finally, Apple Pay in Korea": "... Apple Pay has expanded to [[대한민국|Korea]]. 대한민국|Korea remained the only developed ...",
         "HYBE": "HYBE is a [[대한민국|Korean]] entertainment company founded in 2005 ...",
@@ -5521,6 +5535,7 @@ export const backlinks = {
         "KakaoTalk": "... and is primarily used in [[대한민국|Korea]]. KakaoTalk was launched in 2010 ...",
         "Karrot": "> 당근마켓(Karrot)은 [[대한민국]]의 중고 거래, 소상공인 홍보 등 ...",
         "Korean Discount": "The [[대한민국|Korea]] discount is a term that ...",
+        "Korean Peninsula": "... Asia shared by 북한|North and [[대한민국|South Korea]]. The peninsula is 750 miles ...",
         "Krafton Way": "좁은 [[대한민국|한국]] 시장에서 벗어나, 해외 시장에 곧바로 ...",
         "LAH Case Study": "흥미롭다. 아마 [[대한민국]]에서 스타트업을 하는 사람들은 대부분 이런 ...",
         "Letter to Mr. Matt Rickard on 2022-10-03": "There are two behemoths in [[대한민국|Korea]], [[Naver]], and [[Kakao]].",
@@ -5544,6 +5559,7 @@ export const backlinks = {
         "Universal Chat App": "2. KakaoTalk ([[대한민국|Korea]]): Developed by [[Kakao]] Corporation, KakaoTalk ...",
         "Using an iPad as my Ebook": "... vendors. I also read many [[대한민국|Korean]] books, and the Kindle store ...",
         "Why Korean Banks Suck": "... America|U.S., But I am confident [[대한민국|Korea]] will take it to the ...",
+        "Yemaek": "... 세기 동안 만주와 신라 이북의 [[대한민국|한국]] 동부에서 사용되었다.",
         "hn.cho.sh 개발 기록": "Stripe도 붙이려다가 [[대한민국|한국]]이 지원되지 않아 포기했다.",
         "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "[[대한민국]]은 만성적인 경영난에 시달리고 있으며, 비효율적인 ...",
         "개성은 쟁취하는 것": "[[대한민국]]에는 독립적인 자아가 부족하다 — 14성현이 ...",
@@ -5990,6 +6006,9 @@ export const backlinks = {
         "WWDC23": "... faster workflows. Share Tester Notes. [[macOS]] notarization (check malicious components)",
         "iOS": "... is based on the Macintosh [[macOS|OS X]] and supports Objective-C, C, [[C++]], ..."
     },
+    "Doheny East Asian Book Stacks": {
+        "2023-08-24": "- [[Doheny East Asian Book Stacks]]"
+    },
     "Brunch violates SF terms of use": {
         "San Francisco": "- Although [[Brunch violates SF terms of use]]"
     },
@@ -6111,7 +6130,7 @@ export const backlinks = {
         "2022-09-14": "  - [[Person E7CFC5]]",
         "Project PEOPLE": "- [[Person E7CFC5]]"
     },
-    "UBI For Scholars": {
+    "UBI for Scholars": {
         "2022-07-18": "- [[UBI For Scholars]]",
         "Neo Korea": "- [[UBI For Scholars]]",
         "이공계": "[[UBI For Scholars|과학자연금]]이 있다면 어떨까?"
@@ -7456,11 +7475,13 @@ export const backlinks = {
         "2023-08-04": "- [[중국]]",
         "Did Bondee Really Suddenly Rise": "... Bondee and Zheli, a now-shut-down [[중국|Chinese]] service, and the allegations of ...",
         "Intracranial": "... Internationalization|i18n support (initially targeted for [[중국|Chinese]] users.)",
+        "Korean Peninsula": "한반도는 북쪽으로는 [[중국]], 북동쪽으로는 러시아와 국경을 접하고 있다.",
         "Metadream": "... One of Metadream's directors is [[중국|Chinese]] national Yang Yuxiang, the CEO ...",
         "Personal Training Corpus": "... I bought a couple of [[중국|Chinese]] microphones; I wear them and ...",
         "Pretendard의 아쉬운 점": "... 한자|한문 → 일본 한자|한문 → [[중국]] 한자|한문 순으로 Fallback 처리하려 했다.",
         "Super App and Democracy": "... the success of WeChat, a [[중국|Chinese]] super-app.",
         "WeChat": "WeChat is a [[중국|Chinese]] app that combines social media, ...",
+        "Yemaek": "... the Dongyi tribe from a [[중국|Chinese]] perspective.",
         "hn.cho.sh 개발 기록": "그리고 [[중국]] 친구가",
         "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "지정학적 어려움으로 일본과 [[중국]], 동남아에서 탈출하고자 모색하는 유럽과 미국의 ...",
         "경제 개발의 길목에서": "... 각종 천연자원도 많고, 일본, 대한민국|한국, [[중국]]이 세계에서 중요한 [[Economy|경제]]권을 형성하고 있다. ...",
@@ -8575,7 +8596,7 @@ export const backlinks = {
         "Short Position": "When you think a [[stock]] will go down, you borrow ...",
         "Stock Option": "... specific price. They aren't actual [[Stock|stocks]], but they can become Stock|stocks ...",
         "Tax": "... (profits from selling assets like [[Stock|stocks]]) vary based on your income. ...",
-        "너 주식 해": "# 너 [[Stock|주식]]해?",
+        "너 주식 해": "... 흔한 아이스 브레이커로 사용되는 \"너 [[Stock|주식]]해?\"가 흔하지 않다는 것이다. 몇 가지 ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "이 글은 Balena [[Stock|주식]]회사가 개발한 `balenaOS` 및 `balenaSound` [[Project|프로젝트]]를 ...",
         "퍼블리시티권": "... 연예인들은 E사가 해당 스타의 인기도를 [[Stock|주가]]로 표현하는 사이버증권거래소로 사이트에 자신들의 이름을 ..."
     },
@@ -9052,6 +9073,7 @@ export const backlinks = {
         "Haruki Murakami": "... stories have been bestsellers in [[일본|Japan]] and internationally, with his work ...",
         "IP is the new Real Estate": "... economic boom of the 1980s, [[일본|Japanese]] corporations and investors had a ...",
         "Jiro Horikoshi": "... aircraft utilized by the Imperial [[일본|Japanese]] Navy throughout World War II. ...",
+        "Korean Peninsula": "... Strait separates the peninsula from [[일본|Japan]] to the southeast. The Korean ...",
         "Krafton Way": "... 우리는 과거에 B급 제품을 만들어왔습니다. [[일본]]이나 [[United States of America|미국]] 기업들을 ...",
         "Metadream": "... and data centers in Singapore, [[일본|Japan]], [[대한민국|Korea]], and the [[United States ...",
         "Pretendard의 아쉬운 점": "... 한자|한문은 자주 사용되지 않는다는 이유로 [[일본]] 한자|한문을 그대로 가져오는 경우가 빈번하다.",
@@ -11336,6 +11358,9 @@ export const backlinks = {
     },
     "8766D6.png": {
         "Discuss on Social Media Button": "![[8766D6.png]]"
+    },
+    "9C3CA9.jpeg": {
+        "Doheny East Asian Book Stacks": "![[9C3CA9.jpeg]]"
     },
     "317954.png": {
         "Repeated Designs": "![[317954.png]]"
