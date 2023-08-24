@@ -8540,6 +8540,9 @@ export const backlinks = {
     "Atopic Zeropoint": {
         "2023-02-08": "- [[Atopic Zeropoint]]"
     },
+    "CardDrop": {
+        "2023-08-24": "- [[CardDrop]]"
+    },
     "On National Crises and the Intellectuals — Focused on GB and KR": {
         "2023-03-02": "- [[On National Crises and the Intellectuals — Focused on GB and KR]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 03-02 | 🇬🇧 [[On National Crises and the Intellectuals — Focused on GB and KR]] <br/> 🇰🇷 [[국가적 위기와 지식인에 ...",
