@@ -2307,7 +2307,7 @@ export const backlinks = {
         "Databricks": "... data engineering, data exploration, and [[ML|machine learning]] tasks, all in a collaborative ...",
         "Databricks AI Summit 2023 Block Session": "... historical data, which fuels the [[ML|machine learning]] platform.",
         "Deepfake": "... deepfakes leverage powerful techniques from [[ML|machine learning]] and [[AI|artificial intelligence]] to manipulate ...",
-        "Federated Learning": "Federated learning is a privacy-preserving [[ML|machine learning]] approach that enables multiple parties ...",
+        "Federated Machine Learning": "Federated learning is a privacy-preserving [[ML|machine learning]] approach that enables multiple parties ...",
         "Generalist": "... orchestrators rebased on Kubernetes), the [[ML|machine learning]] stack (cloud-native distributed training and ...",
         "Grammarly": "- [[ml]] team",
         "Grammarly Work Note 2023-06-01": "A large portion of [[ML]] Engineer's work is focused on ...",
@@ -2321,6 +2321,7 @@ export const backlinks = {
         "Person 392196": "... - felt like a giant [[ML|machine-learning]] research facility",
         "Person E7CFC5": "  - Healthcare [[ML]]",
         "Project Core ML Foundation": "## Different Types of [[ML]]",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "... to all privacy-preserving decentralized collaborative [[ML|machine learning]] techniques.",
         "SHAP": "... explain the output of any [[ML|machine learning]] model. It connects optimal credit ...",
         "Screenshot as an API": "- With [[ML]] advancements, screenshots are now a ...",
         "WebNPU API를 상상하다": "... 이미 Apple|애플의 Neural Engine으로 On-Device|온디바이스 [[ML]] 기술의 시작을 관찰하고 있다. 여기에는 ...",
@@ -6289,6 +6290,11 @@ export const backlinks = {
     "Shortcuts and Breakthrough": {
         "2023-07-25": "- [[Shortcuts and Breakthrough]]"
     },
+    "Federated Machine Learning": {
+        "2023-04-19": "- [[Federated Machine Learning]]",
+        "Project Florence": "... is a research project on [[Federated Machine Learning]].",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### First [[Federated Machine Learning|FML]] framework by [[Google]], 2016"
+    },
     "Apple Earth": {
         "2022-08-23": "- [[Apple Earth]]"
     },
@@ -7500,7 +7506,7 @@ export const backlinks = {
     },
     "Differential Privacy": {
         "2023-04-19": "- [[Differential Privacy]]",
-        "Federated Learning": "To preserve privacy, [[differential privacy]] adds noise to the updates ..."
+        "Federated Machine Learning": "To preserve privacy, [[differential privacy]] adds noise to the updates ..."
     },
     "서비스 시밍": {
         "2023-02-02": "- [[서비스 시밍]]",
@@ -7969,6 +7975,7 @@ export const backlinks = {
         "Person 1E6ABA": "... Educational Technology|EduTech Startup. Worked at [[Google]] as a Senior Manager.",
         "Person 392196": "- Will work at [[Google]] soon",
         "Proposal of Research 2023-01-10": "... search by image, such as [[Google]] Photos, or detect child sexual ...",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "... Federated Machine Learning|FML framework by [[Google]], 2016",
         "Satori": "... Font and Emoji Subsets from [[Google]] Fonts and other CDNs",
         "Search AI": "This can kill [[Google]].",
         "Search Engine": "[[Google]] [[Naver]]",
@@ -8003,10 +8010,6 @@ export const backlinks = {
     },
     "HTML 텍스트 위에 덧말 강조점 쓰기": {
         "2022-11-19": "  - [[HTML 텍스트 위에 덧말 강조점 쓰기]]"
-    },
-    "Federated Learning": {
-        "2023-04-19": "- [[Federated Learning]]",
-        "Project Florence": "... is a research project on [[Federated Learning]]."
     },
     "Deepfake": {
         "Digital Signature for Videos": "- Potential countermeasure to [[Deepfake]]."
