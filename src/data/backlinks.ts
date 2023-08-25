@@ -721,8 +721,8 @@ export const backlinks = {
         "Canary Trap": "... the prose of the unique [[language]] in the hopes that the ...",
         "Native Language": "Native [[Language]]",
         "QA.json": "... metadata (like date added, source, [[language]]), augmented data, and data balance.",
-        "Yemaek": "The Yemaek [[language]], also known as Ye-Maek, was ...",
-        "hreflang": "... RFC 8288. Hreflang specifies the [[language]] and optional geographic restrictions for ..."
+        "hreflang": "... RFC 8288. Hreflang specifies the [[language]] and optional geographic restrictions for ...",
+        "예맥": "The Yemaek [[language]], also known as Ye-Maek, was ..."
     },
     "Site On Which the Sun Never Sets": {
         "2023-02-26": "- [[Site On Which the Sun Never Sets]]",
@@ -756,6 +756,10 @@ export const backlinks = {
         "Cube": "- [[SwiftUI]]",
         "ULLO": "- Proof of Concept|PoC of [[SwiftUI]] Photo Widget App",
         "하늘땅사람 개발 기록": "... 분산시키고 좋은 품질을 유지하기 위해 [[SwiftUI]]를 사용하는 방안을 연구 중."
+    },
+    "Winning America": {
+        "2023-08-24": "- [[Winning America]]",
+        "학자 및 직계 가족의 의료보장제": "[[Winning America]]. 해외의 인재들이 [[United States of ..."
     },
     "ChatGPT": {
         "10x Technologist": "... and influential in their work. [[ChatGPT]]",
@@ -1881,11 +1885,11 @@ export const backlinks = {
     },
     "북한": {
         "2023-02-23": "- [[북한]]",
-        "Korean Peninsula": "... in East Asia shared by [[북한|North]] and [[대한민국|South Korea]]. The peninsula ...",
         "On National Crises and the Intellectuals — Focused on GB and KR": "... of power in the region. [[북한|North Korea]]'s missile and nuclear weapons tests ...",
         "경제 개발의 길목에서": "... 도무지 알 수가 없다. 대한민국|한국은 [[북한]]의 핵화를 반대하는 동시에 북한의 핵화를 ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 있는 것입니다. 날이 갈수록 커져가는 [[북한]]의 미사일과 핵무기 실험은 북핵 위기를 ...",
-        "한민족": "한민족은 대한민국과 [[북한]]의 주류가 되는 민족으로,"
+        "한민족": "한민족은 대한민국과 [[북한]]의 주류가 되는 민족으로,",
+        "한반도": "... in East Asia shared by [[북한|North]] and [[대한민국|South Korea]]. The peninsula ..."
     },
     "Stephan Ango": {
         "2022-10-19": "- [[Stephan Ango]]",
@@ -2008,10 +2012,6 @@ export const backlinks = {
         "2022-09-03": "- [[Monolithic Model]]",
         "Game Programming": "- [[Monolithic Model]]",
         "Pure Component Model": "- Alternative approach to [[Monolithic Model]]"
-    },
-    "Korean Peninsula": {
-        "2023-08-24": "- [[Korean Peninsula]]",
-        "Yemaek": "... that lived in the northern [[Korean Peninsula]] and Manchuria."
     },
     "Tailwind": {
         "2022-11-29": "- [[Tailwind]]",
@@ -2773,9 +2773,6 @@ export const backlinks = {
         "2022-12-27": "- [[2022년 11월 한 달간 일기 쓰기]]",
         "2023-01-09": "- [[2022년 11월 한 달간 일기 쓰기]]",
         "Building Habit": "- [[2022년 11월 한 달간 일기 쓰기]]"
-    },
-    "Yemaek": {
-        "2023-08-24": "- [[Yemaek]]"
     },
     "0383 Ransom Note": {
         "Coding Tests": "- [x] [[0383 Ransom Note]]"
@@ -5157,11 +5154,11 @@ export const backlinks = {
         "2023-06-23": "- 나는 [[한국인]]들을 사랑했던 것일까.",
         "Bootstrap": "... the dot-com bubble in 2000, [[한국인|Korean]] founders had to rely on ...",
         "Doheny East Asian Book Stacks": "However, many [[한국인|Koreans]] don't know or care about ...",
-        "Yemaek": "[[한국인|Modern Koreans]] are believed to be descended ...",
         "국가와 민족": "- 한민족|한국계와 [[한국인]]이 다르다. 한민족|한국계는 [한민족]을 뜻하며, 한국인은 ...",
         "도로명주소": "[[한국인]]에게 무슨 일이 일어나거나 생활하는 단위는 ...",
         "민사고": "... 높으신 분들은 자기가 친한 '본토 [[한국인]]'들만 요직에 앉혔다고. 그로 인해 학교에 ...",
         "박정희": "> 박정희의 가장 큰 공은 [[한국인]]에게 '우리도 할 수 있다'는 희망을 ...",
+        "예맥": "[[한국인|Modern Koreans]] are believed to be descended ...",
         "이완용": "... 희망으로 일본인들을 환영하였다. 그 당시 [[한국인]]들은 일본이 부패한 정부 관리들을 엄격히 ...",
         "한자": "... the first Korean kingdom. Although [[한국인|Koreans]] use Hangul, a writing system ...",
         "헤이그 특사": "... 희망으로 일본인들을 환영하였다. 그 당시 [[한국인]]들은 일본이 부패한 정부 관리들을 엄격히 ..."
@@ -5536,7 +5533,6 @@ export const backlinks = {
         "KakaoTalk": "... and is primarily used in [[대한민국|Korea]]. KakaoTalk was launched in 2010 ...",
         "Karrot": "> 당근마켓(Karrot)은 [[대한민국]]의 중고 거래, 소상공인 홍보 등 ...",
         "Korean Discount": "The [[대한민국|Korea]] discount is a term that ...",
-        "Korean Peninsula": "... Asia shared by 북한|North and [[대한민국|South Korea]]. The peninsula is 750 miles ...",
         "Krafton Way": "좁은 [[대한민국|한국]] 시장에서 벗어나, 해외 시장에 곧바로 ...",
         "LAH Case Study": "흥미롭다. 아마 [[대한민국]]에서 스타트업을 하는 사람들은 대부분 이런 ...",
         "Letter to Mr. Matt Rickard on 2022-10-03": "There are two behemoths in [[대한민국|Korea]], [[Naver]], and [[Kakao]].",
@@ -5560,7 +5556,7 @@ export const backlinks = {
         "Universal Chat App": "2. KakaoTalk ([[대한민국|Korea]]): Developed by [[Kakao]] Corporation, KakaoTalk ...",
         "Using an iPad as my Ebook": "... vendors. I also read many [[대한민국|Korean]] books, and the Kindle store ...",
         "Why Korean Banks Suck": "... America|U.S., But I am confident [[대한민국|Korea]] will take it to the ...",
-        "Yemaek": "... 세기 동안 만주와 신라 이북의 [[대한민국|한국]] 동부에서 사용되었다.",
+        "Winning America": "... are some potential Strategy|strategies that [[대한민국|Korea]] can 'win [[United States of ...",
         "hn.cho.sh 개발 기록": "Stripe도 붙이려다가 [[대한민국|한국]]이 지원되지 않아 포기했다.",
         "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "[[대한민국]]은 만성적인 경영난에 시달리고 있으며, 비효율적인 ...",
         "개성은 쟁취하는 것": "[[대한민국]]에는 독립적인 자아가 부족하다 — 14성현이 ...",
@@ -5569,7 +5565,7 @@ export const backlinks = {
         "국가와 민족": "- [[대한민국]]은 [[한민족|민족]]과 국가를 종종 혼동한다.",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 위해 앉아 고민하면서, 제 조국, [[대한민국]]이 직면한 위기에 대해 생각하지 않을 ...",
         "국내 은행 서비스가 나쁜 이유": "... States of America|미국에서도 익숙한 이야기지만, [[대한민국|한국]]은 한 단계 더 정수를 보여준다고 ...",
-        "너 주식 해": "미국에서 흥미로운 관찰 중 하나는 [[대한민국|한국]]에서 흔한 아이스 브레이커로 사용되는 \"너 ...",
+        "너 주식 해": "... America|미국에서 흥미로운 관찰 중 하나는 [[대한민국|한국]]에서 흔한 아이스 브레이커로 사용되는 \"너 ...",
         "대한민국의 저출산": "[[대한민국|Korea]]'s fertility rate has dropped to ...",
         "드디어, 한국 애플페이": "... 3일자 Finance|금융위원회에서 Apple|애플페이 도입을 승인했다. [[대한민국|한국]]은 선진국 중 유일하게 Apple|애플페이가 지원되지 ...",
         "민사고": "... 누군가를 정말 알고 지내는 사회다. [[대한민국|한국]] 학연 사회의 정점이다.",
@@ -5581,6 +5577,7 @@ export const backlinks = {
         "서울": "Seoul, the capital of [[대한민국|Korea]], has a fascinating history behind ...",
         "솟대": "솟대는 [[대한민국|한국]]의 민속신앙에서 새해의 풍년을 기원하며 세우거나 ...",
         "슈퍼자판기": "일본의 잃어버린 몇십년을 [[대한민국|한국]]은 이제서야 마주하고 있다. 일본처럼 대한민국|한국에서도 ...",
+        "예맥": "... 세기 동안 만주와 신라 이북의 [[대한민국|한국]] 동부에서 사용되었다.",
         "유난한 도전": "... 테크를 배우는 게 아니다. 아직 [[대한민국|한국]]에는 제대로 된 Financial Technology|핀테크 서비스가 ...",
         "이 땅에 태어나서": "... 못한 정부가 만들어놓은 결과이며, 국민들이 [[대한민국]]이 세계 [[Economy|경제]]에서 경쟁력을 갖추기 위해 ...",
         "이공계": "그러나 현재 [[대한민국|한국]]에서는 이공계와 산업에 대한 관심과 지원이 ...",
@@ -5594,12 +5591,14 @@ export const backlinks = {
         "태백산맥 계획": "[[대한민국]]의 정치, 사회, [[Economy|경제]], 문화, 세대, ...",
         "퍼블리시티권": "- [[대한민국|한국]]에서는 지난 1982년 [[서울]] 민사지방법원에서 본인의 ...",
         "하늘땅사람 개발 기록": "보아하니 [[대한민국|한국]] 대학 컴공과에서는 State Machine 수업을 ...",
+        "학자 및 직계 가족의 의료보장제": "... States of America|미국으로 가는 대신 [[대한민국|한국]]으로 올 명분을 어떻게 만들 수 ...",
         "한국 IT 산업의 내수 편중": "[[대한민국|한국]]은 원래부터 수출 주도로 먹고 살던 ...",
         "한국어": "한민족과 [[대한민국]]의 [[Native Language|모국어]]이다.",
         "한국의 입시와 거짓된 명예": "[[대한민국|한국]]의 입시가 물론 시간을 낭비하는 것은 ...",
         "한국인": "[[대한민국]]의 국적자이다. [[한민족]]과 다르다.",
         "한민족": "한민족은 [[대한민국]]과 [[북한]]의 주류가 되는 민족으로,",
         "한민족의 동족상잔": "... 이영훈 전 서울대 교수를 비롯한 [[대한민국|한국]] 학자들은 노비가 양인과 결혼을 할 ...",
+        "한반도": "... Asia shared by 북한|North and [[대한민국|South Korea]]. The peninsula is 750 miles ...",
         "헤이그 특사": "... 가지의 전쟁목적이 있다고 공언하였다. 첫째는 [[대한민국|한국]]의 독립유지와 영토보전이요, 둘째는 극동의 교역을 ...",
         "혜성처럼 나타난 본디": "Bondee|본디는 [[대한민국|한국]], [[일본]], [[Singapore|싱가포르]], [[대만|타이완]] 등에서 [[App ..."
     },
@@ -5791,6 +5790,7 @@ export const backlinks = {
         "Tools I will use one day": "- [[WasmEdge]]"
     },
     "Computer Science": {
+        "2023-08-24": "... 일들이 생긴다. 이번에 석사를 하면서 [[Computer Science|CS]] 3, 4학년 수업 조교를 하게 ...",
         "Are Computers Psychotropic Substances": "... bombs. Similarly, engineers attracted to [[computer science]] must not blindly support the ...",
         "Building a Second Brain": "... similar to Data Structures in [[Computer Science]].",
         "Computational Theory": "... to a branch of theoretical [[computer science]] that aims to understand, classify, ...",
@@ -6162,6 +6162,9 @@ export const backlinks = {
     "Search-based Tools for Thought": {
         "LavaLab Cohort of Spring 2023": "[[Search-based Tools for Thought]] for Teams. Given you connect ...",
         "Tools for Thought": "- [[Search-based Tools for Thought]]: indexes user's activity in the ..."
+    },
+    "학자 및 직계 가족의 의료보장제": {
+        "2023-08-24": "- [[학자 및 직계 가족의 의료보장제]]"
     },
     "Data Capturers": {
         "Rauno": "Interesting Extracranial Tools for Thought ([[Data Capturers]])",
@@ -6556,6 +6559,14 @@ export const backlinks = {
         "태백산맥 계획": "대한민국의 정치, 사회, [[Economy|경제]], 문화, 세대, 성별의 갈등을 축소하기 ...",
         "퍼블리시티권": "... 평가, 지명도 등으로부터 생기는 독립한 [[Economy|경제]]적 이익 또는 가치는 그 자체로 ...",
         "프로젝트 어덕행덕": "- 적은 돈으로 (제작) 큰 [[Economy|경제]]적 효과 (팬들에게 홍보 효과) 를 ..."
+    },
+    "한반도": {
+        "2023-08-24": "- [[한반도]]",
+        "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 그러나 이러한 위험에도 불구하고 대한민국|한국은 [[한반도]] 내 평화와 안정을 증진하겠다는 의지를 ...",
+        "대한민국": "대한민국은 동아시아의 [[한반도]] 남부에 위치한 국가이다. 주 민족은 ...",
+        "예맥": "... that lived in the northern [[한반도|Korean Peninsula]] and Manchuria.",
+        "조선의 노비제도에 관한 보고": "[[한반도]]는 극동지역에서 자연에 위배되는 이 제도를 ...",
+        "한민족": "한민족은 [[한반도]]와 그 주변의 만주, 연해주 등지에 ..."
     },
     "Neo Apps": {
         "2022-09-29": "- [[Neo Apps]]",
@@ -7481,15 +7492,13 @@ export const backlinks = {
         "2023-08-04": "- [[중국]]",
         "Did Bondee Really Suddenly Rise": "... Bondee and Zheli, a now-shut-down [[중국|Chinese]] service, and the allegations of ...",
         "Intracranial": "... Internationalization|i18n support (initially targeted for [[중국|Chinese]] users.)",
-        "Korean Peninsula": "한반도는 북쪽으로는 [[중국]], 북동쪽으로는 러시아와 국경을 접하고 있다.",
         "Metadream": "... One of Metadream's directors is [[중국|Chinese]] national Yang Yuxiang, the CEO ...",
         "Personal Training Corpus": "... I bought a couple of [[중국|Chinese]] microphones; I wear them and ...",
         "Pretendard의 아쉬운 점": "... 한자|한문 → 일본 한자|한문 → [[중국]] 한자|한문 순으로 Fallback 처리하려 했다.",
         "Super App and Democracy": "... the success of WeChat, a [[중국|Chinese]] super-app.",
         "WeChat": "WeChat is a [[중국|Chinese]] app that combines social media, ...",
-        "Yemaek": "... the Dongyi tribe from a [[중국|Chinese]] perspective.",
         "hn.cho.sh 개발 기록": "그리고 [[중국]] 친구가",
-        "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "지정학적 어려움으로 일본과 [[중국]], 동남아에서 탈출하고자 모색하는 유럽과 미국의 ...",
+        "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "지정학적 어려움으로 일본과 [[중국]], 동남아에서 탈출하고자 모색하는 유럽과 [[United ...",
         "경제 개발의 길목에서": "... 각종 천연자원도 많고, 일본, 대한민국|한국, [[중국]]이 세계에서 중요한 [[Economy|경제]]권을 형성하고 있다. ...",
         "공기 청정 비행선": "### [[중국]]의 특허 CN204737020U",
         "국가와 민족": "> 우리나라는 오랜 기간 [[중국]]형 중앙집권 통제 속에서 살아왔기에, 권력에 ...",
@@ -7497,11 +7506,14 @@ export const backlinks = {
         "드디어, 한국 애플페이": "... 일본처럼 충성심이 높은 것도 아니고, [[중국]]처럼 잠재적 구매자가 넘쳐나는 것도 아니다. ...",
         "본디는 사실 혜성이 아니다": "이 글은 Bondee|본디와 과거 [[중국]] 내 서비스 Zheli의 연관성을 조사하고",
         "삼체": "\"삼체\"는 [[중국]] 작가 류츠신의 공상 과학 소설이다.",
+        "예맥": "... the Dongyi tribe from a [[중국|Chinese]] perspective.",
         "일본 과학기술 총력전": "일본은 근대화 이후 [[중국]], 조선은 근대화가 가망 없다고 단념하고 ...",
         "중국어": "[[중국]]",
         "중국인": "[[중국]]",
+        "학자 및 직계 가족의 의료보장제": "특히 인도, [[중국]] 등에서 학자들이 [[United States of ...",
         "한민족": "[[중국]], [[United States of America|미국]], [[일본]] ...",
         "한민족의 동족상잔": "... States of America|미국 흑인노예나 혹은 [[중국]]과 [[일본]]에 있었던 노예보다는 자유로운 존재였다는 ...",
+        "한반도": "한반도는 북쪽으로는 [[중국]], 북동쪽으로는 러시아와 국경을 접하고 있다.",
         "한자": "... many Korean words come from [[중국|Chinese]] roots, knowing Hanja can help ..."
     },
     "Differential Privacy": {
@@ -7785,6 +7797,7 @@ export const backlinks = {
         "2022-06-14": "... shows how resumes differ in [[United States of America|US]] and [[대한민국|Korea]].",
         "2022-07-05": "- [[United States of America|미국]] 국적이지만 [[대한민국|한국]] 수학자로서는 최초 수상이다. ...",
         "2023-02-16": "- [[United States of America]]",
+        "2023-08-22": "... 것을 본다. 며칠 전에는 북한이 [[United States of America|미국]]령(괌처럼...)으로 정복당하더니, 오늘은 한국 내 각 ...",
         "AT&T Roaming Incident Report (December 2022)": "... to see that in the [[United States of America|United States]] you should protect and exercise ...",
         "American Bank Problems": "[[United States of America|US]] has the most banks...",
         "Biden-Harris Administration National Security Strategy 2022": "... further measures to ensure the [[United States of America|United States]] remains the world's top destination ...",
@@ -7798,6 +7811,7 @@ export const backlinks = {
         "IRS": "... the revenue service for the [[United States of America|United States]] federal government, which is responsible ...",
         "Krafton Way": "... 과거에 B급 제품을 만들어왔습니다. 일본이나 [[United States of America|미국]] 기업들을 선망하며 스스로를 낮추곤 했습니다. ...",
         "Letter to Mr. Matt Rickard on 2022-12-24": "... potential Super App in the [[United States of America|US]], but this may be a ...",
+        "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "[[United States of America|미국]]의 백만장자 Martin Shkreli가 마약 문제를 ...",
         "Metadream": "... Singapore, 일본|Japan, 대한민국|Korea, and the [[United States of America|United States]]. One of Metadream's directors is ...",
         "Nuclear Fusion": "- The [[United States of America|U.S.]] Department of Energy (DOE) and ...",
         "On National Crises and the Intellectuals — Focused on GB and KR": "... tensions between China and the [[United States of America|United States]] have dealt a heavy blow ...",
@@ -7807,8 +7821,9 @@ export const backlinks = {
         "Protocol Wars": "... would like to admit. The [[United States of America|U.S.]] Department of Defense was an ...",
         "Regulation of Fake News": "- The [[United States of America|United States]] government pressured [[Twitter]] to elevate ...",
         "Robert Oppenheimer and Jiro Horikoshi": "... first atomic bomb for the [[United States of America|United States]]. Both men were technological pioneers, ...",
+        "SVB Debacle": "... the working hours of the [[United States of America|U.S.]] banking system.",
         "Screenshot as an API": "... a rumored frustration with the [[United States of America|US]] Postal Service.",
-        "Self Driving": "... suite that's available in the [[United States of America|United States]]",
+        "Self Driving": "- Another feature coming to [[United States of America|North America]] is Automatic Lane Change (ALC), ...",
         "Super App is a Universal Chat App": "... a Super App in the [[United States of America|United States]] are vague. [[Apple]] and [[Google]] ...",
         "Tax": "In the [[United States of America|USA]], taxes on income and long-term ...",
         "Texts (Service)": "Potential Super App for the [[United States of America|United States]]. [[Super App is a Universal ...",
@@ -7817,20 +7832,27 @@ export const backlinks = {
         "Vannevar Bush": "... World War II, headed the [[United States of America|U.S.]] Office of Scientific Research and ...",
         "WeChat": "... other countries, such as the [[United States of America|United States]], Indonesia, Vietnam, and Malaysia.",
         "Why Korean Banks Suck": "... a familiar story in the [[United States of America|U.S.]], But I am confident [[대한민국|Korea]] ...",
+        "Winning America": "... Strategy|strategies that 대한민국|Korea can 'win [[United States of America|America]]'?",
         "雅號": "[[United States of America|미국]]의 친구들이 Sunghyun을 발음하기 어려워하기에, 기왕이면 ...",
+        "간판법": "- [[United States of America|미국]]과 유럽의 다른 도시에서도 비슷한 규제를 ...",
+        "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "... 중국, 동남아에서 탈출하고자 모색하는 유럽과 [[United States of America|미국]]의 기업들을 서울로 유치하기 위해 적극 ...",
         "경제 개발의 길목에서": "... 박 대통령을 만났을 때 내가 [[United States of America|미국]]에서 공부했고 교수 출신인 점을 인식해서인지 ...",
         "공기 청정 비행선": "### [[United States of America|미국]]의 특허 US5147429A",
         "국가와 민족": "... 알아서 본인의 권리를 주장해야 합니다. [[United States of America|미국]] 같은 나라는 자유를 위시한 하이 ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 고군분투하고 있습니다. 한편, 대한민국|한국은 중국과 [[United States of America|미국]] 간의 무역 긴장이 지속되면서 Economy|경제에 ...",
         "국내 은행 서비스가 나쁜 이유": "은행이 기술에 뒤처지는 것은 [[United States of America|미국]]에서도 익숙한 이야기지만, [[대한민국|한국]]은 한 단계 ...",
+        "너 주식 해": "[[United States of America|미국]]에서 흥미로운 관찰 중 하나는 [[대한민국|한국]]에서 ...",
         "누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다": "> [[United States of America|미국]], [[일본]]의 기술 수준을 따라갈 수 ...",
+        "도로명주소": "[[United States of America|미국]]에서의 흥미로운 관찰이다. 도로명 주소와 함께 ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "... 누른 뒤 다운로드를 시작한다. (팁: [[United States of America|미국]] VPN 서버를 사용하면 다운로드 속도가 ...",
         "민사고": "... 책을 읽고 분석하는 시간을 가지며 [[United States of America|미국]]사의 여러 인물들을 분석했다. 해당 작품은 ...",
         "벌금과 물가": "## [[United States of America|미국]]",
         "새로운 부동산은 지적 재산이다": "... 고수익을 위해 해외 부동산, 특히 [[United States of America|미국]]과 유럽의 부동산에 재투자했다.",
+        "서당개 3년이면 풍월을 읊는다": "... 방해받는 요소가 전혀 없었다. 그리고 [[United States of America|미국]]에서는 그런 기회가 적지 않았다. 노력을 ...",
         "이완용": "더군다나 [[United States of America|미국]]을 답사한 관리들이 악취로 가득했다는 점이 ...",
         "일본 과학기술 총력전": "패전 당시 [[United States of America|미국]]의 점령 정책이 완전한 비군사화에서 [[Economy|경제]] ...",
         "젠리의 성공 공식": "... 나는 스냅의 큰 실수라고 생각한다. [[United States of America|미국]] 대학생 사이에서도 더 이상 스냅을 ...",
+        "학자 및 직계 가족의 의료보장제": "Winning America. 해외의 인재들이 [[United States of America|미국]]으로 가는 대신 [[대한민국|한국]]으로 올 명분을 ...",
         "한국의 입시와 거짓된 명예": "오히려 [[United States of America|미국]]의 청소년들이 돈을 가지고 불장난을 하며 ...",
         "한민족": "중국, [[United States of America|미국]], [[일본]] 등에 많이 살고 있다.",
         "한민족의 동족상잔": "... 되는 납공노비가 있었다는 점에서 과거 [[United States of America|미국]] 흑인노예나 혹은 [[중국]]과 [[일본]]에 있었던 ..."
@@ -7853,6 +7875,9 @@ export const backlinks = {
     },
     "Reminder Tools": {
         "Tools for Thought": "- [[Reminder Tools]]"
+    },
+    "예맥": {
+        "2023-08-24": "- [[예맥]]"
     },
     "Ridi": {
         "Using an iPad as my Ebook": "... lovable. I can't understand why [[Ridi]] and [[Kindle]] make the purchased ..."
@@ -8044,6 +8069,7 @@ export const backlinks = {
         "Quoridor Game": "... as well as a previous [[strategy]] using a GA.",
         "Vanity Metrics": "... as they can inform your [[strategy]] and tactics.",
         "Willpower": "... fussed about money. The low-stress [[strategy]]: stay within your means and ...",
+        "Winning America": "What are some potential [[Strategy|strategies]] that [[대한민국|Korea]] can 'win [[United ...",
         "hn.cho.sh 개발 기록": "- PMF보다 Go To Market [[Strategy|전략]]이 훨씬 더 중요하다 (진짜 그런 ...",
         "경제 개발의 길목에서": "... 목적은 하나이지만, 목적 달성을 위한 [[Strategy|전략]]을 논의하고자 하는 것\"이라고 응수했다. 그 ...",
         "드디어, 한국 애플페이": "... 결제에 집중하는 것. 첫 번째 [[Strategy|전략]]이 결국 실패한 \"저스터치\"이다 (이때 저스터치가 ...",
@@ -9076,7 +9102,6 @@ export const backlinks = {
         "Haruki Murakami": "... stories have been bestsellers in [[일본|Japan]] and internationally, with his work ...",
         "IP is the new Real Estate": "... economic boom of the 1980s, [[일본|Japanese]] corporations and investors had a ...",
         "Jiro Horikoshi": "... aircraft utilized by the Imperial [[일본|Japanese]] Navy throughout World War II. ...",
-        "Korean Peninsula": "... Strait separates the peninsula from [[일본|Japan]] to the southeast. The Korean ...",
         "Krafton Way": "... 우리는 과거에 B급 제품을 만들어왔습니다. [[일본]]이나 [[United States of America|미국]] 기업들을 ...",
         "Metadream": "... and data centers in Singapore, [[일본|Japan]], [[대한민국|Korea]], and the [[United States ...",
         "Pretendard의 아쉬운 점": "... 한자|한문은 자주 사용되지 않는다는 이유로 [[일본]] 한자|한문을 그대로 가져오는 경우가 빈번하다.",
@@ -9100,6 +9125,7 @@ export const backlinks = {
         "젠리의 성공 공식": "... 관찰했다. 대만 대학에 유학 간 [[일본]] 학생들로부터 대만 전체로 앱이 퍼지는 ...",
         "한민족": "중국, United States of America|미국, [[일본]] 등에 많이 살고 있다.",
         "한민족의 동족상잔": "... of America|미국 흑인노예나 혹은 중국과 [[일본]]에 있었던 노예보다는 자유로운 존재였다는 점을 ...",
+        "한반도": "... Strait separates the peninsula from [[일본|Japan]] to the southeast. The Korean ...",
         "헤이그 특사": "> 러일전쟁 당시 [[일본]]은 두 가지의 전쟁목적이 있다고 공언하였다. ...",
         "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, [[일본]], [[Singapore|싱가포르]], [[대만|타이완]] 등에서 [[App Store|앱스토어]] ..."
     },
