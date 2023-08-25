@@ -3230,9 +3230,10 @@ export const backlinks = {
         "CS Colloquium": "CS Colloquium at [[University of Southern California|USC]]",
         "DNS": "- [[University of Southern California|USC]] [[CS Colloquium]]",
         "Doheny East Asian Book Stacks": "This is one of [[University of Southern California|USC]]'s greatest treasures.",
+        "LavaLab": "LavaLab is the [[University of Southern California]]'s premiere, student-run product incubator. Every ...",
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... current CS university student at [[University of Southern California|USC]].",
         "Wael AbdAlmageed": "- Researcher at [[University of Southern California]]",
-        "이완용": "... 던지지 않는다. 그러다 얼마 전 [[University of Southern California|학교]] 도서관 동아시아관을 거닐던 중 우연히 ..."
+        "이완용": "... 던지지 않는다. 그러다 얼마 전 [[University of Southern California|학교]] [[Doheny East Asian Book Stacks|도서관 ..."
     },
     "Privacy Manifest": {
         "WWDC23": "- [[Privacy Manifest]] that automatically aggregates third-party analytics ..."
@@ -6008,7 +6009,8 @@ export const backlinks = {
         "iOS": "... is based on the Macintosh [[macOS|OS X]] and supports Objective-C, C, [[C++]], ..."
     },
     "Doheny East Asian Book Stacks": {
-        "2023-08-24": "- [[Doheny East Asian Book Stacks]]"
+        "2023-08-24": "- [[Doheny East Asian Book Stacks]]",
+        "이완용": "... 전 University of Southern California|학교 [[Doheny East Asian Book Stacks|도서관 동아시아관]]을 거닐던 중 우연히 발견한 책의 ..."
     },
     "Brunch violates SF terms of use": {
         "San Francisco": "- Although [[Brunch violates SF terms of use]]"
