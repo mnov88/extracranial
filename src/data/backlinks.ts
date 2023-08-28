@@ -1231,6 +1231,12 @@ export const backlinks = {
         "Coding Tests": "## [[Leetcode]] 75",
         "Real Interviews": "- 3 [[Leetcode]] Easy to Medium Problem"
     },
+    "Secure Multi-Party Computation": {
+        "Indirect Information Leakage": "4. Advanced Cryptographic Techniques. [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMC]]) and [[Homomorphic ...",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Secure Multi-Party Computation]]. jointly compute over their inputs ...",
+        "Vertical Federated Learning": "... employing advanced cryptographic techniques like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]) or [[Homomorphic ...",
+        "honest-but-curious": "... Learning|FL) and cryptographic protocols like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]). In this ..."
+    },
     "Markdown": {
         "2022-07-09": "... plugin for converting wikilinks to [[Markdown]] links. For example, this is ...",
         "ContentLayer": "... your content data (such as [[Markdown]] files or CMS) into type-safe ...",
@@ -1701,6 +1707,10 @@ export const backlinks = {
         "Photo Library of Babel": "[[Library of Babel]]",
         "Proposal of Research 2023-01-10": "\"[[Library of Babel]]\" by Jorge Luis Borges is ...",
         "Proposal of Research 2023-03-28": "Inspired by \"[[Library of Babel]]\" by Jorge Luis Borges, this ..."
+    },
+    "Horizontal Federated Learning": {
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Horizontal Federated Learning]]. sample-based [[Federated Machine Learning|FL]]",
+        "Vertical Federated Learning": "... exchanging their raw data. Unlike [[Horizontal Federated Learning]], where different parties have different ..."
     },
     "Automemoji": {
         "2023-03-28": "- [[Automemoji]]"
@@ -2174,7 +2184,8 @@ export const backlinks = {
         "2023-05-09": "- [[Seaflooding]]"
     },
     "Public Transport": {
-        "2023-03-06": "- [[Public Transport]]"
+        "2023-03-06": "- [[Public Transport]]",
+        "Feature": "... the distance to the nearest [[public transport]] station, and so on."
     },
     "Negative Binomial": {
         "2023-02-02": "- [[Negative Binomial]]",
@@ -2307,10 +2318,12 @@ export const backlinks = {
         "Databricks": "... data engineering, data exploration, and [[ML|machine learning]] tasks, all in a collaborative ...",
         "Databricks AI Summit 2023 Block Session": "... historical data, which fuels the [[ML|machine learning]] platform.",
         "Deepfake": "... deepfakes leverage powerful techniques from [[ML|machine learning]] and [[AI|artificial intelligence]] to manipulate ...",
+        "Feature": "In [[ML|machine learning]], a \"feature\" is an individual ...",
         "Federated Machine Learning": "Federated learning is a privacy-preserving [[ML|machine learning]] approach that enables multiple parties ...",
         "Generalist": "... orchestrators rebased on Kubernetes), the [[ML|machine learning]] stack (cloud-native distributed training and ...",
         "Grammarly": "- [[ml]] team",
         "Grammarly Work Note 2023-06-01": "A large portion of [[ML]] Engineer's work is focused on ...",
+        "Horizontal Federated Learning": "... collaborate to train a shared [[ML|machine learning]] model without directly exchanging their ...",
         "Hugging Face": "... tools for building applications using [[ML|machine learning]]. It is most notable for ...",
         "Imagining WebNPU API": "... already observing blooming On-device inferencing [[ML]] technology with [[Apple]]'s [[Neural Engine]]. ...",
         "Indirect Information Leakage": "... Machine Learning|Federated Learning is a [[ML|machine learning]] approach where a model is ...",
@@ -2319,13 +2332,16 @@ export const backlinks = {
         "Mojo": "... a new programming language for [[ML]] that is high-performance and backward ...",
         "OpenAI enthroned as the Levis of Tech": "... Fewer expensive Data Engineers & [[ML]] Engineers — The rise of ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "- 값비싼 데이터 엔지니어 및 [[ML]] 엔지니어 감소 — [[AI]] 네이티브 ...",
+        "Overfitting": "... is a common problem in [[ML|machine learning]] where a model learns the ...",
         "Person 392196": "... - felt like a giant [[ML|machine-learning]] research facility",
         "Person E7CFC5": "  - Healthcare [[ML]]",
         "Project Core ML Foundation": "## Different Types of [[ML]]",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "  - [[ML]] Trainer",
         "SHAP": "... explain the output of any [[ML|machine learning]] model. It connects optimal credit ...",
         "Screenshot as an API": "- With [[ML]] advancements, screenshots are now a ...",
+        "Vertical Federated Learning": "... collaborate to train a shared [[ML|machine learning]] model without directly exchanging their ...",
         "WebNPU API를 상상하다": "... 이미 Apple|애플의 Neural Engine으로 On-Device|온디바이스 [[ML]] 기술의 시작을 관찰하고 있다. 여기에는 ...",
+        "honest-but-curious": "... parties collaborate to build a [[ML|machine-learning]] model without sharing their raw ...",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... Artifact|아티팩트라는 새로운 앱을 출시했다. Artifact|아티팩트는 [[ML|머신 러닝]]으로 관심사 기반 뉴스를 추천해주는 앱이다. ..."
     },
     "ACL 60-60": {
@@ -2385,6 +2401,9 @@ export const backlinks = {
         "2023-02-04": "- [[Finally, Apple Pay in Korea]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-04 | 🇬🇧 [[Finally, Apple Pay in Korea]] <br/> 🇰🇷 [[드디어, 한국 애플페이]] ...",
         "드디어, 한국 애플페이": "[[Finally, Apple Pay in Korea]]"
+    },
+    "Federated Transfer Learning": {
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Federated Transfer Learning]]"
     },
     "Slow Down Your Clock Cycle Speed": {
         "2022-10-12": "- [[Slow Down Your Clock Cycle Speed]]",
@@ -2699,6 +2718,9 @@ export const backlinks = {
         "Multiplexing": "- In [[Internetworking]], it means having multiple sockets ...",
         "Socket": "- used in [[Internetworking]]"
     },
+    "Vertical Federated Learning": {
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Vertical Federated Learning]]. [[feature]]-based [[Federated Machine Learning|FL]]"
+    },
     "Privacy Policy for My Chrome Extensions": {
         "Bing Chat for All Browsers": "- [[Privacy Policy for My Chrome Extensions]]"
     },
@@ -2707,6 +2729,8 @@ export const backlinks = {
     },
     "Problem": {
         "Digital Addiction": "[[Problem]]. I [[love software]], but I ...",
+        "Federated Transfer Learning": "To solve this [[problem]], transfer learning techniques can create ...",
+        "Overfitting": "Overfitting is a common [[problem]] in [[ML|machine learning]] where a ...",
         "Project Heimdall": "... dealing with the Subscription Recurrence [[problem]]. Given a subscription table, how ..."
     },
     "Project Heimdall Initial Planning": {
@@ -3417,17 +3441,6 @@ export const backlinks = {
         "역사의 집대성": "즉, 본질적으로 [[Antifragile|안티프래질]]이다.",
         "인하우스와 자유경쟁": "... 기술 애호가를 찾기가 어려웠다. 다행히도 [[Antifragile|안티프래질]]하게 독창성을 기를 수 있었다."
     },
-    "ecommerce": {
-        "2022-05-31": "... 모든 소비로 확장 - 두잇 [[ecommerce|이커머스]] 전체로 카테고리 확장 (23.07~) - ...",
-        "AI and Ecommerce": "ai and [[ecommerce]]",
-        "CDN": "... (media files, software, documents), applications ([[ecommerce|e-commerce]], portals), live streaming media, on-demand ...",
-        "Google": "... computing, computer software, quantum computing, [[ecommerce|e-commerce]], [[AI|artificial intelligence]], and consumer electronics. ...",
-        "Higher-Level Languages and Their Speeds": "... entire product catalog of the [[ecommerce|e-commerce]] site can be a single ...",
-        "Jeff Bezos": "... of Amazon, the world's largest [[ecommerce|e-commerce]] and [[cloud computing]] company. He ...",
-        "Mini App": "... platforms incorporate services like messaging, [[ecommerce|e-commerce]], ride-hailing, food delivery, and digital ...",
-        "One and Only (Social App)": "... such as messaging, social media, [[ecommerce|e-commerce]], and mobile payments into a ...",
-        "Separation of Computer Scientists and Computer Technologists": "... make a cool-looking Single-Page-App JavaScript [[ecommerce|e-commerce]] website..."
-    },
     "Pipelining": {
         "2022-12-08": "- [[Pipelining]]",
         "Computer Systems": "- [[Pipelining]]"
@@ -4096,7 +4109,7 @@ export const backlinks = {
         "EC2": "[[Amazon]] Elastic Compute Cloud",
         "Google": "... American information technology companies, alongside [[Amazon]], [[Apple]], [[Meta (Company)|Meta]], and [[Microsoft]]. ...",
         "Grammarly Internal Conference with Executives 2023-08-01": "... off with an internship at [[Amazon]] during the company's early phase, ...",
-        "Jeff Bezos": "... former president and CEO of [[Amazon]], the world's largest [[ecommerce|e-commerce]] and ...",
+        "Jeff Bezos": "... former president and CEO of [[Amazon]], the world's largest [[e-commerce]] and ...",
         "Kindle": "> [[Amazon]] Kindle is a series of ...",
         "Kinesis": "[[Amazon]] Kinesis is a fully managed ...",
         "Monolith": "... video streaming service offered by [[Amazon]], implemented a tool to monitor ...",
@@ -4342,9 +4355,9 @@ export const backlinks = {
         "AI-native": "... of cloud-native development. It uses [[cloud computing]] infrastructure, services, and tools to ...",
         "Cloud-Native": "... up in an era where [[cloud computing]] is the norm and take ...",
         "Financial Technology": "... financial services. AI|Artificial intelligence, Blockchain, [[Cloud computing]], and big data are regarded ...",
-        "Google": "... search engine technology, online advertising, [[cloud computing]], computer software, quantum computing, [[ecommerce|e-commerce]], ...",
+        "Google": "... search engine technology, online advertising, [[cloud computing]], computer software, quantum computing, [[e-commerce]], ...",
         "Homomorphic Encryption": "4. [[Cloud Computing]]. Users can store encrypted data ...",
-        "Jeff Bezos": "... the world's largest ecommerce|e-commerce and [[cloud computing]] company. He also owns The ...",
+        "Jeff Bezos": "... the world's largest e-commerce and [[cloud computing]] company. He also owns The ...",
         "Krafton Way": "- [[Cloud Computing|클라우드]]를 이용하여 전세계 서비스 용이",
         "On-Premise": "Opposite of [[Cloud Computing]]",
         "OpenAI enthroned as the Levis of Tech": "... made an enormous demand for [[cloud computing]] services like AWS. [[OpenAI]] just ...",
@@ -5082,7 +5095,7 @@ export const backlinks = {
         "Node.js": "Node.js is an open-source, server-side [[JavaScript]] runtime environment allowing developers to ...",
         "Project Heimdall": "... we scrape the web with [[JavaScript]] enabled? Problems are Access Restricted ...",
         "Safari": "... technologies, including HTML5, CSS, and [[JavaScript]]. It includes features such as ...",
-        "Separation of Computer Scientists and Computer Technologists": "... to make a cool-looking Single-Page-App [[JavaScript]] [[ecommerce|e-commerce]] website...",
+        "Separation of Computer Scientists and Computer Technologists": "... to make a cool-looking Single-Page-App [[JavaScript]] [[e-commerce]] website...",
         "TypeScript": "- Typed [[JavaScript]].",
         "Write Once Run Everywhere": "- [[JavaScript]]",
         "jQuery": "... popular, fast, small, and feature-rich [[JavaScript]] library. It makes things like ..."
@@ -5109,10 +5122,6 @@ export const backlinks = {
     },
     "Limit of a Sequence": {
         "2023-01-31": "- [[Limit of a Sequence]]"
-    },
-    "Secure Multi Party Computation": {
-        "Indirect Information Leakage": "4. Advanced Cryptographic Techniques. [[Secure Multi Party Computation]] ([[Secure Multi Party Computation|SMC]]) and ...",
-        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Secure Multi Party Computation]]. jointly compute over their inputs ..."
     },
     "Search AI": {
         "2022-12-04": "- [[Search AI]]",
@@ -5919,6 +5928,7 @@ export const backlinks = {
     "Ph.D.": {
         "2022-06-10": "... enabled, says Joseph Ravichandran, a [[Ph.D.|PhD]] student at MIT CSAIL and ...",
         "2022-07-05": "- 허 교수는 [[Ph.D.|박사]] 과정을 위해 [[United States of ...",
+        "Feature": "... level (high school, bachelor's, master's, [[Ph.D.]]).",
         "Resume": "- [[Ph.D.]]'s are a little different — ...",
         "Zenly Playbook": "... the early days, Zenly hired [[Ph.D.]]-level researchers to acquire unparalleled tech ...",
         "경제 개발의 길목에서": "양측의 토론을 듣고만 있던 브레진스키 [[Ph.D.|박사]]가 입을 열었다. 그는 \"나는 [[대한민국|한국]]의 ...",
@@ -6027,6 +6037,9 @@ export const backlinks = {
         "2023-01-09": "- Should I consider [[BIMI]] for my [[Mail|email]]?",
         "Letter to Mr. Matt Rickard on 2022-12-21": "... SMIME or, more recently — [[BIMI|Brand Indicators for Message Identification]] [[BIMI]]) Just like what [[Vercel]] ..."
     },
+    "honest-but-curious": {
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "... honest participants and security against [[honest-but-curious]] servers."
+    },
     "Repeated Designs": {
         "2022-11-30": "- [[Repeated Designs]]"
     },
@@ -6078,6 +6091,7 @@ export const backlinks = {
         "Cauchy": "... various fields, such as physics, [[finance]], and [[statistics]], as it is ...",
         "Differential Privacy": "... It is essential in healthcare, [[finance]], and government, where the privacy ...",
         "Finally, Apple Pay in Korea": "... and fixed the inconvenience. 대한민국|Korean [[finance]] market also used ancient architectures, ...",
+        "Horizontal Federated Learning": "... used in sectors like healthcare, [[finance]], and telecommunications. Using Horizontal Federated ...",
         "Monte Carlo Algorithm": "... Used in varied fields like [[finance]], physics, game theory, and [[graphics]], ...",
         "Nuclear Fission": "... directed the Economy, Environment, and [[Finance]] Ministries to develop a legal ...",
         "Supergravity Product": "... 아이디어는 보통 <br/>- 작은 아이디어 ([[Finance|금융]]수퍼앱x 친구에게 송금쉬운 앱o)",
@@ -6304,9 +6318,13 @@ export const backlinks = {
     },
     "Federated Machine Learning": {
         "2023-04-19": "- [[Federated Machine Learning]]",
+        "Federated Transfer Learning": "... an essential extension of existing [[Federated Machine Learning|federated learning]] systems because it deals with ...",
+        "Horizontal Federated Learning": "Horizontal [[Federated Machine Learning|Federated Learning]], or sample-based [[Federated Machine Learning|federated ...",
         "Indirect Information Leakage": "[[Federated Machine Learning|Federated Learning]] is a [[ML|machine learning]] approach ...",
         "Project Florence": "... is a research project on [[Federated Machine Learning]].",
-        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### First [[Federated Machine Learning|FML]] framework by [[Google]], 2016"
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### First [[Federated Machine Learning|FML]] framework by [[Google]], 2016",
+        "Vertical Federated Learning": "Vertical [[Federated Machine Learning|Federated Learning]], or [[feature]]-based [[Federated Machine Learning|federated ...",
+        "honest-but-curious": "... considered in the context of [[Federated Machine Learning|Federated Learning]] ([[Federated Machine Learning|FL]]) and cryptographic ..."
     },
     "Apple Earth": {
         "2022-08-23": "- [[Apple Earth]]"
@@ -6390,6 +6408,12 @@ export const backlinks = {
     "0059 Spiral Matrix II": {
         "2023-02-09": "- [[0059 Spiral Matrix II]]",
         "Coding Tests": "- [[0059 Spiral Matrix II]]"
+    },
+    "Overfitting": {
+        "Ensemble learning": "... also reduce the risk of [[overfitting]] and underfitting by balancing the ...",
+        "Feature": "... the model's performance and reduce [[Overfitting]].",
+        "Products Evolves Barely Enough to Solve Inconveniences": "... The Market Economy denies product [[overfitting]].",
+        "Project Core ML Foundation": "... of dimensionality & Prone to [[overfitting]]"
     },
     "Native Language": {
         "2022-06-28": "... gap between thinking in the [[native language]]?",
@@ -6608,6 +6632,18 @@ export const backlinks = {
         "Spring Boot": "... Spring Framework, a popular enterprise-level [[Java]] framework that provides comprehensive infrastructure ...",
         "Write Once Run Everywhere": "... the cross-platform benefits of the [[Java]] language. Ideally, a Java programs ...",
         "하늘땅사람 개발 기록": "... 가장 그럴 듯한 구현체로 김윤상님의 [[Java]] [[Android]] 천지인 키보드(kys-zeda/chunjiin)를 발견했다."
+    },
+    "e-commerce": {
+        "2022-05-31": "... 모든 소비로 확장 - 두잇 [[e-commerce|이커머스]] 전체로 카테고리 확장 (23.07~) - ...",
+        "AI and Ecommerce": "ai and [[e-commerce]]",
+        "CDN": "... (media files, software, documents), applications ([[e-commerce]], portals), live streaming media, on-demand ...",
+        "Federated Transfer Learning": "\t- an [[e-commerce]] company in the [[United States ...",
+        "Google": "... computing, computer software, quantum computing, [[e-commerce]], [[AI|artificial intelligence]], and consumer electronics. ...",
+        "Higher-Level Languages and Their Speeds": "... entire product catalog of the [[e-commerce]] site can be a single ...",
+        "Jeff Bezos": "... of Amazon, the world's largest [[e-commerce]] and [[cloud computing]] company. He ...",
+        "Mini App": "... platforms incorporate services like messaging, [[e-commerce]], ride-hailing, food delivery, and digital ...",
+        "One and Only (Social App)": "... such as messaging, social media, [[e-commerce]], and mobile payments into a ...",
+        "Separation of Computer Scientists and Computer Technologists": "... make a cool-looking Single-Page-App JavaScript [[e-commerce]] website..."
     },
     "Habbo Hotel": {
         "Sudden Rise of Bondee": "... own. Imagine Club Penguin or [[Habbo Hotel]] but in a modern messenger ..."
@@ -7046,9 +7082,11 @@ export const backlinks = {
         "Person 542AD7": "Had a conversation with [[Alan Chan]] on [[2022-12-27]]."
     },
     "Homomorphic Encryption": {
-        "Indirect Information Leakage": "... (Secure Multi Party Computation|SMC) and [[Homomorphic Encryption]] can be used for more ...",
+        "Indirect Information Leakage": "... Computation (Secure Multi-Party Computation|SMC) and [[Homomorphic Encryption]] can be used for more ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Homomorphic Encryption]]. allows computations on encrypted data ...",
-        "Secure Multi Party Computation": "3. [[Homomorphic Encryption]]. A kind of encryption that ..."
+        "Secure Multi-Party Computation": "3. [[Homomorphic Encryption]]. A kind of encryption that ...",
+        "Vertical Federated Learning": "... Computation (Secure Multi-Party Computation|SMPC) or [[Homomorphic Encryption]] to generate an updated global ...",
+        "honest-but-curious": "2. [[Homomorphic Encryption]]. Allows computation on encrypted data, ..."
     },
     "Project Heimdall Random Names": {
         "Project Heimdall": "- [[Project Heimdall Random Names]]"
@@ -7535,7 +7573,8 @@ export const backlinks = {
         "2023-04-19": "- [[Differential Privacy]]",
         "Federated Machine Learning": "To preserve privacy, [[differential privacy]] adds noise to the updates ...",
         "Indirect Information Leakage": "3. [[Differential Privacy]] Violations. [[Differential privacy]] aims to ...",
-        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Differential Privacy]]. Add random noise to the ..."
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Differential Privacy]]. Add random noise to the ...",
+        "honest-but-curious": "... incorporating specific privacy-preserving techniques like [[differential privacy]] or secure aggregation, designed to ..."
     },
     "서비스 시밍": {
         "2023-02-02": "- [[서비스 시밍]]",
@@ -7821,6 +7860,7 @@ export const backlinks = {
         "Born of this Land - The Founding Story of Hyundai": "... working outsourcing jobs for the [[United States of America|US]] military, Jung had to put ...",
         "CCPA": "... protection for residents of California, [[United States of America|United States]]. The bill was passed by ...",
         "Downloading Any Recordings from Zoom": "- Both the [[United States of America|United States]] and the Republic of [[대한민국|Korea]] ...",
+        "Federated Transfer Learning": "... an e-commerce company in the [[United States of America|United States]]",
         "FinTech and Justice": "... ahead of cash. In the [[United States of America|US]], the use of money is ...",
         "Frames Per Second": "... was audio post in the [[United States of America|U.S.]]",
         "IP is the new Real Estate": "... the yen appreciated against the [[United States of America|US]] dollar, 일본|Japanese investors reinvested in ...",
@@ -8858,6 +8898,12 @@ export const backlinks = {
         "원하는 곳만 전자레인지": "[[Someday]]",
         "조선왕조실록": "[[Someday]] [[Project]]. Fast and Modern version ..."
     },
+    "Feature": {
+        "Federated Transfer Learning": "... differ in their samples and [[feature]] space.",
+        "Horizontal Federated Learning": "... points) but share the same [[feature]] set.",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Feature]]",
+        "Vertical Federated Learning": "... Federated Machine Learning|Federated Learning, or [[feature]]-based [[Federated Machine Learning|federated learning]], is ..."
+    },
     "EU": {
         "2023-03-06": "- [[EU]]",
         "AIs.txt": "... for ML|machine learning, aligning with [[EU]] Copyright Directives.",
@@ -9852,7 +9898,7 @@ export const backlinks = {
         "2023-02-16": "  - [[AI]] applications",
         "2023-03-01": "- [[AI]]",
         "AI Garbage Data Flooding": "... on the Internet as potential [[AI]] garbage. The picture gallery from ...",
-        "AI and Ecommerce": "[[ai]] and [[ecommerce]]",
+        "AI and Ecommerce": "[[ai]] and [[e-commerce]]",
         "AI and ML": "How are [[AI]] and [[ML]] different? AI is ...",
         "AI replaces expensive jobs first": "## Then why can [[AI]] replace expensive jobs?",
         "AI-native": "[[AI]]-native refers to developing and deploying ...",
@@ -9875,7 +9921,7 @@ export const backlinks = {
         "Generative AI": "... of guessing the correct answer, [[AI]] creates something from [[Prompt Engineering]].",
         "Generative Databases": "... we think Database as Gen [[AI]] models instead of key-value storages?",
         "Geohot-Twitter Mayhem": "... famous hacker and founder of Comma.[[ai]]. [[Elon Musk]] hired him to ...",
-        "Google": "... computer software, quantum computing, ecommerce|e-commerce, [[AI|artificial intelligence]], and consumer electronics. It has ...",
+        "Google": "... computer software, quantum computing, e-commerce, [[AI|artificial intelligence]], and consumer electronics. It has ...",
         "Grammarly AI-NLP Club": "[[AI]] [[Natural Language Processing|NLP]] Club at ...",
         "Imagining WebNPU API": "... install an app for an [[AI]] to be tailored to their ...",
         "In-house and Free Market": "... by the recent boom in [[AI]]/CS. Despite the limitations, I [[antifragily]] ...",
