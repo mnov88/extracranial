@@ -6637,7 +6637,7 @@ export const backlinks = {
         "2022-05-31": "... 모든 소비로 확장 - 두잇 [[e-commerce|이커머스]] 전체로 카테고리 확장 (23.07~) - ...",
         "AI and Ecommerce": "ai and [[e-commerce]]",
         "CDN": "... (media files, software, documents), applications ([[e-commerce]], portals), live streaming media, on-demand ...",
-        "Federated Transfer Learning": "\t- an [[e-commerce]] company in the [[United States ...",
+        "Federated Transfer Learning": "  - an [[e-commerce]] company in the [[United States ...",
         "Google": "... computing, computer software, quantum computing, [[e-commerce]], [[AI|artificial intelligence]], and consumer electronics. ...",
         "Higher-Level Languages and Their Speeds": "... entire product catalog of the [[e-commerce]] site can be a single ...",
         "Jeff Bezos": "... of Amazon, the world's largest [[e-commerce]] and [[cloud computing]] company. He ...",
