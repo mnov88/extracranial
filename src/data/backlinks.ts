@@ -2824,6 +2824,7 @@ export const backlinks = {
         "2022-09-17": "- [[Android]]",
         "2022-10-20": "... on every startup, and on [[Android]], it may happen many times ...",
         "3D": "- glTF for [[Android]]",
+        "Android Intent": "In [[Android]] development, the `<intent-filter>` element in ...",
         "Cartography": "... turn-by-turn routing for iOS and [[Android]], while the Navigation Solutions cover ...",
         "Chrome": "... devices, including Windows, macOS, Linux, [[Android]], and [[iOS]].",
         "Facebook Messenger": "... standalone app for iOS and [[Android]] devices or integrated within the ...",
@@ -3273,6 +3274,9 @@ export const backlinks = {
     "Now Page": {
         "2022-10-17": "- [[Now Page]]",
         "Stephan Ango": "- [[Now Page]]. What I'm doing now — ..."
+    },
+    "Tectonic": {
+        "2023-08-29": "- [[Tectonic]]"
     },
     "Infinite Canvas": {
         "2022-07-26": "- Given this, simonbs/InfiniteCanvas: [[Infinite canvas]] using PencilKit, it seems relatively ...",
@@ -4997,6 +5001,7 @@ export const backlinks = {
         "WWDC23": "- NavigationStack → [[NavigationSplitView]]. a renewed focus on pagination, ..."
     },
     "LaTeX": {
+        "2023-08-29": "- [[LaTeX]]",
         "Space in LaTeX": "Space in [[LaTeX]]",
         "Useful ChatGPT Prompts": "## Use [[LaTeX]]",
         "latexify.cho.sh": "... convert the equation into $\\TeX$ [[LaTeX]]"
@@ -5818,6 +5823,7 @@ export const backlinks = {
         "Building a Second Brain": "... similar to Data Structures in [[Computer Science]].",
         "Computational Theory": "... to a branch of theoretical [[computer science]] that aims to understand, classify, ...",
         "Digital Addiction": "... new horizon of knowledge that [[Computer Science]] brings.",
+        "LaTeX": "In [[computer science]], LaTeX is a software system ...",
         "Threads": "In [[computer science]], a thread is a minor ..."
     },
     "Petersburg": {
@@ -7402,6 +7408,9 @@ export const backlinks = {
     "Born of this Land - The Founding Story of Hyundai": {
         "2023-02-23": "- [[Born of this Land - The Founding Story of Hyundai]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-23 | 🇬🇧 [[Born of this Land - The Founding Story of Hyundai]] <br/> 🇰🇷 [[이 땅에 태어나서]] ..."
+    },
+    "Android Intent": {
+        "2023-08-29": "- [[Android Intent]]"
     },
     "GraphQL": {
         "IDOL Stack": "- Takes care of [[GraphQL]] fuzz",
