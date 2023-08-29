@@ -5,6 +5,9 @@ export const backlinks = {
     "2016-10-22": {
         "국제 계열과 계열 변경 이야기": "[[2016-10-22]]에 게재된 [[재학생일기]]이다."
     },
+    "2023-08-28": {
+        "Project Florence": "## [[2023-08-28]]"
+    },
     "2023-07-25": {
         "Watch is the Greatest Dumb Phone": "Essay on [[2023-07-25]]."
     },
@@ -1778,7 +1781,8 @@ export const backlinks = {
     },
     "Project Florence": {
         "2023-06-02": "- [[Project Florence]]",
-        "2023-08-18": "- [[Project Florence]]"
+        "2023-08-18": "- [[Project Florence]]",
+        "2023-08-28": "- [[Project Florence]]"
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
@@ -2719,6 +2723,7 @@ export const backlinks = {
         "Socket": "- used in [[Internetworking]]"
     },
     "Vertical Federated Learning": {
+        "Project Florence": "... is a research project on [[Vertical Federated Learning|VFL]]",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Vertical Federated Learning]]. [[feature]]-based [[Federated Machine Learning|FL]]"
     },
     "Privacy Policy for My Chrome Extensions": {
@@ -4253,6 +4258,7 @@ export const backlinks = {
         "Preservation of Data": "... of Copies Keep Stuff Safe\") [[project]], under the auspices of Stanford ...",
         "Problem": "Leads to a Someday [[Project]].",
         "Project FFMpeg for iPad": "- Someday [[Project]]. [[FFMpeg]] equivalent for iPads!",
+        "Project Florence": "[[Project]] Florence is a research [[project]] ...",
         "Project Heimdall": "... conventional Docusaurus with Listmonk. Consider [[Project]] [[Done]].",
         "Project Linguine": "[[Project]] Linguine is an initiative to ...",
         "Project MAGI": "Someday [[Project]]. Use Multiple Artificial Generative Intelligence ...",
@@ -6321,7 +6327,6 @@ export const backlinks = {
         "Federated Transfer Learning": "... an essential extension of existing [[Federated Machine Learning|federated learning]] systems because it deals with ...",
         "Horizontal Federated Learning": "Horizontal [[Federated Machine Learning|Federated Learning]], or sample-based [[Federated Machine Learning|federated ...",
         "Indirect Information Leakage": "[[Federated Machine Learning|Federated Learning]] is a [[ML|machine learning]] approach ...",
-        "Project Florence": "... is a research project on [[Federated Machine Learning]].",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### First [[Federated Machine Learning|FML]] framework by [[Google]], 2016",
         "Vertical Federated Learning": "Vertical [[Federated Machine Learning|Federated Learning]], or [[feature]]-based [[Federated Machine Learning|federated ...",
         "honest-but-curious": "... considered in the context of [[Federated Machine Learning|Federated Learning]] ([[Federated Machine Learning|FL]]) and cryptographic ..."
@@ -8901,6 +8906,7 @@ export const backlinks = {
     "Feature": {
         "Federated Transfer Learning": "... differ in their samples and [[feature]] space.",
         "Horizontal Federated Learning": "... points) but share the same [[feature]] set.",
+        "Project Florence": "... Each site may have different [[Feature|features]]/columns in their data, but some ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Feature]]",
         "Vertical Federated Learning": "... Federated Machine Learning|Federated Learning, or [[feature]]-based [[Federated Machine Learning|federated learning]], is ..."
     },
