@@ -2198,6 +2198,9 @@ export const backlinks = {
     "Techs Actually Simple": {
         "Matt Rickard": "- [[Techs Actually Simple]]"
     },
+    "Better LaTeX": {
+        "2023-08-30": "- [[Better LaTeX]]"
+    },
     "졸업을 앞둔 중학교 3학년들에게": {
         "2016-12-08": "- [[졸업을 앞둔 중학교 3학년들에게]]"
     },
@@ -2545,6 +2548,9 @@ export const backlinks = {
         "2022-11-03": "- [[Structs and Unions]]",
         "Computer Systems": "- [[Structs and Unions]]",
         "Heap (Computer Systems)": "- align blocks, similar to [[Structs and Unions]]"
+    },
+    "Referral Share": {
+        "2023-08-30": "- [[Referral Share]]"
     },
     "Jeff Bezos": {
         "Amazon": "... Washington, and was founded by [[Jeff Bezos]] on July 5, 1994.",
@@ -4271,6 +4277,7 @@ export const backlinks = {
         "Proposal of Research 2023-01-10": "... found several layers for the [[project]].",
         "Quoridor Game": "Someday [[Project]]. Creating a \"Quoridor\" game and ...",
         "Redactor for iPhone": "Someday [[Project]].",
+        "Referral Share": "Someday [[Project]]. Referral Sharing Website for Verified ...",
         "Repeated Designs": "> Weekend side [[project]]. A gallery of the best ...",
         "Research Paper NPM System": "Someday [[Project]]. It's an [[npm]] system for ...",
         "Robert Oppenheimer and Jiro Horikoshi": "... scientific team of the Manhattan [[Project]], which developed the first atomic ...",
@@ -4431,6 +4438,7 @@ export const backlinks = {
         "민사고와 쇼비니즘": "... 통치할 수 있다. 그렇다면 강력한 [[한민족|민족]] 정체성을 가지지 않는 한 어떤 ...",
         "이 땅에 태어나서": "... 주머니 속 화폐의 거북선을 보여주며 [[한민족]]은 1500년대부터 철갑선을 만들었으며, 쇄국 정책으로 ...",
         "이완용": "... 악취로 가득했다는 점이 매우 부끄러웠다. [[한민족]]으로 반성을 하게 되었다.",
+        "일민주의": "... 만들어져 갔다. 동질성이 강조된 일민으로서 [[한민족|민족]]과 우상화된 영도자 이승만이 결국 동일시(identification)의 ...",
         "한국어": "[[한민족]]과 [[대한민국]]의 [[Native Language|모국어]]이다.",
         "한국인": "대한민국의 국적자이다. [[한민족]]과 다르다.",
         "한민족은 해적되었다": "[[한민족]]은 해적되었다.",
@@ -5611,6 +5619,7 @@ export const backlinks = {
         "이공계": "그러나 현재 [[대한민국|한국]]에서는 이공계와 산업에 대한 관심과 지원이 ...",
         "이무기 기업, 청룡 기업": "... 양 너무 마법적인 기운을 준다. [[대한민국|한국]] 민담처럼 잉어 🐟 → 이무기 ...",
         "이완용": "... 일반화되어 가고 있기 때문이다. 당시 [[대한민국|한국]]은 러일전쟁에 출병했던 일본군에 의해 사실상 ...",
+        "일민주의": "... 무너진 뒤에서 박정희 시기 이후 [[대한민국|한국]] 민족주의 역시 그러한 것들의 연장선상에서 ...",
         "일본 과학기술 총력전": "그리고 [[대한민국|한국]] 전쟁이 발발하자 [[일본]]은 미군의 병참 ...",
         "일일일": "- Too strong ties to [[대한민국|Korean]] Market",
         "장승": "장승은 현재 [[대한민국|한국]]의 전통문화로 인식되고 있으며, 장승제, 장승마을, ...",
@@ -5974,6 +5983,7 @@ export const backlinks = {
     "Vocab": {
         "Aesthete": "... beautiful stuff—incredibly exquisite mechanical property. [[vocab]]",
         "Cantankerous": "[[vocab]]",
+        "Esoteric": "[[Vocab]]",
         "Flamboyant": "- [[vocab]]. Flamboyant is an adjective to ...",
         "Frivolous": "[[vocab]]",
         "In search of my domain": "- The [[vocab]] chosh was registered as a ...",
@@ -6151,6 +6161,9 @@ export const backlinks = {
     },
     "Things (3D)": {
         "3D": "- [[Things (3D)]]"
+    },
+    "Product Hunt": {
+        "2023-08-30": "- [[Product Hunt]]"
     },
     "Avoid Premature Optimizations": {
         "2023-04-17": "- [[Avoid Premature Optimizations]], [[Bootstrap]]",
@@ -6610,6 +6623,7 @@ export const backlinks = {
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 그러나 이러한 위험에도 불구하고 대한민국|한국은 [[한반도]] 내 평화와 안정을 증진하겠다는 의지를 ...",
         "대한민국": "대한민국은 동아시아의 [[한반도]] 남부에 위치한 국가이다. 주 민족은 ...",
         "예맥": "... that lived in the northern [[한반도|Korean Peninsula]] and Manchuria.",
+        "일민주의": "... 냉전과 분단 등으로 인해 형성된 [[한반도]]에서의 민족주의의 특수성을 살펴보고자 하며, 그러한 ...",
         "조선의 노비제도에 관한 보고": "[[한반도]]는 극동지역에서 자연에 위배되는 이 제도를 ...",
         "한민족": "한민족은 [[한반도]]와 그 주변의 만주, 연해주 등지에 ..."
     },
@@ -7505,6 +7519,9 @@ export const backlinks = {
     "Universal Chat App": {
         "2023-08-04": "- [[Universal Chat App]]",
         "MLS": "[[Universal Chat App]]"
+    },
+    "일민주의": {
+        "2023-08-30": "- [[일민주의]]"
     },
     "GrammarlyGO": {
         "2023-04-25": "- [[GrammarlyGO]]",
@@ -8888,6 +8905,7 @@ export const backlinks = {
         "Project MAGI": "[[Someday]] [[Project]]. Use Multiple Artificial Generative ...",
         "Quoridor Game": "[[Someday]] [[Project]]. Creating a \"Quoridor\" game ...",
         "Redactor for iPhone": "[[Someday]] [[Project]].",
+        "Referral Share": "[[Someday]] [[Project]]. Referral Sharing Website for ...",
         "Research Paper NPM System": "[[Someday]] [[Project]]. It's an [[npm]] system ...",
         "Send Separately": "[[Someday]] [[Project]]. \"Send Separately\" for [[iMessage]].",
         "Show me your Laptop": "[[Someday]] [[Project]]. And embeddable [[SVG]] card ...",
@@ -9457,6 +9475,10 @@ export const backlinks = {
     "사발통문": {
         "2023-02-22": "- [[사발통문]]"
     },
+    "Health": {
+        "2023-08-30": "- [[Health]]",
+        "2023-08-31": "- [[Health]]"
+    },
     "Stirling Approximation": {
         "2023-01-26": "- [[Stirling Approximation]]"
     },
@@ -9663,7 +9685,8 @@ export const backlinks = {
     },
     "박정희": {
         "Born of this Land - The Founding Story of Hyundai": "## President [[박정희|Park Chung-hee]]",
-        "이 땅에 태어나서": "## [[박정희]]"
+        "이 땅에 태어나서": "## [[박정희]]",
+        "일민주의": "... 있다. 또한 제1공화국이 무너진 뒤에서 [[박정희]] 시기 이후 [[대한민국|한국]] 민족주의 역시 ..."
     },
     "Adobe Premiere Pro": {
         "2023-08-07": "- [[Adobe Premiere Pro]]",
@@ -9904,6 +9927,9 @@ export const backlinks = {
     },
     "Database vs Datalake": {
         "2023-06-02": "- [[Database vs Datalake]]"
+    },
+    "Esoteric": {
+        "2023-08-29": "- [[Esoteric]]"
     },
     "AI": {
         "2022-05-31": "... Capture your thoughts from anywhere. Weavit.[[ai]]",
