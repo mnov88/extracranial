@@ -5994,6 +5994,7 @@ export const backlinks = {
         "Quarrelsome": "[[vocab]]. Quarrelsome is an adjective that ...",
         "Sapiophile": "[[Vocab]]. Those who love smart people.",
         "Seaflooding": "한국어로는 '큰물' '물마' 등의 [[Vocab|단어]]가 있다. 하지만 개부심이라는 Vocab|단어가 가장 ...",
+        "Simian과 심미안": "Simian이라는 영어 [[Vocab|단어]]는 [[Simian|원숭이]], [[Simian|유인원]]을 뜻한다.",
         "Swift String 조작은 왜 그 모양인가": "... 서기소 묶음(Extended grapheme clusters)\"이 있는 [[Vocab|단어]]가 포함된다. Integer를 사용하면 각 문자열의 ...",
         "強力反權": "... 기간 나의 지향 기조를 정의하는 [[Vocab|단어]]를 찾아왔다.",
         "도메인 찾아 삼만리": "- chosh라는 [[Vocab|단어]]는 Urban Dictionary에 부정적인 의미로 등록되어 ...",
@@ -6608,7 +6609,7 @@ export const backlinks = {
         "새로운 부동산은 지적 재산이다": "일본 기업과 투자자들은 1980년대 [[Economy|경제]] 호황기에 많은 현금을 보유하고 있었으며 ...",
         "심리역사학": "심리역사학의 핵심 개념들이 [[Economy|경제]]학과 사회학에 영향을 준 사실도 흥미롭다. ...",
         "엔진 방정식": "- [[Economy|경제]]는 노동, 자본, 천연자원, 시간 등의 ...",
-        "원숭이와 꽃신": "- Microsoft|마이크로소프트도 이런 '원숭이 꽃신 [[Economy|경제]]학'에 충실한 기업이다. Microsoft|마이크로소프트는 대학을 상대로 ...",
+        "원숭이와 꽃신": "- Microsoft|마이크로소프트도 이런 'Simian|원숭이 꽃신 [[Economy|경제]]학'에 충실한 기업이다. Microsoft|마이크로소프트는 대학을 상대로 ...",
         "월급만큼 중요한 것은 자존급이다": "거래를 거듭할수록 사회는 자존급 [[Economy|경제]]위기를 맞게 될 것이다.",
         "의료 인공지능과 의대 쏠림": "어떤 인위적인 제약이 아닌 자연적, [[Economy|경제]]적 원리로 그렇게 되게끔 만들어야 한다.",
         "이 땅에 태어나서": "... 만들어놓은 결과이며, 국민들이 대한민국이 세계 [[Economy|경제]]에서 경쟁력을 갖추기 위해 기업의 성장을 ...",
@@ -6966,6 +6967,9 @@ export const backlinks = {
     "Link Coefficient": {
         "2023-02-16": "- [[Link Coefficient]]"
     },
+    "Simian과 심미안": {
+        "2023-08-31": "- [[Simian과 심미안]]"
+    },
     "Better Aldehyde": {
         "2022-07-12": "- [[Better Aldehyde]]",
         "2022-10-16": "### [[Better Aldehyde]]",
@@ -7233,7 +7237,7 @@ export const backlinks = {
         "Visual Studio Code": "... as VS Code, made by [[Microsoft]] with the Electron Framework, for ...",
         "Workbench": "- For [[Microsoft]] Products, use [[App Store]].",
         "macOS": "... widely used desktop OS, after [[Microsoft]] Windows and ahead of [[Linux]]. ...",
-        "원숭이와 꽃신": "- [[Microsoft|마이크로소프트]]도 이런 '원숭이 꽃신 [[Economy|경제]]학'에 충실한 ..."
+        "원숭이와 꽃신": "- [[Microsoft|마이크로소프트]]도 이런 '[[Simian|원숭이]] 꽃신 [[Economy|경제]]학'에 충실한 ..."
     },
     "Pull Request": {
         "2022-09-13": "... by anaclumos #1 · junhoyeo/vercel-submodules [[Pull Request]]",
@@ -7319,7 +7323,8 @@ export const backlinks = {
         "Coding Tests": "- [x] [[0021 Merge Two Sorted Lists]]"
     },
     "Aesthete": {
-        "Impact over Performance": "... too much of a technophile [[aesthete]]... so I have devised the ..."
+        "Impact over Performance": "... too much of a technophile [[aesthete]]... so I have devised the ...",
+        "Simian과 심미안": "[[Aesthete|심미안]] (審美眼) 은 아름다움을 살펴 볼 ..."
     },
     "무제한번역": {
         "2023-05-30": "- [[무제한번역]]",
@@ -9075,6 +9080,11 @@ export const backlinks = {
     "Engine Equation (Metapage)": {
         "2023-03-06": "- [[Engine Equation (Metapage)]]",
         "Tech Now Pay Later": "... to create utility. Interestingly, this [[Engine Equation (Metapage)]] is a function that takes ..."
+    },
+    "Simian": {
+        "AI는 고가 노동부터 점령한다": "... 나라에 세상 모르고 편안히 살던 [[Simian|원숭이]]가 있었다. 하루는 오소리가 찾아와 Simian|원숭이에게 ...",
+        "Simian과 심미안": "[[Simian]]이라는 영어 [[Vocab|단어]]는 [[Simian|원숭이]], [[Simian|유인원]]을 뜻한다.",
+        "원숭이와 꽃신": "... 나라에 세상 모르고 편안히 살던 [[Simian|원숭이]]가 있었다. 하루는 오소리가 찾아와 Simian|원숭이에게 ..."
     },
     "CODE Procedure": {
         "2022-07-01": "I like the [[CODE Procedure]] in [[PARA]] architecture as a ...",
