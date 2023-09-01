@@ -3033,6 +3033,7 @@ export const backlinks = {
         "2023-02-21": "- [[Readings]]",
         "2023-03-08": "- [[Readings]]",
         "2023-04-24": "- [[Readings]]",
+        "2023-08-31": "- [[Readings]]",
         "Building a Second Brain": "... it into Projects, Research, and [[Readings]].",
         "Displaying exact datetimes on Ghost": "## Further [[Readings]]",
         "Opening external links in a new tab by default on Ghost": "## Additional [[Readings]]",
@@ -5271,6 +5272,10 @@ export const backlinks = {
         "2022-09-05": "- [[0733 Flood Fill]]",
         "Coding Tests": "- [x] [[0733 Flood Fill]]"
     },
+    "한국통사": {
+        "2023-08-31": "- [[한국통사]]",
+        "Readings": "- [x] [[한국통사]]"
+    },
     "0217 Contains Duplicate": {
         "Coding Tests": "- [x] [[0217 Contains Duplicate]]"
     },
@@ -5633,6 +5638,7 @@ export const backlinks = {
         "한국어": "한민족과 [[대한민국]]의 [[Native Language|모국어]]이다.",
         "한국의 입시와 거짓된 명예": "[[대한민국|한국]]의 입시가 물론 시간을 낭비하는 것은 ...",
         "한국인": "[[대한민국]]의 국적자이다. [[한민족]]과 다르다.",
+        "한국통사": "엄청난 Superbrain|지식인이며 뛰어난 통찰이다. 역동적인 [[대한민국|한국]] 근현대사의 몸부림을 서서히 하지만 고약하게 ...",
         "한민족": "한민족은 [[대한민국]]과 [[북한]]의 주류가 되는 민족으로,",
         "한민족의 동족상잔": "... 이영훈 전 서울대 교수를 비롯한 [[대한민국|한국]] 학자들은 노비가 양인과 결혼을 할 ...",
         "한반도": "... Asia shared by 북한|North and [[대한민국|South Korea]]. The peninsula is 750 miles ...",
@@ -6050,7 +6056,8 @@ export const backlinks = {
     },
     "Doheny East Asian Book Stacks": {
         "2023-08-24": "- [[Doheny East Asian Book Stacks]]",
-        "이완용": "... 전 University of Southern California|학교 [[Doheny East Asian Book Stacks|도서관 동아시아관]]을 거닐던 중 우연히 발견한 책의 ..."
+        "이완용": "... 전 University of Southern California|학교 [[Doheny East Asian Book Stacks|도서관 동아시아관]]을 거닐던 중 우연히 발견한 책의 ...",
+        "한국통사": "[[Doheny East Asian Book Stacks|동헤니]]에서 1917년 순한글 출판본을 찾았다."
     },
     "Brunch violates SF terms of use": {
         "San Francisco": "- Although [[Brunch violates SF terms of use]]"
@@ -6527,7 +6534,8 @@ export const backlinks = {
     "이완용": {
         "2023-04-24": "- [[이완용]]",
         "Readings": "- [x] [[이완용]] 평전 (윤덕한 저)",
-        "동아일보 1926년 2월 13일 이완용 사망 기사 검열 처리에 대한 사건": "[[이완용]]에 대한 자료를 조사하던 중 묘하게 ..."
+        "동아일보 1926년 2월 13일 이완용 사망 기사 검열 처리에 대한 사건": "[[이완용]]에 대한 자료를 조사하던 중 묘하게 ...",
+        "한국통사": "... 수많은 잔재와 구시대적 사고관들이 남아있다. [[이완용|결국 자기반성을 해야할 뿐이다.]]"
     },
     "Buttondown": {
         "2022-10-19": "- [[Buttondown]]",
@@ -7674,7 +7682,8 @@ export const backlinks = {
         "서당개 3년이면 풍월을 읊는다": "... 태생부터 남다른 J. Robert Oppenheimer|오펜하이머급 [[Superbrain|슈퍼브레인]]은 얼마 되지 않는 듯했다. 나머지는 ...",
         "심리역사학": "... 때문. 때문에 작중에서도 굉장히 극소수의 [[Superbrain|지식인]]들만 심리역사학의 존재를 알고 있고, 심리역사학은 ...",
         "전방위 포위": "... 앞: 순식간에 초격차를 벌려나가는 업계 [[Superbrain|지식인]]들",
-        "조선의 노비제도에 관한 보고": "... 하는 이유가 무엇이 있겠습니까? 가장 [[Superbrain|지식인]]이라고 존경받는 사람들조차도 이러한 논리에서 벗어나지 ..."
+        "조선의 노비제도에 관한 보고": "... 하는 이유가 무엇이 있겠습니까? 가장 [[Superbrain|지식인]]이라고 존경받는 사람들조차도 이러한 논리에서 벗어나지 ...",
+        "한국통사": "엄청난 [[Superbrain|지식인]]이며 뛰어난 통찰이다. 역동적인 [[대한민국|한국]] 근현대사의 ..."
     },
     "한민족의 문화": {
         "Neo Korea": "- [[한민족의 문화]]",
@@ -7963,6 +7972,7 @@ export const backlinks = {
         "2023-02-19": "- [[Watchings]]",
         "2023-03-08": "- [[Watchings]]",
         "2023-03-24": "- [[Watchings]]",
+        "2023-08-31": "- [[Watchings]]",
         "Playings": "... 2023. Just like Readings and [[Watchings]]."
     },
     "Reminder Tools": {
@@ -9440,7 +9450,8 @@ export const backlinks = {
         "2023-02-22": "- [[이 땅에 태어나서]]",
         "2023-02-23": "- [[이 땅에 태어나서]]",
         "30-Day Tweet Test (Harry Stebbings)": "... Story of Hyundai <br/> 🇰🇷 [[이 땅에 태어나서]]      ...",
-        "Readings": "- [x] [[이 땅에 태어나서]]"
+        "Readings": "- [x] [[이 땅에 태어나서]]",
+        "한국통사": "[[이 땅에 태어나서|태백광노 박은식이 아산 정주영을 보았다면 무어라 말했을까...]]"
     },
     "Almost Monospaced": {
         "2022-11-07": "- [[Almost Monospaced]]"
@@ -11390,6 +11401,12 @@ export const backlinks = {
     },
     "0 for i in image[0": {
         "0733 Flood Fill": "...    visited = [[0 for i in image[0]] for j in image]"
+    },
+    "AA7121.jpeg": {
+        "한국통사": "![[AA7121.jpeg]]"
+    },
+    "718EA6.jpeg": {
+        "한국통사": "![[718EA6.jpeg]]"
     },
     "529EA6.png": {
         "Brian Lovin": "![[529EA6.png]]"
