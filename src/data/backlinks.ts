@@ -679,6 +679,9 @@ export const backlinks = {
         "Locking your Mac with Command+L": "[[2019-11-09]]",
         "Mac을 Command+L로 잠그는 방법": "[[2019-11-09]]"
     },
+    "2023-09-05": {
+        "ChatGPT보다 내가 나은데": "[[2023-09-05]]의 생각이다."
+    },
     "2022-09-05": {
         "0053 Maximum Subarray": "Solved at: [[2022-09-05]]",
         "0733 Flood Fill": "Solved at: [[2022-09-05]]"
@@ -780,6 +783,7 @@ export const backlinks = {
         "Browser Company Hackathon": "... Reader Mode + SummarizationBot using [[ChatGPT]]?",
         "ChatGPT is a Blurry JPEG and We Need That": "... large-scale language models (LLM|LLMs) like [[ChatGPT]] and lossy compression algorithms like ...",
         "ChatGPT는 흐릿한 이미지이지만 필요합니다": "Ted Chiang|테드 창은 [[ChatGPT]]와 같은 대규모 언어 모델([[LLM]])을 흐릿한 ...",
+        "ChatGPT보다 내가 나은데": "[[ChatGPT]]는 대중의 생각을 읊는건 잘하지만 틀을 ...",
         "Conversational AI Tools for Thought": "- [[ChatGPT]] and [[Generative AI]] are not ...",
         "Conversational Generative AI as Search Engine": "- [[ChatGPT]]",
         "Cool Generative AI Applications": "- [[ChatGPT]]",
@@ -1385,6 +1389,10 @@ export const backlinks = {
         "LavaLab Cohort of Spring 2023": "- Hive gives [[One and only]] search interface to fish your ...",
         "One and Only (Social App)": "... the solution for you. Introducing '[[One and only]],' the ultimate social media app ..."
     },
+    "박스상자 (2012)": {
+        "2023-09-05": "- [[박스상자 (2012)]]",
+        "역사의 집대성": "- [[박스상자 (2012)]]"
+    },
     "Software as a Service": {
         "FIRE": "## Payment Infra for [[Software as a Service]]",
         "FIRE Engine": "- [[Software as a Service]] that drives revenue streams for ...",
@@ -1714,6 +1722,10 @@ export const backlinks = {
     "Horizontal Federated Learning": {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Horizontal Federated Learning]]. sample-based [[Federated Machine Learning|FL]]",
         "Vertical Federated Learning": "... exchanging their raw data. Unlike [[Horizontal Federated Learning]], where different parties have different ..."
+    },
+    "기술 르네상스 (2018-2021)": {
+        "2023-09-05": "- [[기술 르네상스 (2018-2021)]]",
+        "역사의 집대성": "- [[기술 르네상스 (2018-2021)]]"
     },
     "Automemoji": {
         "2023-03-28": "- [[Automemoji]]"
@@ -2207,6 +2219,7 @@ export const backlinks = {
     "Conversational AI Tools for Thought": {
         "2022-12-04": "... Elicit: The AI Research Assistant: [[Conversational AI Tools for Thought]]",
         "2022-12-24": "- [[Conversational AI Tools for Thought]]. Poe beta test starting - ...",
+        "ChatGPT보다 내가 나은데": "그니까 [[Conversational AI Tools for Thought]]로 쓰고 있었는데 내가 무슨 창의적인 ...",
         "Generative Intelligence": "- [[Conversational AI Tools for Thought]]",
         "LavaLab Cohort of Spring 2023": "... semantic searches and Chat explanation: [[Conversational AI Tools for Thought]].",
         "Plateau of Latent Potential": "... Extracranial, a Memex, or even [[Conversational AI Tools for Thought]].",
@@ -2222,6 +2235,10 @@ export const backlinks = {
     },
     "Pascal Triangle": {
         "2023-01-24": "- [[Pascal Triangle]]"
+    },
+    "과거의 영광 (2015-2018)": {
+        "2023-09-05": "- [[과거의 영광 (2015-2018)]]",
+        "역사의 집대성": "- [[과거의 영광 (2015-2018)]]"
     },
     "Person 960D1D": {
         "2023-03-03": "- [[Person 960D1D]]",
@@ -2846,6 +2863,10 @@ export const backlinks = {
         "iOS": "... installed mobile operating system after [[Android]]. iOS is based on the ...",
         "하늘땅사람 개발 기록": "... 그럴 듯한 구현체로 김윤상님의 Java [[Android]] 천지인 키보드(kys-zeda/chunjiin)를 발견했다."
     },
+    "방송부 (2013-2014)": {
+        "2023-09-05": "- [[방송부 (2013-2014)]]",
+        "역사의 집대성": "- [[방송부 (2013-2014)]]"
+    },
     "FinTech and Justice": {
         "2022-10-18": "- [[FinTech and Justice]]"
     },
@@ -2978,6 +2999,7 @@ export const backlinks = {
     },
     "역사의 집대성": {
         "2023-01-12": "- [[역사의 집대성]]",
+        "2023-09-05": "- [[역사의 집대성]]",
         "Project": "- [[역사의 집대성]]",
         "재학생일기": "2023-01-12에 [[역사의 집대성]] 과정 중 다시 읽어보니 이때가 ..."
     },
@@ -3666,6 +3688,10 @@ export const backlinks = {
     },
     "Lombok": {
         "2023-07-24": "... also had to look into [[Lombok]] and [[Twitter Recommendation Algorithms]]."
+    },
+    "물총싸움 (2014)": {
+        "2023-09-05": "- [[물총싸움 (2014)]]",
+        "야광봉 (2014)": "[[물총싸움 (2014)]]을 하고 삼겹살을 구워먹기도 했다."
     },
     "상경과 상항": {
         "2023-07-06": "- [[상경과 상항]]"
@@ -5697,6 +5723,10 @@ export const backlinks = {
         "젠리의 성공 공식": "... 안에 전교생이 사용한다는 것을 관찰했다. [[대만]] 대학에 유학 간 [[일본]] 학생들로부터 ...",
         "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, 일본, Singapore|싱가포르, [[대만|타이완]] 등에서 [[App Store|앱스토어]] 1위를 하며 ..."
     },
+    "조디슨 (2011)": {
+        "2023-09-05": "- [[조디슨 (2011)]]",
+        "역사의 집대성": "- [[조디슨 (2011)]]"
+    },
     "Person CC8297": {
         "2022-09-13": "- [[Person CC8297]]",
         "Project PEOPLE": "- [[Person CC8297]]"
@@ -6287,6 +6317,9 @@ export const backlinks = {
         "2022-11-04": "- [[Page Size and Address Translations]]",
         "Computer Systems": "- [[Page Size and Address Translations]]",
         "Virtual Memory": "- [[Page Size and Address Translations]]"
+    },
+    "ChatGPT보다 내가 나은데": {
+        "2023-09-05": "- [[ChatGPT보다 내가 나은데]]"
     },
     "조선왕조실록": {
         "2022-08-28": "- [[조선왕조실록]]"
@@ -9329,6 +9362,10 @@ export const backlinks = {
         "Engine Equation (Metapage)": "- Engine Equation [[엔진 방정식]]",
         "기술 할부 결제": "여기서 [[엔진 방정식]]이 유용하게 다가온다."
     },
+    "야광봉 (2014)": {
+        "2023-09-05": "- [[야광봉 (2014)]]",
+        "물총싸움 (2014)": "[[야광봉 (2014)]]을 참고하자."
+    },
     "NewsGPT": {
         "2023-03-06": "- [[NewsGPT]]",
         "Can we ever build TikTok for Text": "... more breaking, for example, a [[NewsGPT]].",
@@ -12117,6 +12154,24 @@ export const backlinks = {
     },
     "F912EE.jpg": {
         "Databricks AI Summit 2023 Block Session": "![[F912EE.jpg]]"
+    },
+    "C78CBB.jpg": {
+        "야광봉 (2014)": "![[C78CBB.jpg]]"
+    },
+    "C085A2.jpg": {
+        "야광봉 (2014)": "![[C085A2.jpg]]"
+    },
+    "315260.jpg": {
+        "야광봉 (2014)": "![[315260.jpg]]"
+    },
+    "9E27FE.jpg": {
+        "야광봉 (2014)": "![[9E27FE.jpg]]"
+    },
+    "D6A6B3.jpg": {
+        "야광봉 (2014)": "![[D6A6B3.jpg]]"
+    },
+    "9D39C5.jpg": {
+        "야광봉 (2014)": "![[9D39C5.jpg]]"
     },
     "Zettelkasten": {
         "Tools Must Vanish": "... is junk. It's never the [[Zettelkasten]] of the next [[Vannevar Bush]]; ..."
