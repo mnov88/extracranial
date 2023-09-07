@@ -10587,9 +10587,6 @@ export const backlinks = {
     "5191FF.png": {
         "2023-04-06": "![[5191FF.png]]"
     },
-    "356 Official SSH Server": {
-        "2022-08-25": "- [[356 Official SSH Server]]"
-    },
     "D09A61.png": {
         "2022-11-11": "![[D09A61.png]]",
         "Dynamic Island on the Web": "![[D09A61.png]]"
@@ -10605,9 +10602,6 @@ export const backlinks = {
     "FA5FEC.mp4": {
         "2022-11-11": "![[FA5FEC.mp4]]",
         "Dynamic Island on the Web": "![[FA5FEC.mp4]]"
-    },
-    "D4C125.mp4": {
-        "2022-08-01": "![[D4C125.mp4]]"
     },
     "E8341D.png": {
         "2023-02-08": "![[E8341D.png]]"
