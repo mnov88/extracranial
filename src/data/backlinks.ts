@@ -1169,6 +1169,7 @@ export const backlinks = {
     },
     "New York City": {
         "2023-01-13": "- [[New York City]]",
+        "Fast": "... to estimate the distance from [[New York City|New York]] to Paris, which turned out ...",
         "Fiercely Overpriced": "... Wilensky, a web developer from [[New York City]], narrates his experience creating and ...",
         "IP is the new Real Estate": "... in global cities such as [[New York City|New York]], London, and Paris were seen ...",
         "SendGrid": "... with a debut on the [[New York City|New York]] [[Stock]] Exchange on November 16, ...",
@@ -1947,6 +1948,9 @@ export const backlinks = {
     "Imposter Syndrome": {
         "Grammarly Internal Conference with Executives 2023-08-01": "## Dealing with [[Imposter Syndrome]]"
     },
+    "카카오스토리 완전백업": {
+        "2023-09-05": "- [[카카오스토리 완전백업]]"
+    },
     "Learning Execution Semantics from Micro-Traces for Binary Similarity": {
         "2023-03-28": "- [[Learning Execution Semantics from Micro-Traces for Binary Similarity]]"
     },
@@ -2004,6 +2008,7 @@ export const backlinks = {
     "United Kingdom": {
         "2023-03-03": "- [[United Kingdom]]",
         "Accelerationism": "- [[United Kingdom|영국]]의 철학자 및 이후 어두운 계몽주의 ...",
+        "Fast": "... The United States of America|US, [[United Kingdom|UK]], and France carried out the ...",
         "On National Crises and the Intellectuals — Focused on GB and KR": "... Republic of 대한민국|Korea and the [[United Kingdom]] share many similarities in our ...",
         "PECR": "... is a law in the [[United Kingdom]] which made it unlawful to, ...",
         "Site On Which the Sun Never Sets": "... the internet. Just as the [[United Kingdom|British]] Empire once had territories and ...",
@@ -3001,7 +3006,8 @@ export const backlinks = {
         "2023-01-12": "- [[역사의 집대성]]",
         "2023-09-05": "- [[역사의 집대성]]",
         "Project": "- [[역사의 집대성]]",
-        "재학생일기": "2023-01-12에 [[역사의 집대성]] 과정 중 다시 읽어보니 이때가 ..."
+        "재학생일기": "2023-01-12에 [[역사의 집대성]] 과정 중 다시 읽어보니 이때가 ...",
+        "카카오스토리 완전백업": "[[역사의 집대성]]"
     },
     "Remote Procedure Call": {
         "How to Build Software like an SRE": "- stringent [[Remote Procedure Call]] settings.",
@@ -4011,6 +4017,9 @@ export const backlinks = {
         "르네상스": "[[Spiritual Development|영적 성장]]은 도전과 역경에 직면할 때만 이루어진다는 ...",
         "민사고": "... 그들이 그토록 추구했던 것은 사실 [[Spiritual Development|영적 성장]] ([[Spiritual Development]]) 이었을 것."
     },
+    "Limerence": {
+        "2023-09-05": "- [[Limerence]]"
+    },
     "Palantir Apollo": {
         "Palantir": "- [[Palantir Apollo]]"
     },
@@ -4149,6 +4158,7 @@ export const backlinks = {
         "AI Garbage Data Flooding": "... video? Is this book on [[Amazon]]? They are all potential AI ...",
         "DNS": "When navigating to www.[[amazon]].com, the client asks",
         "EC2": "[[Amazon]] Elastic Compute Cloud",
+        "Fast": "- Amazon Prime — [[Amazon]] announced the first version of ...",
         "Google": "... American information technology companies, alongside [[Amazon]], [[Apple]], [[Meta (Company)|Meta]], and [[Microsoft]]. ...",
         "Grammarly Internal Conference with Executives 2023-08-01": "... off with an internship at [[Amazon]] during the company's early phase, ...",
         "Jeff Bezos": "... former president and CEO of [[Amazon]], the world's largest [[e-commerce]] and ...",
@@ -5037,6 +5047,8 @@ export const backlinks = {
     },
     "LaTeX": {
         "2023-08-29": "- [[LaTeX]]",
+        "2023-09-06": "- [[LaTeX]]",
+        "2023-09-07": "- [[LaTeX]]",
         "Space in LaTeX": "Space in [[LaTeX]]",
         "Useful ChatGPT Prompts": "## Use [[LaTeX]]",
         "latexify.cho.sh": "... convert the equation into $\\TeX$ [[LaTeX]]"
@@ -5133,6 +5145,7 @@ export const backlinks = {
         "Classic Blogs": "... Bear Blog: No trackers, no [[JavaScript]], no stylesheets blog for hackers",
         "Deno Deploy": "- Deploy [[JavaScript]] Globally",
         "ESLint": "ESLint is an open-source [[JavaScript]] linting utility. The primary objective ...",
+        "Fast": "... created the first prototype of [[JavaScript]] in just 10 days and ...",
         "Ghost에서 외부 링크를 새로운 창에서 여는 방법": "물론 이렇게 매번 [[JavaScript]]를 통해 링크를 조작하는 방법은 웹 ...",
         "HTMX": "- Implementation itself is [[JavaScript]]",
         "Mini App": "... technologies like HTML, CSS, and [[JavaScript]] hosted by the Super App, ...",
@@ -5281,6 +5294,7 @@ export const backlinks = {
         "2022-06-05": "... PDF/EPUBs with one command on [[Linux]] (and [[macOS]] very soon). This ...",
         "Chrome": "... mobile devices, including Windows, macOS, [[Linux]], [[Android]], and [[iOS]].",
         "ELF": "... and Linked Format, used in [[Linux]]",
+        "Fast": "... Git was publicly released with [[Linux]] 2.6.12-rc3 after only 17 days ...",
         "Heap (Computer Systems)": "In [[Linux]], the `brk` pointer will be ...",
         "Linux Permissions for Keys": "Note that [[Linux]] SSH manual says:",
         "Project FFMpeg for iPad": "... applications. Supports Android, Flutter, iOS, [[Linux]], [[macOS]], [[React Native]] and tvOS. ...",
@@ -6023,6 +6037,7 @@ export const backlinks = {
         "Flamboyant": "- [[vocab]]. Flamboyant is an adjective to ...",
         "Frivolous": "[[vocab]]",
         "In search of my domain": "- The [[vocab]] chosh was registered as a ...",
+        "Limerence": "[[Vocab]]. 리머런스((누군가에게 사랑받고 호응받고 싶어하는 심리적 ...",
         "Mundivagant": "[[Vocab]]. Wandering around the world.",
         "Nepotism": "[[vocab]]",
         "Nigh": "... nigh! > nigh - Wiktionary [[Vocab]]",
@@ -6264,6 +6279,7 @@ export const backlinks = {
         "Akzidenz": "- Akin to [[San Francisco|SF Pro]] and [[Inter]].",
         "Apple Newsroom 서체 따라하기": "## [[San Francisco]]를 사용하고 싶었다",
         "Brunch violates SF terms of use": "... Terms of Use by using [[San Francisco|SF Pro]] as a [[Web Typography|Webfont]].",
+        "Fast": "... Island — Back in 1935, [[San Francisco]] came up with a plan ...",
         "Font Features": "- [[San Francisco]], [[Inter]], and [[Pretendard]] has awesome ...",
         "Inter": "- bizarrely similar to [[San Francisco]], but it now has its ...",
         "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "> U wanna fix [[San Francisco|SF]]? Listen up, nerds.",
@@ -7539,6 +7555,8 @@ export const backlinks = {
     },
     "Git": {
         "2022-11-28": "- [[Git]]. Git Notes: git's coolest, most ...",
+        "2023-02-08": "... Search across a half million [[git]] repos",
+        "Fast": "... Git — Linus Torvalds created [[Git]] in April 2005 and self-hosted ...",
         "How to Build Software like an SRE": "- use [[Git]]",
         "Make Git Case Sensitive": "Make [[Git]] [[Case-Sensitivity|Case Sensitive]]",
         "Techs Actually Simple": "- Yet [[Git]]'s object model is pretty simple ...",
@@ -7938,6 +7956,7 @@ export const backlinks = {
         "Born of this Land - The Founding Story of Hyundai": "... working outsourcing jobs for the [[United States of America|US]] military, Jung had to put ...",
         "CCPA": "... protection for residents of California, [[United States of America|United States]]. The bill was passed by ...",
         "Downloading Any Recordings from Zoom": "- Both the [[United States of America|United States]] and the Republic of [[대한민국|Korea]] ...",
+        "Fast": "... received a telegram from the [[United States of America|United States]] Maritime Commission on March 2, ...",
         "Federated Transfer Learning": "... an e-commerce company in the [[United States of America|United States]]",
         "FinTech and Justice": "... ahead of cash. In the [[United States of America|US]], the use of money is ...",
         "Frames Per Second": "... was audio post in the [[United States of America|U.S.]]",
@@ -8821,6 +8840,9 @@ export const backlinks = {
     },
     "Sigma Alpha": {
         "Probability": "- [[Sigma Alpha]]"
+    },
+    "Fast": {
+        "2023-09-05": "- [[Fast]]"
     },
     "Xcode Clear Cache": {
         "2022-11-06": "- [[Xcode Clear Cache]]"
