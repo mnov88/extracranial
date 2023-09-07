@@ -3633,6 +3633,7 @@ export const backlinks = {
         "2022-10-12": "- Jetbrains Fleet is [[GA]]. Introducing the Fleet Public Preview",
         "2022-12-06": "- [[GA]]. [[Nigh]]",
         "2022-12-24": "- Rewind is [[GA]]",
+        "2023-09-07": "- Mojo is [[GA]]",
         "In search of my domain": "... Google made the `.dev` domain [[GA]], and I also tried `cho.dev`, ...",
         "Passkey": "Passkey for Google is [[GA]] as of [[2023-05-03]]",
         "도메인 찾아 삼만리": "... 1년 뒤 Google|구글이 `.dev` 도메인을 [[GA|공개]]했고, `cho.dev`을 사려 했지만 ▲ 가격이 ..."
@@ -5866,7 +5867,8 @@ export const backlinks = {
         "San Francisco": "### [[Satoshi]]"
     },
     "Mojo": {
-        "2023-05-03": "- [[Mojo]]"
+        "2023-05-03": "- [[Mojo]]",
+        "2023-09-07": "- [[Mojo]] is [[GA]]"
     },
     "Primary-Recency Effect": {
         "2022-10-17": "- [[Primary-Recency Effect]]",
