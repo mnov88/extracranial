@@ -3065,6 +3065,7 @@ export const backlinks = {
         "2023-08-31": "- [[Readings]]",
         "Building a Second Brain": "... it into Projects, Research, and [[Readings]].",
         "Displaying exact datetimes on Ghost": "## Further [[Readings]]",
+        "Everything Is Figureoutable": "future [[readings]]. like the title.",
         "Opening external links in a new tab by default on Ghost": "## Additional [[Readings]]",
         "Playings": "... from Mar 2023. Just like [[Readings]] and [[Watchings]].",
         "Sending Notifications on Chrome Extension": "## Additional [[Readings]]",
@@ -5891,6 +5892,9 @@ export const backlinks = {
     },
     "Petersburg": {
         "2023-01-23": "- [[Petersburg]]"
+    },
+    "Everything Is Figureoutable": {
+        "2023-09-08": "- [[Everything Is Figureoutable]]"
     },
     "Virtual DOM": {
         "2023-02-02": "- [[Virtual DOM]]"
