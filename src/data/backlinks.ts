@@ -221,6 +221,9 @@ export const backlinks = {
     "2023-04-11": {
         "hn.cho.sh 개발 기록": "## [[2023-04-11]]"
     },
+    "2023-09-08": {
+        "Checkmark": "## [[2023-09-08]]"
+    },
     "2022-09-08": {
         "Person 392196": "- Interviewed on [[2022-09-08]]",
         "Person A480C6": "- Interviewed on [[2022-09-08]]"
@@ -950,7 +953,9 @@ export const backlinks = {
     },
     "Newtonian Mail": {
         "2023-02-28": "- [[Newtonian Mail]]",
+        "2023-09-08": "... 공명첩이랑 다를게 없지만... 나는 소셜미디어를 [[Newtonian Mail|뉴턴적 서신]]의 하나의 장치로써 자본재로 생각하기 때문에, ...",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-28 | 🇬🇧 [[Newtonian Mail]] <br/> 🇰🇷 [[뉴턴의 서신]]  ...",
+        "Checkmark": "... 프로그램에 전부 참여했다. 나는 소셜미디어를 [[Newtonian Mail|뉴턴적 서신]]의 하나의 장치로써 자본재로 생각하기 때문에, ...",
         "METI Engine": "... a strikingly coincidental overlap between [[Newtonian Mail]] and the METI. Both actively ..."
     },
     "Aldehyde": {
@@ -4317,7 +4322,7 @@ export const backlinks = {
         "Proposal of Research 2023-01-10": "... found several layers for the [[project]].",
         "Quoridor Game": "Someday [[Project]]. Creating a \"Quoridor\" game and ...",
         "Redactor for iPhone": "Someday [[Project]].",
-        "Referral Share": "Someday [[Project]]. Referral Sharing Website for Verified ...",
+        "Referral Share": "Someday [[Project]]. Referral Sharing Website for [[Checkmark|Verified]] ...",
         "Repeated Designs": "> Weekend side [[project]]. A gallery of the best ...",
         "Research Paper NPM System": "Someday [[Project]]. It's an [[npm]] system for ...",
         "Robert Oppenheimer and Jiro Horikoshi": "... scientific team of the Manhattan [[Project]], which developed the first atomic ...",
@@ -6126,6 +6131,14 @@ export const backlinks = {
     "Repeated Designs": {
         "2022-11-30": "- [[Repeated Designs]]"
     },
+    "Checkmark": {
+        "2022-08-03": "Now shows a [[Checkmark|verified]] [[checkmark]].",
+        "2023-09-08": "- [[Checkmark]]",
+        "BIMI": "... impersonation. It works with VMCs ([[Checkmark|Verified Mark]] Certificates) and other forms of ...",
+        "Blind Illness": "... anonymous forum and community for [[Checkmark|verified]] employees to discuss issues. Topics, ...",
+        "Getting Verified on Gmail": "... Mail and Gmail, getting a [[checkmark]] on Gmail requires a VMC ...",
+        "Referral Share": "... Project. Referral Sharing Website for [[Checkmark|Verified]] Individuals Only."
+    },
     "Normal Tables": {
         "2023-03-07": "- [[Normal Tables]]"
     },
@@ -7886,7 +7899,7 @@ export const backlinks = {
     "Adding a Verified Mark on Apple Mail and Gmail": {
         "2022-10-21": "- [[Adding a Verified Mark on Apple Mail and Gmail]]",
         "2023-08-03": "- [[Adding a Verified Mark on Apple Mail and Gmail]]",
-        "Getting Verified on Gmail": "While we have previously discussed [[Adding a Verified Mark on Apple Mail and Gmail]], getting a checkmark on Gmail ..."
+        "Getting Verified on Gmail": "While we have previously discussed [[Adding a Verified Mark on Apple Mail and Gmail]], getting a [[checkmark]] on Gmail ..."
     },
     "Super App is a Universal Chat App": {
         "2023-01-09": "- [[Super App is a Universal Chat App]]",
@@ -10404,6 +10417,18 @@ export const backlinks = {
     },
     "642AA0.gif": {
         "2023-06-21": "![[642AA0.gif]]"
+    },
+    "6DA217.png": {
+        "2023-09-08": "![[6DA217.png]]",
+        "Checkmark": "![[6DA217.png]]"
+    },
+    "4275BA.png": {
+        "2023-09-08": "![[4275BA.png]]",
+        "Checkmark": "![[4275BA.png]]"
+    },
+    "4CD596.png": {
+        "2023-09-08": "![[4CD596.png]]",
+        "Checkmark": "![[4CD596.png]]"
     },
     "D358DA.png": {
         "2023-04-05": "![[D358DA.png]]",
