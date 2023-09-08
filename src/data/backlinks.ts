@@ -1795,7 +1795,8 @@ export const backlinks = {
     "Project Florence": {
         "2023-06-02": "- [[Project Florence]]",
         "2023-08-18": "- [[Project Florence]]",
-        "2023-08-28": "- [[Project Florence]]"
+        "2023-08-28": "- [[Project Florence]]",
+        "2023-09-07": "- [[Project Florence]]"
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
@@ -4460,6 +4461,7 @@ export const backlinks = {
         "2022-07-05": "... 대한민국|한국 수학자로서는 최초 수상이다. 이전까지 [[한민족|한국계]]나 [[한국인]]이 이 상을 받은 적은 ...",
         "2023-02-15": "- [[한민족]]",
         "2023-06-23": "- [[한민족]]이라는 관념을 사랑했던 것일까.",
+        "2023-09-07": "... 고민을 하지 않고 LiNK를 선택했다. [[한민족|민족]]에 대한 내 복잡한 심경과 걱정을 ...",
         "Born of this Land - The Founding Story of Hyundai": "... project would have prevented other [[한민족|Korean]] construction companies from entering overseas ...",
         "Brunch violates SF terms of use": "- [[한민족|Korean]] writing service [[Brunch]] violates [[Apple]]'s ...",
         "Doheny East Asian Book Stacks": "... have a huge collection of [[한민족|Korean]] texts, especially from the 20th ...",
@@ -9636,7 +9638,7 @@ export const backlinks = {
     },
     "Qiang Yang et al. Federated Machine Learning Concept and Applications": {
         "2023-08-28": "- [[Qiang Yang et al. Federated Machine Learning Concept and Applications]]",
-        "Project Florence": "- [ ] [[Qiang Yang et al. Federated Machine Learning Concept and Applications]]"
+        "Project Florence": "- [x] [[Qiang Yang et al. Federated Machine Learning Concept and Applications]]"
     },
     "Proebsting": {
         "2022-12-28": "- [[Proebsting]]"
@@ -10375,6 +10377,9 @@ export const backlinks = {
     "AA04D0.mp4": {
         "2022-10-16": "![[AA04D0.mp4]]",
         "Dynamic Island on the Web": "![[AA04D0.mp4]]"
+    },
+    "BE2951.png": {
+        "2023-09-07": "![[BE2951.png]]"
     },
     "98AD84.png": {
         "2023-08-09": "![[98AD84.png]]"
