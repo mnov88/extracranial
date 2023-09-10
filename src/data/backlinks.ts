@@ -1811,6 +1811,9 @@ export const backlinks = {
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
     },
+    "Macroeconomics": {
+        "장보고 프로젝트": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다."
+    },
     "Bloomberg Terminal": {
         "2023-03-06": "- [[Bloomberg Terminal]]"
     },
@@ -2964,6 +2967,9 @@ export const backlinks = {
     },
     "네오상평통보": {
         "2023-08-22": "- [[네오상평통보]]"
+    },
+    "장보고 프로젝트": {
+        "2023-09-09": "- [[장보고 프로젝트]]"
     },
     "UIUX": {
         "2022-11-30": "... at some build tools, but [[UIUX|UI]] components or other libraries usually ...",
