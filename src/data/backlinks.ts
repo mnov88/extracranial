@@ -1403,6 +1403,9 @@ export const backlinks = {
         "2023-09-05": "- [[박스상자 (2012)]]",
         "역사의 집대성": "- [[박스상자 (2012)]]"
     },
+    "Microeconomics": {
+        "2023-09-10": "- [[Microeconomics]]"
+    },
     "Software as a Service": {
         "2023-09-09": "- [[Software as a Service|SaaS]]",
         "FIRE": "## Payment Infra for [[Software as a Service]]",
@@ -1656,6 +1659,9 @@ export const backlinks = {
         "Accelerationism": "... 약체화하는 강력한 기술적 변화 혹은 [[Economic Development|경제적 발전]]을 이루어야 한다는 마르크스주의 혹은 그 ...",
         "Atomic Habits": "... 한다. 놀라운 숫자이지만, 나는 그보다 [[Economic Development|경제 성장]] 모델을 적용해야 한다고 본다. 예를 ...",
         "Born of this Land - The Founding Story of Hyundai": "Speaking about 대한민국|Korea's [[economic development]] and national patriotism, Jung emphasizes ...",
+        "Macroeconomics": "... such as inflation, price levels, [[Economic Development|economic growth]], national income, and unemployment. Macroeconomics ...",
+        "On National Crises and the Intellectuals — Focused on GB and KR": "... to be against them as [[Economic Development|economic growth]] and productivity decline and social ...",
+        "Seaflooding": "... create more life and stimulate [[Economic Development|economic growth]]. Inspired by the Zanclean Megaflood ...",
         "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "... 삶의 질을 높이고, 지속 가능한 [[Economic Development|경제 성장]]과 사회 발전을 이루어낼 수 있을 ...",
         "경제 개발의 길목에서": "... to At the Crossroads of [[Economic Development]].",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 받아 마땅한 대한민국|한국인들의 노력에도 불구하고, [[Economic Development|경제 성장]]과 생산성 저하, 사회적 불평등 심화로 ...",
@@ -1812,6 +1818,8 @@ export const backlinks = {
         "2023-05-22": "- [[Believer Plan]]"
     },
     "Macroeconomics": {
+        "2023-09-10": "- [[Macroeconomics]]",
+        "Microeconomics": "... It should be distinct from [[macroeconomics]], which takes a broader view ...",
         "장보고 프로젝트": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다."
     },
     "Bloomberg Terminal": {
@@ -2969,7 +2977,8 @@ export const backlinks = {
         "2023-08-22": "- [[네오상평통보]]"
     },
     "장보고 프로젝트": {
-        "2023-09-09": "- [[장보고 프로젝트]]"
+        "2023-09-09": "- [[장보고 프로젝트]]",
+        "2023-09-10": "- [[장보고 프로젝트]]"
     },
     "UIUX": {
         "2022-11-30": "... at some build tools, but [[UIUX|UI]] components or other libraries usually ...",
@@ -3183,7 +3192,7 @@ export const backlinks = {
         "2023-06-26": "- [[Go To Market]]",
         "Project Heimdall": "- Honestly, the [[Go To Market|GTM]] [[strategy]] for Heimdall is a ...",
         "hn.cho.sh 개발 기록": "- PMF보다 [[Go To Market]] [[Strategy|전략]]이 훨씬 더 중요하다 (진짜 ...",
-        "서당개 3년이면 풍월을 읊는다": "... 엄청 많다. 경제가 좋으면 슈퍼마켓에서도 [[Go To Market|시장 전략]]과 리텐션, 소비자 분석을 전부 돌려야 ..."
+        "서당개 3년이면 풍월을 읊는다": "... 엄청 많다. Economy|경제가 좋으면 슈퍼마켓에서도 [[Go To Market|시장 전략]]과 리텐션, 소비자 분석을 전부 돌려야 ..."
     },
     "Handling files in Unix": {
         "Internetworking": "- [[Handling files in Unix]]"
@@ -3279,6 +3288,7 @@ export const backlinks = {
         "2023-02-23": "- [[민사고]]",
         "2023-06-12": "알고 있는 [[민사고]] 선배 한 분이 창업을 하셨었다. ...",
         "In-house and Free Market": "- In-house. my [[민사고|high school]] society with limited in-house research ...",
+        "Macroeconomics": "[[민사고]] 재학 시절 전교 1등을 했다...라고 ...",
         "Migrating Node.js apps from AWS EB to Heroku": "... my AWS EB app called [[민사고|KMLA]] Forms to Heroku. For your ...",
         "Node.js 앱을 AWS EB에서 Heroku로 옮기기": "... 것을 알게 되었다. 예전에 개발했던 [[민사고]] 공문서 모음집을 Heroku로 옮겼다.",
         "공강에서 보내는 공강 활용법": "... 이상하게 들리는 말인 것 같습니다. [[민사고|민족사관고등학교]]에서 공강은 두 가지 의미를 가지고 ...",
@@ -3433,7 +3443,6 @@ export const backlinks = {
         "Social Coding": "... work, they grow huge (e.g., [[Figma]], Slack)"
     },
     "Economic Freedom": {
-        "Economic Development": "[[Economic Freedom]]",
         "월급만큼 중요한 것은 자존급이다": "그에 반해 자존급은, 단순한 [[Economic Freedom|경제적 자유]]를 넘어 물질주의의 공허함을 느끼는 사람들에게서 ..."
     },
     "Safari": {
@@ -6684,24 +6693,47 @@ export const backlinks = {
         "Bloomberg": "... Bloomberg News, which covers financial, [[Economy|economic]], and political news worldwide.",
         "Born of this Land - The Founding Story of Hyundai": "... can compete in the global [[economy]].",
         "Companies are Economic Organisms": "... I wrote that companies are [[Economy|economic]] [[engine]] of some sort. Engines, ...",
+        "EU": "... European Union, a political and [[Economy|economic]] union of 27 member states ...",
+        "Economic Development": "[[Economy|Economic]] growth is the increase in ...",
         "Effective Accelerationism": "... 있어요. 당신은 이것을 피하기 위해 [[Economy|경제]]를 재설계할 수 없습니다. [[GPU]]를 없앨 ...",
+        "Eventually, Diligent Immatures build the Future": "... is the tendency in behavioral [[Economy|economics]] to underestimate the time, effort, ...",
+        "GDPR": "... Union (EU) and the European [[Economy|Economic]] Area (EEA). The GDPR is ...",
+        "Gaussian Distribution": "... fields, such as physics, engineering, [[Economy|economics]], and social sciences, due to ...",
+        "IP is the new Real Estate": "... from rich people. During the [[Economy|economic]] boom of the 1980s, [[일본|Japanese]] ...",
         "Law of Goodhart": "... objective or target of an [[Economy|economic]] or social policy, individuals or ...",
+        "Macroeconomics": "Macroeconomics studies how an [[economy]] as a whole behaves.",
+        "Malthusian Trap": "[[Economy|경제학자]] 토머스 로버트 맬서스가 제시한 맬서스 ...",
+        "Memex is more than a Memex": "... of commuters and travelers entails [[Economy|economic]] blooming.",
         "MetroPunk": "... 도시의 연금과 은퇴 기금 고갈, [[Economy|경제]] 붕괴, 새로운 시대의 [[Neo Block ...",
+        "Microeconomics": "... broader view of the national [[economy]], examining issues that impact entire ...",
         "Neo Block Economy": "Neo Block [[Economy]]",
-        "Nuclear Fission": "... power plants, Vice Chancellor and [[Economy]] Minister Robert Habeck of the ...",
-        "On National Crises and the Intellectuals — Focused on GB and KR": "... a heavy blow to the [[economy]], leaving the nation reeling from ...",
+        "New York City": "... City presents a picture of [[Economy|economic]] inequality, with median effective hourly ...",
+        "Nuclear Fission": "... and ability to transform the [[Economy|economics]] of nuclear energy.",
+        "On National Crises and the Intellectuals — Focused on GB and KR": "- [[Economy|Economic]] Difficulties — The toll of ...",
         "Person 1E6ABA": "... terrible news for the 대한민국|Korean [[economy]]?",
+        "Perverse Incentive": "호르스트 지베르트라는 [[Economy|경제학자]]는 영국 통치 시절 인도에서 일어난 ...",
+        "Petersburg": "No spiritual, [[Economy|economic]], or cultural center. With only ...",
+        "Psychohistory": "... core components of Psychohistory affected [[Economy|economics]] and sociology is interesting. For ...",
+        "Renaissance": "[[Economy|Economic]] and Political Developments — The ...",
+        "Seaflooding": "[[Economy|Economic]] Blooming",
+        "Super App and Democracy": "... presents massive risks to personal, [[Economy|economic]], and political freedom.",
         "Super App is a Universal Chat App": "... Android but also as App [[Economy]] vs. Web Economy, Closed vs. ...",
+        "Vannevar Bush": "... research to national security and [[Economy|economic]] well-being. He was chiefly responsible ...",
+        "Veil of Ignorance": "... live in, its political or [[Economy|economic]] system, or its level of ...",
+        "Web3": "... one dives into the underlying [[Economy|economics]] of the products being sold, ...",
         "Why Korean Banks Suck": "... a significant role in their [[economy]].",
+        "간판법": "... 이어질 것이라는 우려에도 불구하고 도시 [[Economy|경제]]는 타격을 입지 않았으며, 주민들을 대상으로 ...",
         "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "... 부적절한 증세로 인해 국민들의 실망과 [[Economy|경제]]계의 반발을 사고 있다. 그러나 21세기 ...",
         "경제 개발의 길목에서": "... 일본은 다시 일어나서 지금은 세계 [[Economy|경제]] 강국으로 부상했는데, 그 배후에는 중화학공업 ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "- [[Economy|경제]]적 난제 — 무역 장벽과 정치적 ...",
         "국내 은행 서비스가 나쁜 이유": "... 대한민국|한국인은 국가적 자부심이 강하고 외국에서 [[Economy|경제]]에 중요한 역할을 하는 것을 경계하는 ...",
         "르네상스": "[[Economy|경제]] 및 정치 발전 — 피렌체, ...",
+        "미래는 결국 미성숙한 우리가 만들어낸다": "- 행동[[Economy|경제학]]에서 계획 오류는 사람들이 과제를 완수하거나 ...",
         "민사고": "... 한민족|민족에 기여하는 것이 엘리트들에게 가장 [[Economy|경제]]적이고 합리적인 선택지가 될 수 있도록 ...",
         "민사고와 쇼비니즘": "... 초강대국들은 과거처럼 군사력이 아니라 문화나 [[Economy|경제]]로 어떤 나라든 침략하고 통치할 수 ...",
         "벌금과 물가": "- 매년 일괄적으로 법무부와 [[Economy|경제]] 부처의 협력 아래 벌금 \"배수\" ...",
         "새로운 부동산은 지적 재산이다": "일본 기업과 투자자들은 1980년대 [[Economy|경제]] 호황기에 많은 현금을 보유하고 있었으며 ...",
+        "서당개 3년이면 풍월을 읊는다": "... 것이다. 나는 그 이유를 건강한 [[Economy|경제]]라고 보았다. 공부는 원래 돈 받고 ...",
         "심리역사학": "심리역사학의 핵심 개념들이 [[Economy|경제]]학과 사회학에 영향을 준 사실도 흥미롭다. ...",
         "엔진 방정식": "- [[Economy|경제]]는 노동, 자본, 천연자원, 시간 등의 ...",
         "원숭이와 꽃신": "- Microsoft|마이크로소프트도 이런 'Simian|원숭이 꽃신 [[Economy|경제]]학'에 충실한 기업이다. Microsoft|마이크로소프트는 대학을 상대로 ...",
@@ -6850,6 +6882,7 @@ export const backlinks = {
         "401k": "... you're 59. This money is [[tax]]-free today, but you pay [[Tax|taxes]] ...",
         "Black-Scholes Model": "... are no transaction costs or [[Tax|taxes]].",
         "Born of this Land - The Founding Story of Hyundai": "... businesspeople of fraudulent hoarding and [[tax]] evasion. Due to the government's ...",
+        "Economic Development": "... and technological change, such as [[tax]] credits for research and development, ...",
         "Engine Equation": "... take in resources such as [[Tax|taxes]], labor, and natural resources and ...",
         "FIRE": "... Toss Payments Systems due to [[tax]] & governance issues",
         "Finance": "- [[Tax]]",
@@ -7459,6 +7492,7 @@ export const backlinks = {
         "2023-03-05": "- [[Antipreneur]]",
         "2023-05-02": "... Powerful|강소기업을 만들고 싶다. 대기업이 아니라. [[Antipreneur|강소기업가]]가 되자.",
         "2023-09-09": "- [[Antipreneur]]",
+        "2023-09-10": "- [[Antipreneur]]",
         "European Rhapsody": "[[Antipreneur]]",
         "Impact over Performance": "- [[Antipreneur]]",
         "Pieter Levels": "... work in the realm of [[Antipreneur|digital nomadism]]. He's the creator of several ..."
@@ -9316,7 +9350,7 @@ export const backlinks = {
         "Bing Chat for All Browsers in Japan": "Still very dominant from [[일본|Japan]]",
         "Finally, Apple Pay in Korea": "... standard in 대한민국|Korea, such as [[일본|Japan]]'s Suica. But they never succeeded.) ...",
         "Haruki Murakami": "... stories have been bestsellers in [[일본|Japan]] and internationally, with his work ...",
-        "IP is the new Real Estate": "... economic boom of the 1980s, [[일본|Japanese]] corporations and investors had a ...",
+        "IP is the new Real Estate": "... Economy|economic boom of the 1980s, [[일본|Japanese]] corporations and investors had a ...",
         "Jiro Horikoshi": "... aircraft utilized by the Imperial [[일본|Japanese]] Navy throughout World War II. ...",
         "Krafton Way": "... 우리는 과거에 B급 제품을 만들어왔습니다. [[일본]]이나 [[United States of America|미국]] 기업들을 ...",
         "Metadream": "... and data centers in Singapore, [[일본|Japan]], [[대한민국|Korea]], and the [[United States ...",
@@ -10936,6 +10970,9 @@ export const backlinks = {
         "Era of Invites": "![[1A746C.png]]",
         "초대장의 시대": "![[1A746C.png]]"
     },
+    "58A088.jpeg": {
+        "Macroeconomics": "![[58A088.jpeg]]"
+    },
     "351A7A.png": {
         "Aldehyde Landing Page 2023": "![[351A7A.png]]",
         "Apple-like Block Interface": "![[351A7A.png]]"
@@ -11876,6 +11913,9 @@ export const backlinks = {
     },
     "970206.png": {
         "이루다": "![[970206.png]]"
+    },
+    "D67F1B.jpg": {
+        "Antipreneur": "![[D67F1B.jpg]]"
     },
     "3A5769.png": {
         "Geohot-Twitter Mayhem": "![[3A5769.png]]"
