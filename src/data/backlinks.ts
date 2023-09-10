@@ -862,6 +862,9 @@ export const backlinks = {
     "Sequence Film": {
         "Alternatives to After Effects": "... Cut Pro|Final Cut Pro X [[Sequence Film]]"
     },
+    "Party Planner": {
+        "2023-09-09": "- [[Party Planner]]"
+    },
     "Anti-lock Breaking System": {
         "2023-07-25": "- [[Anti-lock Breaking System]]"
     },
@@ -1400,12 +1403,13 @@ export const backlinks = {
         "역사의 집대성": "- [[박스상자 (2012)]]"
     },
     "Software as a Service": {
+        "2023-09-09": "- [[Software as a Service|SaaS]]",
         "FIRE": "## Payment Infra for [[Software as a Service]]",
         "FIRE Engine": "- [[Software as a Service]] that drives revenue streams for ...",
         "Fiercely Overpriced": "... we have previously explored that [[Software as a Service]] would be one way to ...",
         "Powerfully Powerless Tools": "... in the Tools for Thought [[Software as a Service]] market.",
         "Social Coding": "- [[Software as a Service]] businesses with network effects are ...",
-        "Software as a Service": "... we could attain FIRE through [[Software as a Service]].",
+        "Software as a Service": "... expect to attain FIRE through [[Software as a Service]].",
         "강력하게 미약한 도구들": "현 Tools for Thought [[Software as a Service|SaaS]] 시장에는 반복적인 패러다임이 있다. 도구들이 ..."
     },
     "그게 뭐라고": {
@@ -4298,6 +4302,7 @@ export const backlinks = {
         "Kubernetes": "... Computing Foundation now maintains the [[project]].",
         "Linux": "... are provided by the GNU [[Project]]. Many Linux distributions use the ...",
         "Markdown Email Client": "Someday [[Project]]. You write an [[Mail|email]] in ...",
+        "Naroo": "Someday [[Project]]. A higher wrapper of the ...",
         "Neo ArXiv": "Someday [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "Someday [[Project]]. `img loading=lazy`, but if the ...",
         "Notion": "> Notion is a [[project]] management and note-taking software platform ...",
@@ -7288,6 +7293,9 @@ export const backlinks = {
         "Data Capturers": "- [[Rauno]]",
         "Link Preview for Arc": "- Inspired by [[Rauno]]"
     },
+    "Naroo": {
+        "2023-09-09": "- [[Naroo]]"
+    },
     "Microsoft": {
         "2022-06-10": "  - [[Microsoft]] said Wednesday it will include ...",
         "2022-08-01": "... realize something. While Adobe Photoshop, [[Microsoft]] Word, and other established design ...",
@@ -7437,6 +7445,7 @@ export const backlinks = {
     "Antipreneur": {
         "2023-03-05": "- [[Antipreneur]]",
         "2023-05-02": "... Powerful|강소기업을 만들고 싶다. 대기업이 아니라. [[Antipreneur|강소기업가]]가 되자.",
+        "2023-09-09": "- [[Antipreneur]]",
         "European Rhapsody": "[[Antipreneur]]",
         "Impact over Performance": "- [[Antipreneur]]",
         "Pieter Levels": "... work in the realm of [[Antipreneur|digital nomadism]]. He's the creator of several ..."
@@ -8983,6 +8992,7 @@ export const backlinks = {
         "Habit Together": "[[Someday]] [[Project]]. An habit making app ...",
         "Intracranial": "[[Someday]] [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
         "Markdown Email Client": "[[Someday]] [[Project]]. You write an [[Mail|email]] ...",
+        "Naroo": "[[Someday]] [[Project]]. A higher wrapper of ...",
         "Neo ArXiv": "[[Someday]] [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "[[Someday]] [[Project]]. `img loading=lazy`, but if ...",
         "Off The Record": "[[Someday]] [[Project]]. Disappearing message for [[iMessage]].",
@@ -10343,7 +10353,7 @@ export const backlinks = {
         "FIRE Engine": "... that drives revenue streams for [[FIRE]]",
         "Fiercely Overpriced": "To attain [[FIRE]], we have previously explored that ...",
         "Pieter Levels": "- [[FIRE]]",
-        "Software as a Service": "We expect we could attain [[FIRE]] through [[Software as a Service]]."
+        "Software as a Service": "We expect to attain [[FIRE]] through [[Software as a Service]]."
     },
     "Educational Technology": {
         "Person 1E6ABA": "... at a Financial Technology|FinTech + [[Educational Technology|EduTech]] Startup. Worked at [[Google]] as ..."
@@ -10744,6 +10754,12 @@ export const backlinks = {
     },
     "D0AE71.png": {
         "Sequence Film": "![[D0AE71.png]]"
+    },
+    "EDA859.png": {
+        "Party Planner": "![[EDA859.png]]"
+    },
+    "1CE345.png": {
+        "Party Planner": "![[1CE345.png]]"
     },
     "339420.mp4": {
         "Aldehyde Landing Page 2023": "![[339420.mp4]]",
@@ -11827,6 +11843,18 @@ export const backlinks = {
     },
     "94972C.png": {
         "Rauno": "![[94972C.png]]"
+    },
+    " -f bun.lockb ": {
+        "Naroo": "\tif [[ -f bun.lockb ]]; then"
+    },
+    " -f pnpm-lock.yaml ": {
+        "Naroo": "\telif [[ -f pnpm-lock.yaml ]]; then"
+    },
+    " -f yarn.lock ": {
+        "Naroo": "\telif [[ -f yarn.lock ]]; then"
+    },
+    " -f package-lock. json ": {
+        "Naroo": "\telif [[ -f package-lock. json ]]; then"
     },
     "webserver": {
         "Port": "- [[webserver]] → 80"
