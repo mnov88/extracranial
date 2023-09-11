@@ -1819,6 +1819,7 @@ export const backlinks = {
     },
     "Macroeconomics": {
         "2023-09-10": "- [[Macroeconomics]]",
+        "2023-09-11": "[[Macroeconomics]]",
         "Microeconomics": "... It should be distinct from [[macroeconomics]], which takes a broader view ...",
         "장보고 프로젝트": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다."
     },
