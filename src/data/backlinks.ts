@@ -7926,6 +7926,9 @@ export const backlinks = {
         "hreflang": "important for [[Internationalization|i18n]] with [[Content Negotiation]]",
         "i18n with Redwood": "... an opinionated guide of implementing [[Internationalization]] with [[Redwood.js]]"
     },
+    "남이사": {
+        "2023-09-10": "[[남이사]]이지만서도 얼마나 힘들었길래... 하는 안타까운 마음이 ..."
+    },
     "Flamboyant": {
         "2023-05-03": "- [[Flamboyant]]"
     },
@@ -8206,6 +8209,7 @@ export const backlinks = {
         "2022-12-28": "... youtube videos on an old [[google]] account. I accidentally stumble into ...",
         "2023-02-02": "... can create document drafts using [[Google]] Docs",
         "2023-02-08": "... providers: OpenAI (Microsoft) and Anthropic ([[Google]]). These companies spend vast amounts ...",
+        "2023-09-10": "[[Google]] Foobar을 해봤다. [[Google|구글]] 리크루터 스테이지까지 ...",
         "AI replaces expensive jobs first": "... search for similar topics like \"[[Google]] Search.\" For example, if a ...",
         "AI는 고가 노동부터 점령한다": "... Database|데이터베이스화하는 사건량을 늘린 뒤, 법률가들이 \"[[Google|구글]] 검색\"처럼 유사 사례들을 검색할 수 ...",
         "AMP": "... the AMP Open Source Project. [[Google]] created it as a competitor ...",
@@ -10730,6 +10734,9 @@ export const backlinks = {
     },
     "E13484.png": {
         "2022-12-20": "![[E13484.png]]"
+    },
+    "7ECD23.png": {
+        "2023-09-10": "![[7ECD23.png]]"
     },
     "B48728.png": {
         "2023-04-09": "![[B48728.png]]",
