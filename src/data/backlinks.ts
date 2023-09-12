@@ -87,6 +87,10 @@ export const backlinks = {
         "Impact over Performance": "Short essay on [[2023-07-05]]:",
         "불가사리 (기업)": "- [[2023-07-05]] 업데이트 — [[Apple]]과 [[NDA]] 서약을 ..."
     },
+    "2016-05-31": {
+        "2023-09-11": "- [[2016-05-31]]",
+        "과거의 영광 (2016-2018)": "## [[2016-05-31|2016년 5월 31일]]"
+    },
     "2023-08-08": {
         "Project Heimdall": "## [[2023-08-08]]"
     },
@@ -890,6 +894,11 @@ export const backlinks = {
         "Grammarly Work Note 2023-07-06": "[[Grammarly Work Note]]",
         "Grammarly Work Note 2023-07-10": "[[Grammarly Work Note]]",
         "Grammarly Work Note 2023-08-03": "[[Grammarly Work Note]] [[2023-08-03]]"
+    },
+    "과목우수상": {
+        "2023-09-11": "- [[과목우수상]]",
+        "Macroeconomics": "어찌 되었든 [[과목우수상]]을 받은 것은 이때가 처음이다.",
+        "과목우수상": "과탑과 비슷한 개념으로, '[[과목우수상|과우]]'라고 줄여부른다. 조건은:"
     },
     "Cloudflare Pages": {
         "2023-01-27": "... had to migrate Extracranial to [[Cloudflare Pages]] for [[Vercel]] for now...",
@@ -1819,8 +1828,9 @@ export const backlinks = {
     },
     "Macroeconomics": {
         "2023-09-10": "- [[Macroeconomics]]",
-        "2023-09-11": "[[Macroeconomics]]",
+        "2023-09-11": "OpenBB를 이용해서 [[Macroeconomics]]를 더 공부해보기 시작했다. 기능이 무지하게 ...",
         "Microeconomics": "... It should be distinct from [[macroeconomics]], which takes a broader view ...",
+        "과목우수상": "딱 하나 유일하게 받은 과목우수상은 [[Macroeconomics|거시경제학]]이었는데, 이것도 좀 오해의 소지가 있는데 ...",
         "장보고 프로젝트": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다."
     },
     "Bloomberg Terminal": {
@@ -2263,10 +2273,6 @@ export const backlinks = {
     },
     "Pascal Triangle": {
         "2023-01-24": "- [[Pascal Triangle]]"
-    },
-    "과거의 영광 (2015-2018)": {
-        "2023-09-05": "- [[과거의 영광 (2015-2018)]]",
-        "역사의 집대성": "- [[과거의 영광 (2015-2018)]]"
     },
     "Person 960D1D": {
         "2023-03-03": "- [[Person 960D1D]]",
@@ -3293,6 +3299,7 @@ export const backlinks = {
         "Migrating Node.js apps from AWS EB to Heroku": "... my AWS EB app called [[민사고|KMLA]] Forms to Heroku. For your ...",
         "Node.js 앱을 AWS EB에서 Heroku로 옮기기": "... 것을 알게 되었다. 예전에 개발했던 [[민사고]] 공문서 모음집을 Heroku로 옮겼다.",
         "공강에서 보내는 공강 활용법": "... 이상하게 들리는 말인 것 같습니다. [[민사고|민족사관고등학교]]에서 공강은 두 가지 의미를 가지고 ...",
+        "과거의 영광 (2016-2018)": "하지만 여느 사다리가 그렇듯이, [[민사고]]에 진학하면서 나는 별볼일 없는 또래1이 ...",
         "국가와 민족": "- [[민사고|민족사관고등학교]]에서 배운 것 중 하나이다.",
         "국제 계열과 계열 변경 이야기": "... 계열을 변경했습니다. 많은 분들이 아시다시피 [[민사고]]는 국제계열과 국내계열로 나뉘어 있습니다. 오늘은 ...",
         "기숙사 생활과 방 배정": "... 또 다른 학교생활을 직면하게 됩니다. [[민사고|민족사관고등학교]] 기숙사인 덕고관은 또 다른 배움의 ...",
@@ -4079,6 +4086,9 @@ export const backlinks = {
     },
     "배달의민족 FE 개발자가 일하는 법 Q&A": {
         "2022-11-19": "  - [[배달의민족 FE 개발자가 일하는 법 Q&A]]"
+    },
+    "OpenBB": {
+        "2023-09-11": "[[OpenBB]]를 이용해서 [[Macroeconomics]]를 더 공부해보기 시작했다. ..."
     },
     "Roam Research": {
         "Better Obsidian": "... view for Daily Notes like [[Roam Research]] and [[Logseq]].",
@@ -5774,8 +5784,7 @@ export const backlinks = {
         "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, 일본, Singapore|싱가포르, [[대만|타이완]] 등에서 [[App Store|앱스토어]] 1위를 하며 ..."
     },
     "조디슨 (2011)": {
-        "2023-09-05": "- [[조디슨 (2011)]]",
-        "역사의 집대성": "- [[조디슨 (2011)]]"
+        "2023-09-05": "- [[조디슨 (2011)]]"
     },
     "Person CC8297": {
         "2022-09-13": "- [[Person CC8297]]",
@@ -6088,6 +6097,7 @@ export const backlinks = {
         "Simian과 심미안": "Simian이라는 영어 [[Vocab|단어]]는 [[Simian|원숭이]], [[Simian|유인원]]을 뜻한다.",
         "Swift String 조작은 왜 그 모양인가": "... 서기소 묶음(Extended grapheme clusters)\"이 있는 [[Vocab|단어]]가 포함된다. Integer를 사용하면 각 문자열의 ...",
         "強力反權": "... 기간 나의 지향 기조를 정의하는 [[Vocab|단어]]를 찾아왔다.",
+        "과거의 영광 (2016-2018)": "... 있는 것일지도 모른다. 민사고에는 '내미'라는 [[Vocab|단어]]가 있다. '내신에 미친 사람'이라는 뜻이다. ...",
         "도메인 찾아 삼만리": "- chosh라는 [[Vocab|단어]]는 Urban Dictionary에 부정적인 의미로 등록되어 ...",
         "배달의민족 FE 개발자가 일하는 법 발표": "... 10년간 버드 워드 (업계에서 회자되는 [[Vocab|단어들]])로 애자일, 워터폴 등을 들어보았을 것이다. ...",
         "이무기 기업, 청룡 기업": "Unicorn|유니콘 기업이라는 [[Vocab|단어]]는 마치 성공이 정해진 양 너무 ...",
@@ -6543,6 +6553,12 @@ export const backlinks = {
         "Feature": "... the model's performance and reduce [[Overfitting]].",
         "Products Evolves Barely Enough to Solve Inconveniences": "... The Market Economy denies product [[overfitting]].",
         "Project Core ML Foundation": "... of dimensionality & Prone to [[overfitting]]"
+    },
+    "과거의 영광 (2016-2018)": {
+        "2023-09-05": "- [[과거의 영광 (2016-2018)]]",
+        "2023-09-11": "- [[과거의 영광 (2016-2018)]]",
+        "과목우수상": "... 어느정도 큰 교훈이 됐다고 생각한다. [[과거의 영광 (2016-2018)]]",
+        "역사의 집대성": "- [[과거의 영광 (2016-2018)]]"
     },
     "Native Language": {
         "2022-06-28": "... gap between thinking in the [[native language]]?",
@@ -10771,6 +10787,9 @@ export const backlinks = {
     },
     "D815DD.jpeg": {
         "2022-07-12": "![[D815DD.jpeg]]"
+    },
+    "29DE9C.png": {
+        "2023-09-11": "![[29DE9C.png]]"
     },
     "i18n": {
         "2022-10-11": "Merged 2! docs: Add Korean [[i18n]] support #31"
