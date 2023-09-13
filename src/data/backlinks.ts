@@ -1292,6 +1292,9 @@ export const backlinks = {
         "이루다": "... 한겨레모바일 이루다 개발사, 10년 전부터 [[KakaoTalk|카톡]] 수집…최대 600만명 데이터",
         "일일일": "  - Ex) domain, [[kakaotalk]], website..."
     },
+    "Yang Liu et al. Vertical Federated Learning": {
+        "Project Florence": "- [ ] [[Yang Liu et al. Vertical Federated Learning]]"
+    },
     "0104 Maximum Depth of Binary Tree": {
         "Coding Tests": "- [x] [[0104 Maximum Depth of Binary Tree]]"
     },
@@ -1347,6 +1350,9 @@ export const backlinks = {
     "Memex is more than a Memex": {
         "2022-10-20": "- [[Memex is more than a Memex]]"
     },
+    "Jose Luis Ambite et al. Secure & Private Federated Neuroimaging": {
+        "Project Florence": "- [ ] [[Jose Luis Ambite et al. Secure & Private Federated Neuroimaging]]"
+    },
     "Jira": {
         "Linear": "... service, like Height (App), or [[Jira]]"
     },
@@ -1358,6 +1364,7 @@ export const backlinks = {
         "AT protocol": "AT Protocol is not a [[blockchain]] nor uses blockchain technology. It's ...",
         "Ethereum RPC as a Service": "... you query data on the [[blockchain]]. [[AWS]] offers a similar product, ...",
         "Financial Technology": "... delivering financial services. AI|Artificial intelligence, [[Blockchain]], [[Cloud computing]], and big data ...",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- Can use [[blockchain]] for profit allocation in a ...",
         "Universal Identity": "- [[Blockchain]] wallets can be one potential ...",
         "Web3": "- Censorship-resistant\" [[blockchain]] social networks became saturated with ..."
     },
@@ -1717,6 +1724,9 @@ export const backlinks = {
         "Search-based Tools for Thought": "- [[Search Engine Indexing Your Life]]",
         "Thesephist Work Case Study": "### Monocle: [[Search Engine Indexing Your Life]]"
     },
+    "Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning": {
+        "Project Florence": "- [ ] [[Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning]]"
+    },
     "Person 1E6ABA": {
         "2022-11-24": "- [[Person 1E6ABA]]",
         "Project PEOPLE": "- [[Person 1E6ABA]]"
@@ -1821,7 +1831,8 @@ export const backlinks = {
         "2023-06-02": "- [[Project Florence]]",
         "2023-08-18": "- [[Project Florence]]",
         "2023-08-28": "- [[Project Florence]]",
-        "2023-09-07": "- [[Project Florence]]"
+        "2023-09-07": "- [[Project Florence]]",
+        "2023-09-12": "- [[Project Florence]]"
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
@@ -2642,6 +2653,9 @@ export const backlinks = {
     },
     "Separation of Computer Scientists and Computer Technologists": {
         "2022-08-24": "- [[Separation of Computer Scientists and Computer Technologists]]"
+    },
+    "Kang Wei et al. Vertical Federated Learning, Challenges, Methodologies and Experiments": {
+        "Project Florence": "- [ ] [[Kang Wei et al. Vertical Federated Learning, Challenges, Methodologies and Experiments]]"
     },
     "Twitter": {
         "2022-06-21": "[[Twitter]] implemented a more strict agile ...",
@@ -4456,6 +4470,7 @@ export const backlinks = {
         "On-Premise": "Opposite of [[Cloud Computing]]",
         "OpenAI enthroned as the Levis of Tech": "... made an enormous demand for [[cloud computing]] services like AWS. [[OpenAI]] just ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "... 것처럼, 디지털 혁신은 AWS와 같은 [[Cloud Computing|클라우드]] 컴퓨팅 서비스에 대한 엄청난 수요를 ...",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "Aggregate data, use [[cloud computing]] to compute models, then use ...",
         "WebNPU API를 상상하다": "Someday|언젠가 AI 네이티브(우리 [[Cloud Computing|클라우드]] 네이티브처럼)가 표준이 되면, 특히 웹 ..."
     },
     "당근미니 케이스 스터디": {
@@ -5004,6 +5019,10 @@ export const backlinks = {
         "Threads (Service)": "... interoperate with the AT protocol ([[Bluesky]]), [[ActivityPub]] protocol ([[Mastodon]]), and the ...",
         "Universal Chat App": "... the Musk-Twitter Incident, Dorsey founded [[Bluesky]]. [[AT Protocol]] is actively maintained ..."
     },
+    "Edge Computing": {
+        "2023-09-12": "- [[Edge Computing]]",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### [[Edge Computing]]"
+    },
     "Inliner": {
         "2022-10-04": "- [[Inliner]]"
     },
@@ -5059,6 +5078,9 @@ export const backlinks = {
         "OpenAI enthroned as the Levis of Tech": "- Fewer expensive [[On-Premise]] Engineers — Gone are the ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "- 값비싼 [[On-Premise|온프레미스]] 엔지니어 감소 — 서버를 구성하고 ...",
         "Person A3BA1A": "Some customers require [[on-premise]] hardware, requiring us to adapt ..."
+    },
+    "Yang Liu et al. Asymmetrical Vertical Federated Learning": {
+        "Project Florence": "- [ ] [[Yang Liu et al. Asymmetrical Vertical Federated Learning]]"
     },
     "Updating Listmonk": {
         "2023-08-11": "- [[Updating Listmonk]]"
@@ -5144,6 +5166,9 @@ export const backlinks = {
     "Researcher": {
         "Research Paper NPM System": "... It's an npm system for [[Researcher|Researchers]]. Citations are npm `install`s. Embedded ...",
         "Wael AbdAlmageed": "- [[Researcher]] at [[University of Southern California]]"
+    },
+    "Qiang Yang et al. Chapter 5 Vertical Federated Learning": {
+        "Project Florence": "- [ ] [[Qiang Yang et al. Chapter 5 Vertical Federated Learning]]"
     },
     "3D": {
         "2022-10-21": "- [[3D]]",
@@ -6227,6 +6252,7 @@ export const backlinks = {
         "Horizontal Federated Learning": "... used in sectors like healthcare, [[finance]], and telecommunications. Using Horizontal Federated ...",
         "Monte Carlo Algorithm": "... Used in varied fields like [[finance]], physics, game theory, and [[graphics]], ...",
         "Nuclear Fission": "... directed the Economy, Environment, and [[Finance]] Ministries to develop a legal ...",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### [[Finance]]",
         "Supergravity Product": "... 아이디어는 보통 <br/>- 작은 아이디어 ([[Finance|금융]]수퍼앱x 친구에게 송금쉬운 앱o)",
         "Tech Now Pay Later": "... we learn a thing in [[Finance]].",
         "Web3": "... \"invest\" into the \"future of [[finance]]\", the \"future of the web\", ...",
@@ -6461,7 +6487,7 @@ export const backlinks = {
         "Federated Transfer Learning": "... an essential extension of existing [[Federated Machine Learning|federated learning]] systems because it deals with ...",
         "Horizontal Federated Learning": "Horizontal [[Federated Machine Learning|Federated Learning]], or sample-based [[Federated Machine Learning|federated ...",
         "Indirect Information Leakage": "[[Federated Machine Learning|Federated Learning]] is a [[ML|machine learning]] approach ...",
-        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### First [[Federated Machine Learning|FML]] framework by [[Google]], 2016",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "## First [[Federated Machine Learning|FML]] framework by [[Google]], 2016",
         "Vertical Federated Learning": "Vertical [[Federated Machine Learning|Federated Learning]], or [[feature]]-based [[Federated Machine Learning|federated ...",
         "honest-but-curious": "... considered in the context of [[Federated Machine Learning|Federated Learning]] ([[Federated Machine Learning|FL]]) and cryptographic ..."
     },
@@ -7266,6 +7292,9 @@ export const backlinks = {
     "Project Heimdall Random Names": {
         "Project Heimdall": "- [[Project Heimdall Random Names]]"
     },
+    "Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning": {
+        "Project Florence": "- [ ] [[Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning]]"
+    },
     "Apple vs Spotify": {
         "2022-10-27": "### [[Apple vs Spotify]]"
     },
@@ -7350,6 +7379,9 @@ export const backlinks = {
     },
     "elevatorpitch.com": {
         "2022-12-20": "- [[elevatorpitch.com]]"
+    },
+    "Daniele Romanini et al. PyVertical": {
+        "Project Florence": "- [ ] [[Daniele Romanini et al. PyVertical]]"
     },
     "Rauno": {
         "2022-12-04": "- [[Rauno]]",
@@ -7630,6 +7662,9 @@ export const backlinks = {
     "Visual Studio Code": {
         "Jetbrains Fleet": "- a potential alternative to [[Visual Studio Code]]",
         "Tailwind CSS 톺아보기": "... `className`의 순서가 섞인다. 이 문제는 [[Visual Studio Code|VS Code]]를 사용할 경우 Headwind라는 확장 프로그램으로 ..."
+    },
+    "Yuncheng Wu et al. Privacy-Preserving Vertical Federated Learning for Tree-based Models": {
+        "Project Florence": "- [ ] [[Yuncheng Wu et al. Privacy-Preserving Vertical Federated Learning for Tree-based Models]]"
     },
     "Jest": {
         "Configuring Jest for React Native": "- Configuring [[Jest]] for [[React Native]]",
@@ -8625,6 +8660,9 @@ export const backlinks = {
         "2022-08-01": "- [[Programmable Web]]",
         "Matt Rickard": "- [[Programmable Web]]"
     },
+    "Siwei Feng et al. Multi-Participant Multi-Class Vertical Federated Learning": {
+        "Project Florence": "- [ ] [[Siwei Feng et al. Multi-Participant Multi-Class Vertical Federated Learning]]"
+    },
     "App Store": {
         "Bondee": "... 2023, and has topped multiple [[app store]] charts across Asia.",
         "CalliFontia": "... 수 있는 마스터파일 $299.99 (or [[App Store|앱스토어]] 상한선 있는가?)",
@@ -9164,6 +9202,9 @@ export const backlinks = {
     "Dynamic Island": {
         "2022-09-30": "### [[Dynamic Island]] Concepts for Desktops",
         "Dynamic Island on the Web": "- [[Dynamic Island]] on the Web"
+    },
+    "Shengwen Yang et al. Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator": {
+        "Project Florence": "- [ ] [[Shengwen Yang et al. Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator]]"
     },
     "Requesting Review in Swift": {
         "2023-01-22": "- [[Requesting Review in Swift]]"
@@ -10151,6 +10192,7 @@ export const backlinks = {
         "Learning Execution Semantics from Micro-Traces for Binary Similarity": "- Teach [[AI]] approximate learning on binary code ...",
         "Letter to Mr. Matt Rickard on 2022-11-28": "... idea of dogs playing frisbee, [[AI]] will put the following as ...",
         "MAGI": "하지만 무엇보다 현대 [[AI]]의 학습 기법인 [[Ensemble learning|앙상블 학습]]과 ...",
+        "ML": "... learning is a type of [[AI]] that uses historical data to ...",
         "Magician": "... design with the power of [[AI]] to do everything from copywriting ...",
         "MetroPunk": "... 같은 문제를 다룬다. 메트로펑크에서는 초보적인 [[AI]]와 발달한 스마트폰 시장 등의 근미래적 ...",
         "Microsoft": "... Google has been exploring the [[AI]] ecosystem. Consequently, the increased demand ...",
@@ -10349,6 +10391,7 @@ export const backlinks = {
         "Preservation of Data": "... scripts, sometimes curl, and MySQL [[database]] to store the results.",
         "Prisma": "Prisma is an open-source [[database]] toolkit developed to make it ...",
         "Proposal of Research 2023-01-10": "... the pixel combinations on the [[database]]. So, I explored clamping the ...",
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### Federated [[Database]] Systems",
         "React": "... functionality from UIUX|UI to the [[database]], with extra features such as ...",
         "Redwood.js": "... (ORM) solution to manage the [[database]] layer. Prisma helps developers build ...",
         "Render.com": "... Back-end|backend-intensive tasks such as migrating [[database]] data in bulk.",
