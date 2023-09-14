@@ -1833,7 +1833,7 @@ export const backlinks = {
         "2023-08-28": "- [[Project Florence]]",
         "2023-09-07": "- [[Project Florence]]",
         "2023-09-12": "- [[Project Florence]]",
-        "2023-09-14": "[[Project Florence]]"
+        "2023-09-14": "- [[Project Florence]]"
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
@@ -1921,6 +1921,7 @@ export const backlinks = {
         "2022-10-13": "- [[Extracranial]]",
         "2022-10-18": "- [[Extracranial]]",
         "2022-11-07": "- [[Extracranial]]",
+        "2023-01-27": "I had to migrate [[Extracranial]] to [[Cloudflare Pages]] for [[Vercel]] ...",
         "2023-03-04": "- [[Extracranial]]",
         "Letter to Mr. Stephan Ango on 2022-10-19": "... Memex or, in my term, [[Extracranial]] at https://cho.sh.",
         "Memex": "Synonym with [[Extracranial]], [[Second Brain|Digital Brain]], [[Second Brain]], ...",
@@ -1929,8 +1930,7 @@ export const backlinks = {
         "Plateau of Latent Potential": "... could be a form of [[Extracranial]], a [[Memex]], or even [[Conversational ...",
         "Preservation of Data": "... important concept for Memex and [[Extracranial]]",
         "Rauno": "Interesting [[Extracranial]] [[Tools for Thought]] ([[Data Capturers]])",
-        "Stephan Ango": "- [[extracranial]] @ Stephan Ango",
-        "Vannevar Bush": "... Early creator of Memex and [[Extracranial]]."
+        "Stephan Ango": "- [[extracranial]] @ Stephan Ango"
     },
     "Virtual Reality": {
         "Augmented Reality": "[[Virtual Reality]]",
@@ -4185,6 +4185,7 @@ export const backlinks = {
         "2022-07-21": "... help of note-taking or some [[second brain]]?",
         "2023-03-04": "- [[Second Brain]]",
         "Building a Second Brain": "The so-called [[second brain]] is recreating the same concept ...",
+        "Extracranial": "- [[Second Brain]]",
         "In search of my domain": "... fully customizable digital garden & [[second brain]]. I laid out my vision ...",
         "Memex": "Synonym with Extracranial, [[Second Brain|Digital Brain]], [[Second Brain]], etc.",
         "PKM": "| [[Second Brain]]   | Implementation for ..."
@@ -4493,8 +4494,9 @@ export const backlinks = {
         "Matt Rickard": "- [[Post Git]]"
     },
     "Vannevar Bush": {
+        "2023-09-14": "- [[Vannevar Bush]]",
         "As We May Think": "... is a 1945 essay by [[Vannevar Bush]], described as visionary and influential, ...",
-        "Memex": "... 친밀한 보조 장치일 것입니다. — [[Vannevar Bush|버니바 부시]].",
+        "Memex": "... supplement to his memory. — [[Vannevar Bush]].",
         "Tools Must Vanish": "... the Zettelkasten of the next [[Vannevar Bush]]; it's always a setup with ..."
     },
     "Era of Invites": {
@@ -7177,9 +7179,6 @@ export const backlinks = {
         "2023-03-16": "- [[End of History Fallacy]]",
         "Newtonian Correspondence": "| 03-16 | `EN` [[End of History Fallacy]] <br/> `KO` [[역사의 종말 오류]] ..."
     },
-    "As We May Think": {
-        "Memex": "> In [[As We May Think]], [[Vannevar Bush]] describes a memex ..."
-    },
     "K-Pop": {
         "2023-03-03": "- [[K-Pop]]",
         "CELLO": "- [[K-Pop|케이팝]]",
@@ -8601,6 +8600,7 @@ export const backlinks = {
     },
     "Memex": {
         "2022-10-17": "- [[Memex]]",
+        "2023-09-14": "- [[Memex]]",
         "As We May Think": "... with his concept of the [[memex]] that would make knowledge more ...",
         "In-house and Free Market": "... should be more accessible. This [[Memex]] is one branch of that ...",
         "Letter to Mr. Stephan Ango on 2022-10-19": "I also have a [[Memex]] or, in my term, [[Extracranial]] ...",
