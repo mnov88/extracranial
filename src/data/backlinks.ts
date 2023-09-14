@@ -1260,6 +1260,7 @@ export const backlinks = {
     "Secure Multi-Party Computation": {
         "Indirect Information Leakage": "4. Advanced Cryptographic Techniques. [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMC]]) and [[Homomorphic ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Secure Multi-Party Computation]]. jointly compute over their inputs ...",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "- Secure Multiparty Computation ([[Secure Multi-Party Computation|SMC]]) — Enables multiple parties to ...",
         "Vertical Federated Learning": "... employing advanced cryptographic techniques like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]) or [[Homomorphic ...",
         "honest-but-curious": "... Learning|FL) and cryptographic protocols like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]). In this ..."
     },
@@ -2409,6 +2410,7 @@ export const backlinks = {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "  - [[ML]] Trainer",
         "SHAP": "... explain the output of any [[ML|machine learning]] model. It connects optimal credit ...",
         "Screenshot as an API": "- With [[ML]] advancements, screenshots are now a ...",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "### Privacy in General [[ML|Machine Learning]]",
         "Vertical Federated Learning": "... collaborate to train a shared [[ML|machine learning]] model without directly exchanging their ...",
         "WebNPU API를 상상하다": "... 이미 Apple|애플의 Neural Engine으로 On-Device|온디바이스 [[ML]] 기술의 시작을 관찰하고 있다. 여기에는 ...",
         "honest-but-curious": "... parties collaborate to build a [[ML|machine-learning]] model without sharing their raw ...",
@@ -4955,7 +4957,8 @@ export const backlinks = {
         "Data Science": "... ML|machine learning, big data, computational [[statistics]], and analytics.",
         "Normal Tables": "In [[statistics]], a normal table, also known ...",
         "Q Function": "In probability theory and [[statistics]], the Q function is the ...",
-        "Standard Normal": "In [[statistics]], the term \"standard normal\" usually ..."
+        "Standard Normal": "In [[statistics]], the term \"standard normal\" usually ...",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "... as exploratory data analysis, aggregate [[statistics]], or reinforcement learning."
     },
     "Porting a Chrome Extension to Firefox Add-on": {
         "2022-11-19": "  - [[Porting a Chrome Extension to Firefox Add-on]]"
@@ -5024,7 +5027,8 @@ export const backlinks = {
     },
     "Edge Computing": {
         "2023-09-12": "- [[Edge Computing]]",
-        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### [[Edge Computing]]"
+        "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### [[Edge Computing]]",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "- [[Edge Computing]] is getting big"
     },
     "Inliner": {
         "2022-10-04": "- [[Inliner]]"
@@ -6491,6 +6495,7 @@ export const backlinks = {
         "Horizontal Federated Learning": "Horizontal [[Federated Machine Learning|Federated Learning]], or sample-based [[Federated Machine Learning|federated ...",
         "Indirect Information Leakage": "[[Federated Machine Learning|Federated Learning]] is a [[ML|machine learning]] approach ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "## First [[Federated Machine Learning|FML]] framework by [[Google]], 2016",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "- [[Federated Machine Learning|FL]] challenge this",
         "Vertical Federated Learning": "Vertical [[Federated Machine Learning|Federated Learning]], or [[feature]]-based [[Federated Machine Learning|federated ...",
         "honest-but-curious": "... considered in the context of [[Federated Machine Learning|Federated Learning]] ([[Federated Machine Learning|FL]]) and cryptographic ..."
     },
@@ -7286,6 +7291,7 @@ export const backlinks = {
         "Indirect Information Leakage": "... Computation (Secure Multi-Party Computation|SMC) and [[Homomorphic Encryption]] can be used for more ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Homomorphic Encryption]]. allows computations on encrypted data ...",
         "Secure Multi-Party Computation": "3. [[Homomorphic Encryption]]. A kind of encryption that ...",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "- [[Homomorphic Encryption]] — Allows computation on encrypted ...",
         "Vertical Federated Learning": "... Computation (Secure Multi-Party Computation|SMPC) or [[Homomorphic Encryption]] to generate an updated global ...",
         "honest-but-curious": "2. [[Homomorphic Encryption]]. Allows computation on encrypted data, ..."
     },
@@ -7799,6 +7805,7 @@ export const backlinks = {
         "Federated Machine Learning": "To preserve privacy, [[differential privacy]] adds noise to the updates ...",
         "Indirect Information Leakage": "3. [[Differential Privacy]] Violations. [[Differential privacy]] aims to ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Differential Privacy]]. Add random noise to the ...",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "- [[Differential Privacy]] — Popular for its strong ...",
         "honest-but-curious": "... incorporating specific privacy-preserving techniques like [[differential privacy]] or secure aggregation, designed to ..."
     },
     "서비스 시밍": {
@@ -8356,6 +8363,7 @@ export const backlinks = {
         "Project Heimdall": "... Honestly, the Go To Market|GTM [[strategy]] for Heimdall is a considerable ...",
         "Proposal of Research 2023-03-28": "... PI attack techniques and mitigation [[Strategy|strategies]] to identify gaps in existing ...",
         "Quoridor Game": "... as well as a previous [[strategy]] using a GA.",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "#### [[Strategy|Strategies]]",
         "Vanity Metrics": "... as they can inform your [[strategy]] and tactics.",
         "Willpower": "... fussed about money. The low-stress [[strategy]]. stay within your means and ...",
         "Winning America": "What are some potential [[Strategy|strategies]] that [[대한민국|Korea]] can 'win [[United ...",
@@ -8807,7 +8815,8 @@ export const backlinks = {
         "Poisson Approximation": "approximates binomial [[distribution]].",
         "Probability": "- [[Distribution]]",
         "Q Function": "... probability of the standard normal [[distribution]], also known as the complementary ...",
-        "Ridi": "... 대한민국|Korean Unicorn specializing in eBook [[distribution]], online contents & intellectual properties. ..."
+        "Ridi": "... 대한민국|Korean Unicorn specializing in eBook [[distribution]], online contents & intellectual properties. ...",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "... don't drastically alter the output [[distribution]]."
     },
     "Fediverse": {
         "2022-11-30": "- The [[Fediverse]] is designed for subsidiarity. People ...",
@@ -9067,6 +9076,7 @@ export const backlinks = {
         "Cauchy": "... distribution has no mean or [[variance]], as the [[moments]] do not ...",
         "Interaction Effect": "... regression analysis or analysis of [[variance]] (ANOVA), but the basic idea ...",
         "Standard Normal": "... distribution with mean 0 and [[variance]] 1. The symbol $Z$ denotes ...",
+        "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "... aim to reduce model performance [[variance]] across devices.",
         "Weak Law of Large Number": "- [[Variance]] of the Sample Mean: $\\mathbb{V}[\\overline{X^n}]$"
     },
     "배달의민족 FE 개발자가 일하는 법 발표": {
