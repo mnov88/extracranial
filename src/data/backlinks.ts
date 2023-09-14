@@ -7944,7 +7944,7 @@ export const backlinks = {
         "하늘땅사람 업데이트 기록": "- [[iOS]] 15에서도 하늘땅사람 키보드를 사용할 수 ..."
     },
     "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": {
-        "Project Florence": "- [ ] [[Tian Li et al. Federated Learning Challenges, Methods, and Future Directions]]"
+        "Project Florence": "- [x] [[Tian Li et al. Federated Learning Challenges, Methods, and Future Directions]]"
     },
     "Ghost 테마를 자동 배포하는 방법": {
         "2022-11-19": "  - [[Ghost 테마를 자동 배포하는 방법]]"
