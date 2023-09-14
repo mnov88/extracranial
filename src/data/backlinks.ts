@@ -775,6 +775,7 @@ export const backlinks = {
     },
     "Winning America": {
         "2023-08-24": "- [[Winning America]]",
+        "Neo Korea": "- [[Winning America]]",
         "네오 코리안 르네상스": "... 국가적 브랜드를 쇄신할 수 있으며, [[Winning America|미국을 이길]] 수 있다.",
         "학자 및 직계 가족의 의료보장제": "[[Winning America]]. 해외의 인재들이 [[United States of ..."
     },
@@ -3106,6 +3107,8 @@ export const backlinks = {
     "Neo Korea": {
         "2022-12-20": "- [[Neo Korea]]",
         "2023-01-09": "- [[Neo Korea]]",
+        "2023-09-14": "- [[Neo Korea]]",
+        "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[Neo Korea|네오 코리안]] [[르네상스]]가 필요하다.",
         "의료 인공지능과 의대 쏠림": "[[Neo Korea]]으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 ..."
     },
     "Readings": {
@@ -4838,7 +4841,8 @@ export const backlinks = {
         "WebNPU API를 상상하다": "... 필요가 없다. WebNPU는 또한 개발자들이 [[Write Once Run Everywhere]]를 이루어주기 때문에 개발 프로세스를 단순화할 ..."
     },
     "네오 코리안 르네상스": {
-        "2023-09-09": "- [[네오 코리안 르네상스]]"
+        "2023-09-09": "- [[네오 코리안 르네상스]]",
+        "Neo Korea": "- [[네오 코리안 르네상스]]"
     },
     "Chrome": {
         "2022-09-30": "### [[Chrome]] `renderBlockingStatus`",
@@ -6364,7 +6368,8 @@ export const backlinks = {
         "Tools for Thought": "- [[Search-based Tools for Thought]]. indexes user's activity in the ..."
     },
     "학자 및 직계 가족의 의료보장제": {
-        "2023-08-24": "- [[학자 및 직계 가족의 의료보장제]]"
+        "2023-08-24": "- [[학자 및 직계 가족의 의료보장제]]",
+        "Neo Korea": "- [[학자 및 직계 가족의 의료보장제]]"
     },
     "Data Capturers": {
         "Rauno": "Interesting Extracranial Tools for Thought ([[Data Capturers]])",
@@ -6887,7 +6892,7 @@ export const backlinks = {
         "30-Day Tweet Test (Harry Stebbings)": "... | 🇬🇧 Renaissance <br/> 🇰🇷 [[르네상스]]      ...",
         "Commonplace Book": "... 일종의 개인 일기장이다. 이 관행은 [[르네상스]] 시대부터 사용되어 왔으며, 개인이 시간이 ...",
         "Renaissance": "[[르네상스]]",
-        "네오 코리안 르네상스": "... 재산권을 뽑아내기 위해선 네오 코리안 [[르네상스]]가 필요하다.",
+        "네오 코리안 르네상스": "... 뽑아내기 위해선 Neo Korea|네오 코리안 [[르네상스]]가 필요하다.",
         "역사의 종말 오류": "... 주제 중 하나이다. 중세를 바라보는 [[르네상스]]적 관점과 르네상스를 바라보는 현대적 관점 ..."
     },
     "Open Graph Image as a Service": {
