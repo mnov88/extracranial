@@ -1832,7 +1832,8 @@ export const backlinks = {
         "2023-08-18": "- [[Project Florence]]",
         "2023-08-28": "- [[Project Florence]]",
         "2023-09-07": "- [[Project Florence]]",
-        "2023-09-12": "- [[Project Florence]]"
+        "2023-09-12": "- [[Project Florence]]",
+        "2023-09-14": "[[Project Florence]]"
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
