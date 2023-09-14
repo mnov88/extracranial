@@ -1757,6 +1757,7 @@ export const backlinks = {
         "Proposal of Research 2023-03-28": "Inspired by \"[[Library of Babel]]\" by Jorge Luis Borges, this ..."
     },
     "Horizontal Federated Learning": {
+        "Daniele Romanini et al. PyVertical": "... which differs from the typical [[horizontal federated learning]]. While horizontal partitioning distributes the ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Horizontal Federated Learning]]. sample-based [[Federated Machine Learning|FL]]",
         "Vertical Federated Learning": "... exchanging their raw data. Unlike [[Horizontal Federated Learning]], where different parties have different ..."
     },
@@ -1946,6 +1947,7 @@ export const backlinks = {
         "0001 Two Sum": "I used [[Python]] Dictionary to store complementing values. ...",
         "1046 Last Stone Weight": "- Space: $O(1)$ in [[Python]]",
         "Coding Tests": "- Will use [[Python]] (main language) and [[C++]] (supplementary ...",
+        "Daniele Romanini et al. PyVertical": "- PyVertical is a [[Python]] framework that utilizes SplitNNs and ...",
         "Get Job Done": "  - Building [[Python]] Data Parser",
         "Grammarly Work Note 2023-06-07": "Functions are either in [[Python]] or [[Scala]]",
         "Heap (Computer Systems)": "On the other hand, Java, [[Python]], or other higher-level languages use ...",
@@ -2385,11 +2387,12 @@ export const backlinks = {
         "AIs.txt": "... a mental model of a [[ML|machine learning]] permission system.",
         "Artifact": "... and Mike Krieger. It uses [[ML|machine learning]] to understand users' interests and ...",
         "Can we ever build TikTok for Text": "... news feed app that uses [[ML|machine learning]] to understand users' interests and ...",
+        "Daniele Romanini et al. PyVertical": "... data in isolated silos for [[ML|machine learning]] is highlighted. Issues arise, especially ...",
         "Data Science": "... is related to data mining, [[ML|machine learning]], big data, computational [[statistics]], and ...",
         "Databricks": "... data engineering, data exploration, and [[ML|machine learning]] tasks, all in a collaborative ...",
         "Databricks AI Summit 2023 Block Session": "... historical data, which fuels the [[ML|machine learning]] platform.",
         "Deepfake": "... deepfakes leverage powerful techniques from [[ML|machine learning]] and [[AI|artificial intelligence]] to manipulate ...",
-        "Feature": "In [[ML|machine learning]], a \"feature\" is an individual ...",
+        "Feature": "In [[ML|machine learning]], a feature is an individual ...",
         "Federated Machine Learning": "Federated learning is a privacy-preserving [[ML|machine learning]] approach that enables multiple parties ...",
         "Generalist": "... orchestrators rebased on Kubernetes), the [[ML|machine learning]] stack (cloud-native distributed training and ...",
         "Grammarly": "- [[ml]] team",
@@ -2797,6 +2800,7 @@ export const backlinks = {
         "Socket": "- used in [[Internetworking]]"
     },
     "Vertical Federated Learning": {
+        "Daniele Romanini et al. PyVertical": "... introduces the PyVertical framework for [[vertical federated learning]] using split neural networks (SplitNNs). ...",
         "Project Florence": "... is a research project on [[Vertical Federated Learning|VFL]]",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Vertical Federated Learning]]. [[feature]]-based [[Federated Machine Learning|FL]]"
     },
@@ -4325,6 +4329,7 @@ export const backlinks = {
         "Coding Tests": "- [[Project]]",
         "Confession in Slack": "Someday [[Project]] idea",
         "Cube": "Someday [[Project]]. [[Instagram|인스타]] 스토리/포스트 글 업로드용 글쓰기 ...",
+        "Daniele Romanini et al. PyVertical": "... been launched as an open-source [[project]] to help further research in ...",
         "Developing Review Notes for Obsidian": "... 공허한 느낌이 들어 미뤄왔던 사이드 [[Project|프로젝트]]를 해본다.",
         "Digital Bookmarks for Physical Books": "Someday [[Project]]. Can we bookmark physical books ...",
         "Dynamic Island on the Web": "- Done [[Project]]",
@@ -7387,7 +7392,7 @@ export const backlinks = {
         "2022-12-20": "- [[elevatorpitch.com]]"
     },
     "Daniele Romanini et al. PyVertical": {
-        "Project Florence": "- [ ] [[Daniele Romanini et al. PyVertical]]"
+        "Project Florence": "- [x] [[Daniele Romanini et al. PyVertical]]"
     },
     "Rauno": {
         "2022-12-04": "- [[Rauno]]",
@@ -7802,6 +7807,7 @@ export const backlinks = {
     },
     "Differential Privacy": {
         "2023-04-19": "- [[Differential Privacy]]",
+        "Daniele Romanini et al. PyVertical": "... techniques like decentralized identities and [[differential privacy]].",
         "Federated Machine Learning": "To preserve privacy, [[differential privacy]] adds noise to the updates ...",
         "Indirect Information Leakage": "3. [[Differential Privacy]] Violations. [[Differential privacy]] aims to ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Differential Privacy]]. Add random noise to the ...",
@@ -9150,6 +9156,7 @@ export const backlinks = {
         "조선왕조실록": "[[Someday]] [[Project]]. Fast and Modern version ..."
     },
     "Feature": {
+        "Daniele Romanini et al. PyVertical": "... that different entities own different [[Feature|features]] of the same dataset. Private ...",
         "Federated Transfer Learning": "... differ in their samples and [[feature]] space.",
         "Horizontal Federated Learning": "... points) but share the same [[feature]] set.",
         "Project Florence": "... Each site may have different [[Feature|features]]/columns in their data, but some ...",
