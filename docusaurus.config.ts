@@ -9,8 +9,8 @@ import analytics from './config/ga.config'
 import darkCodeTheme from 'prism-react-renderer/themes/dracula'
 
 const config: Config = {
-  title: 'Sunghyun Cho',
-  tagline: 'I am Sunghyun Cho, traveling the WWW.',
+  title: 'DSA',
+  tagline: 'EUDSA',
   titleDelimiter: '@',
   url: 'https://cho.sh',
   baseUrl: '/',
@@ -106,12 +106,6 @@ const config: Config = {
       async: true,
       defer: true,
       'data-collect-dnt': 'true',
-    },
-    {
-      src: 'https://static.cloudflareinsights.com/beacon.min.js',
-      defer: true,
-      async: true,
-      'data-cf-beacon': '{"token": "53278117b8c44edeb9eeb9af447d5529"}',
     },
     {
       src: 'https://platform.twitter.com/widgets.js',
